@@ -1,0 +1,88 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,sex,gender,homeworld,species,films,vehicles,starships
+Luke Skywalker,172.0,77.0,blond,fair,blue,19.0,male,masculine,Tatooine,Human,"A New Hope, The Empire Strikes Back, Return of the Jedi, Revenge of the Sith, The Force Awakens","Snowspeeder, Imperial Speeder Bike","X-wing, Imperial shuttle"
+C-3PO,167.0,75.0,Unknown,gold,yellow,112.0,none,masculine,Tatooine,Droid,"A New Hope, The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+R2-D2,96.0,32.0,Unknown,"white, blue",red,33.0,none,masculine,Naboo,Droid,"A New Hope, The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith, The Force Awakens",None,None
+Darth Vader,202.0,136.0,none,white,yellow,41.9,male,masculine,Tatooine,Human,"A New Hope, The Empire Strikes Back, Return of the Jedi, Revenge of the Sith",None,TIE Advanced x1
+Leia Organa,150.0,49.0,brown,light,brown,19.0,female,feminine,Alderaan,Human,"A New Hope, The Empire Strikes Back, Return of the Jedi, Revenge of the Sith, The Force Awakens",Imperial Speeder Bike,None
+Owen Lars,178.0,120.0,"brown, grey",light,blue,52.0,male,masculine,Tatooine,Human,"A New Hope, Attack of the Clones, Revenge of the Sith",None,None
+Beru Whitesun Lars,165.0,75.0,brown,light,blue,47.0,female,feminine,Tatooine,Human,"A New Hope, Attack of the Clones, Revenge of the Sith",None,None
+R5-D4,97.0,32.0,Unknown,"white, red",red,52.0,none,masculine,Tatooine,Droid,A New Hope,None,None
+Biggs Darklighter,183.0,84.0,black,light,brown,24.0,male,masculine,Tatooine,Human,A New Hope,None,X-wing
+Obi-Wan Kenobi,182.0,77.0,"auburn, white",fair,blue-gray,57.0,male,masculine,Stewjon,Human,"A New Hope, The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith",Tribubble bongo,"Jedi starfighter, Trade Federation cruiser, Naboo star skiff, Jedi Interceptor, Belbullab-22 starfighter"
+Anakin Skywalker,188.0,84.0,blond,fair,blue,41.9,male,masculine,Tatooine,Human,"The Phantom Menace, Attack of the Clones, Revenge of the Sith","Zephyr-G swoop bike, XJ-6 airspeeder","Naboo fighter, Trade Federation cruiser, Jedi Interceptor"
+Wilhuff Tarkin,180.0,79.0,"auburn, grey",fair,blue,64.0,male,masculine,Eriadu,Human,"A New Hope, Revenge of the Sith",None,None
+Chewbacca,228.0,112.0,brown,unknown,blue,200.0,male,masculine,Kashyyyk,Wookiee,"A New Hope, The Empire Strikes Back, Return of the Jedi, Revenge of the Sith, The Force Awakens",AT-ST,"Millennium Falcon, Imperial shuttle"
+Han Solo,180.0,80.0,brown,fair,brown,29.0,male,masculine,Corellia,Human,"A New Hope, The Empire Strikes Back, Return of the Jedi, The Force Awakens",None,"Millennium Falcon, Imperial shuttle"
+Greedo,173.0,74.0,Unknown,green,black,44.0,male,masculine,Rodia,Rodian,A New Hope,None,None
+Jabba Desilijic Tiure,175.0,1358.0,Unknown,"green-tan, brown",orange,600.0,hermaphroditic,masculine,Nal Hutta,Hutt,"A New Hope, Return of the Jedi, The Phantom Menace",None,None
+Wedge Antilles,170.0,77.0,brown,fair,hazel,21.0,male,masculine,Corellia,Human,"A New Hope, The Empire Strikes Back, Return of the Jedi",Snowspeeder,X-wing
+Jek Tono Porkins,180.0,110.0,brown,fair,blue,52.0,Unknown,Unknown,Bestine IV,Human,A New Hope,None,X-wing
+Yoda,66.0,17.0,white,green,brown,896.0,male,masculine,Naboo,Yoda's species,"The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+Palpatine,170.0,75.0,grey,pale,yellow,82.0,male,masculine,Naboo,Human,"The Empire Strikes Back, Return of the Jedi, The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+Boba Fett,183.0,78.2,black,fair,brown,31.5,male,masculine,Kamino,Human,"The Empire Strikes Back, Return of the Jedi, Attack of the Clones",None,Slave 1
+IG-88,200.0,140.0,none,metal,red,15.0,none,masculine,Naboo,Droid,The Empire Strikes Back,None,None
+Bossk,190.0,113.0,none,green,red,53.0,male,masculine,Trandosha,Trandoshan,The Empire Strikes Back,None,None
+Lando Calrissian,177.0,79.0,black,dark,brown,31.0,male,masculine,Socorro,Human,"The Empire Strikes Back, Return of the Jedi",None,Millennium Falcon
+Lobot,175.0,79.0,none,light,blue,37.0,male,masculine,Bespin,Human,The Empire Strikes Back,None,None
+Ackbar,180.0,83.0,none,brown mottle,orange,41.0,male,masculine,Mon Cala,Mon Calamari,"Return of the Jedi, The Force Awakens",None,None
+Mon Mothma,150.0,79.0,auburn,fair,blue,48.0,female,feminine,Chandrila,Human,Return of the Jedi,None,None
+Arvel Crynyd,180.0,79.0,brown,fair,brown,52.0,male,masculine,Naboo,Human,Return of the Jedi,None,A-wing
+Wicket Systri Warrick,88.0,20.0,brown,brown,brown,8.0,male,masculine,Endor,Ewok,Return of the Jedi,None,None
+Nien Nunb,160.0,68.0,none,grey,black,52.0,male,masculine,Sullust,Sullustan,Return of the Jedi,None,Millennium Falcon
+Qui-Gon Jinn,193.0,89.0,brown,fair,blue,92.0,male,masculine,Naboo,Human,The Phantom Menace,Tribubble bongo,None
+Nute Gunray,191.0,90.0,none,mottled green,red,52.0,male,masculine,Cato Neimoidia,Neimodian,"The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+Finis Valorum,170.0,79.0,blond,fair,blue,91.0,male,masculine,Coruscant,Human,The Phantom Menace,None,None
+Padmé Amidala,185.0,45.0,brown,light,brown,46.0,female,feminine,Naboo,Human,"The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,"Naboo fighter, H-type Nubian yacht, Naboo star skiff"
+Jar Jar Binks,196.0,66.0,none,orange,orange,52.0,male,masculine,Naboo,Gungan,"The Phantom Menace, Attack of the Clones",None,None
+Roos Tarpals,224.0,82.0,none,grey,orange,52.0,male,masculine,Naboo,Gungan,The Phantom Menace,None,None
+Rugor Nass,206.0,79.0,none,green,orange,52.0,male,masculine,Naboo,Gungan,The Phantom Menace,None,None
+Ric Olié,183.0,79.0,brown,fair,blue,52.0,male,masculine,Naboo,Human,The Phantom Menace,None,Naboo Royal Starship
+Watto,137.0,79.0,black,"blue, grey",yellow,52.0,male,masculine,Toydaria,Toydarian,"The Phantom Menace, Attack of the Clones",None,None
+Sebulba,112.0,40.0,none,"grey, red",orange,52.0,male,masculine,Malastare,Dug,The Phantom Menace,None,None
+Quarsh Panaka,183.0,79.0,black,dark,brown,62.0,male,masculine,Naboo,Human,The Phantom Menace,None,None
+Shmi Skywalker,163.0,79.0,black,fair,brown,72.0,female,feminine,Tatooine,Human,"The Phantom Menace, Attack of the Clones",None,None
+Darth Maul,175.0,80.0,none,red,yellow,54.0,male,masculine,Dathomir,Zabrak,The Phantom Menace,Sith speeder,Scimitar
+Bib Fortuna,180.0,79.0,none,pale,pink,52.0,male,masculine,Ryloth,Twi'lek,Return of the Jedi,None,None
+Ayla Secura,178.0,55.0,none,blue,hazel,48.0,female,feminine,Ryloth,Twi'lek,"The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+Ratts Tyerel,79.0,15.0,none,"grey, blue",unknown,52.0,male,masculine,Aleen Minor,Aleena,The Phantom Menace,None,None
+Dud Bolt,94.0,45.0,none,"blue, grey",yellow,52.0,male,masculine,Vulpter,Vulptereen,The Phantom Menace,None,None
+Gasgano,122.0,79.0,none,"white, blue",black,52.0,male,masculine,Troiken,Xexto,The Phantom Menace,None,None
+Ben Quadinaros,163.0,65.0,none,"grey, green, yellow",orange,52.0,male,masculine,Tund,Toong,The Phantom Menace,None,None
+Mace Windu,188.0,84.0,none,dark,brown,72.0,male,masculine,Haruun Kal,Human,"The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+Ki-Adi-Mundi,198.0,82.0,white,pale,yellow,92.0,male,masculine,Cerea,Cerean,"The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+Kit Fisto,196.0,87.0,none,green,black,52.0,male,masculine,Glee Anselm,Nautolan,"The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,None
+Eeth Koth,171.0,79.0,black,brown,brown,52.0,male,masculine,Iridonia,Zabrak,"The Phantom Menace, Revenge of the Sith",None,None
+Adi Gallia,184.0,50.0,none,dark,blue,52.0,female,feminine,Coruscant,Tholothian,"The Phantom Menace, Revenge of the Sith",None,None
+Saesee Tiin,188.0,79.0,none,pale,orange,52.0,male,masculine,Iktotch,Iktotchi,"The Phantom Menace, Revenge of the Sith",None,None
+Yarael Poof,264.0,79.0,none,white,yellow,52.0,male,masculine,Quermia,Quermian,The Phantom Menace,None,None
+Plo Koon,188.0,80.0,none,orange,black,22.0,male,masculine,Dorin,Kel Dor,"The Phantom Menace, Attack of the Clones, Revenge of the Sith",None,Jedi starfighter
+Mas Amedda,196.0,79.0,none,blue,blue,52.0,male,masculine,Champala,Chagrian,"The Phantom Menace, Attack of the Clones",None,None
+Gregar Typho,185.0,85.0,black,dark,brown,52.0,Unknown,Unknown,Naboo,Human,Attack of the Clones,None,Naboo fighter
+Cordé,157.0,79.0,brown,light,brown,52.0,Unknown,Unknown,Naboo,Human,Attack of the Clones,None,None
+Cliegg Lars,183.0,79.0,brown,fair,blue,82.0,male,masculine,Tatooine,Human,Attack of the Clones,None,None
+Poggle the Lesser,183.0,80.0,none,green,yellow,52.0,male,masculine,Geonosis,Geonosian,"Attack of the Clones, Revenge of the Sith",None,None
+Luminara Unduli,170.0,56.2,black,yellow,blue,58.0,female,feminine,Mirial,Mirialan,"Attack of the Clones, Revenge of the Sith",None,None
+Barriss Offee,166.0,50.0,black,yellow,blue,40.0,female,feminine,Mirial,Mirialan,Attack of the Clones,None,None
+Dormé,165.0,79.0,brown,light,brown,52.0,female,feminine,Naboo,Human,Attack of the Clones,None,None
+Dooku,193.0,80.0,white,fair,brown,102.0,male,masculine,Serenno,Human,"Attack of the Clones, Revenge of the Sith",Flitknot speeder,None
+Bail Prestor Organa,191.0,79.0,black,tan,brown,67.0,male,masculine,Alderaan,Human,"Attack of the Clones, Revenge of the Sith",None,None
+Jango Fett,183.0,79.0,black,tan,brown,66.0,male,masculine,Concord Dawn,Human,Attack of the Clones,None,None
+Zam Wesell,168.0,55.0,blonde,"fair, green, yellow",yellow,52.0,female,feminine,Zolan,Clawdite,Attack of the Clones,Koro-2 Exodrive airspeeder,None
+Dexter Jettster,198.0,102.0,none,brown,yellow,52.0,male,masculine,Ojom,Besalisk,Attack of the Clones,None,None
+Lama Su,229.0,88.0,none,grey,black,52.0,male,masculine,Kamino,Kaminoan,Attack of the Clones,None,None
+Taun We,213.0,79.0,none,grey,black,52.0,female,feminine,Kamino,Kaminoan,Attack of the Clones,None,None
+Jocasta Nu,167.0,79.0,white,fair,blue,52.0,female,feminine,Coruscant,Human,Attack of the Clones,None,None
+R4-P17,96.0,79.0,none,"silver, red","red, blue",52.0,none,feminine,Naboo,Droid,"Attack of the Clones, Revenge of the Sith",None,None
+Wat Tambor,193.0,48.0,none,"green, grey",unknown,52.0,male,masculine,Skako,Skakoan,Attack of the Clones,None,None
+San Hill,191.0,79.0,none,grey,gold,52.0,male,masculine,Muunilinst,Muun,Attack of the Clones,None,None
+Shaak Ti,178.0,57.0,none,"red, blue, white",black,52.0,female,feminine,Shili,Togruta,"Attack of the Clones, Revenge of the Sith",None,None
+Grievous,216.0,159.0,none,"brown, white","green, yellow",52.0,male,masculine,Kalee,Kaleesh,Revenge of the Sith,Tsmeu-6 personal wheel bike,Belbullab-22 starfighter
+Tarfful,234.0,136.0,brown,brown,blue,52.0,male,masculine,Kashyyyk,Wookiee,Revenge of the Sith,None,None
+Raymus Antilles,188.0,79.0,brown,light,brown,52.0,male,masculine,Alderaan,Human,"A New Hope, Revenge of the Sith",None,None
+Sly Moore,178.0,48.0,none,pale,white,52.0,Unknown,Unknown,Umbara,Human,"Attack of the Clones, Revenge of the Sith",None,None
+Tion Medon,206.0,80.0,none,grey,black,52.0,male,masculine,Utapau,Pau'an,Revenge of the Sith,None,None
+Finn,180.0,79.0,black,dark,dark,52.0,male,masculine,Naboo,Human,The Force Awakens,None,None
+Rey,180.0,79.0,brown,light,hazel,52.0,female,feminine,Naboo,Human,The Force Awakens,None,None
+Poe Dameron,180.0,79.0,brown,light,brown,52.0,male,masculine,Naboo,Human,The Force Awakens,None,X-wing
+BB8,180.0,79.0,none,none,black,52.0,none,masculine,Naboo,Droid,The Force Awakens,None,None
+Captain Phasma,180.0,79.0,none,none,unknown,52.0,female,feminine,Naboo,Human,The Force Awakens,None,None
