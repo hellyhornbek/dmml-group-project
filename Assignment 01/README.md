@@ -13,8 +13,9 @@ Project folder containing group 10's solution to the first mandatory assignmnent
 ## Research questions of own choice
 
 We intend to answer the following two question:
-Q1:
-Q2:
+
+- Q1: Can a student's other reasons predict whether the course was mandatory?
+- Q2:
 
 ### Files
 
@@ -48,3 +49,4 @@ This folder consists individual files for all the weekly assignments:
 
 The file format used for the code is jupiter notebook (.ipynb), please run it on a kernel suggested by
 [work plan #01](https://learnit.itu.dk/mod/resource/view.php?id=252407)
+the function’s value is proportional to the distance from the decision boundary.
