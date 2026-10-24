@@ -15,7 +15,7 @@ Project folder containing group 10's solution to the first mandatory assignmnent
 We intend to answer the following two question:
 
 - Q1: Can a student's other reasons predict whether the course was mandatory?
-- Q2:
+- Q2: Is it possible to find a correlation between the accumulated precipitation and the amount of survey responses on a given day.
 
 ### Files
 
