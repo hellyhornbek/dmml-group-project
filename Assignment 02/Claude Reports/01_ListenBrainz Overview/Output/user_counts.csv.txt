@@ -1,7 +1,0 @@
-This is a placeholder text file. The real data file is not in git; it stays on Hans's computer.
-
-File: user_counts.csv
-Size: 2.4 MB
-Rows: 101,881
-Columns: user_id,total_listens,first_year,last_year,years_active
-What it is: Listens per user for all 101,881 users of the dump.

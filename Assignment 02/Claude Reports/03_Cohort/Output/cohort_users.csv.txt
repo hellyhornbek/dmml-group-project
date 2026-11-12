@@ -1,7 +1,0 @@
-This is a placeholder text file. The real data file is not in git; it stays on Hans's computer.
-
-File: cohort_users.csv
-Size: 0.5 MB
-Rows: 13,515
-Columns: user_id,window_start,window_end,first_year,last_year,n_runs,total_listens,bucket
-What it is: The 13,515 cohort users, one row per user.

@@ -1,7 +1,0 @@
-This is a placeholder text file. The real data file is not in git; it stays on Hans's computer.
-
-File: cohort_year_counts.csv
-Size: 2.9 MB
-Rows: 170,653
-Columns: user_id,year,listens
-What it is: Listens per cohort user and year.
