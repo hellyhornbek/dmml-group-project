@@ -1,0 +1,12 @@
+This is a placeholder text file. It holds the content of the checksum file 'MD5SUMS' that came with the download.
+
+64e38a7c0c0510e918a05c87fd99a967 *mbdump-cdstubs.tar.bz2
+8c3e2d102724695b69c93eacfea16d89 *mbdump-cover-art-archive.tar.bz2
+c6918daed7a0638b4dd17fd1a2edf168 *mbdump-derived.tar.bz2
+91a07a89f758a56d94a3b390c541269f *mbdump-documentation.tar.bz2
+8ef491eeae487353751de85de4836c6c *mbdump-editor.tar.bz2
+4463ed017562dc6a3158c97a50e32017 *mbdump-edit.tar.bz2
+cfeebf13c6c46e00f9776fb7783b2d94 *mbdump-event-art-archive.tar.bz2
+26b993022a0386e7234900484b5c7571 *mbdump-stats.tar.bz2
+7c812c71ec19378c6d3ef92b05868ad8 *mbdump.tar.bz2
+c80e559a98c31e81617ae569f025175e *mbdump-wikidocs.tar.bz2

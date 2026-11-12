@@ -1,0 +1,8 @@
+This is a placeholder text file. The real file is too large for git and stays on Hans's computer.
+
+File: listenbrainz-listens-dump-2758-20261101-000003-full.tar.zst
+Size: 267.0 GB (266,993,178,854 bytes)
+Downloaded: 2026-11-05
+What it is: ListenBrainz full listens dump no. 2758 (2026-11-01). The data we analyse: 2,990,440,915 listens.
+Checksum file: see the checksum file next to this one (if present).
+How it was downloaded and checked: Reports/00_Downloading

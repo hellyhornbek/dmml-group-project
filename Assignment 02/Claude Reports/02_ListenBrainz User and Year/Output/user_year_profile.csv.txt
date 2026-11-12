@@ -1,0 +1,5 @@
+This is a placeholder text file. The real file (73 MB) is too big for a normal git push (GitHub warns above 50 MB). It stays on Hans's computer and can be made again with Scripts/user_year_profile.py.
+
+File: user_year_profile.csv
+Rows: 372,552 (one per user and year)
+Columns: user_id,year,listens,active_months,m01,m02,m03,m04,m05,m06,m07,m08,m09,m10,m11,m12,h00_utc,h01_utc,h02_utc,h03_utc,h04_utc,h05_utc,h06_utc,h07_utc,h08_utc,h09_utc,h10_utc,h11_utc,h12_utc,h13_utc,h14_utc,h15_utc,h16_utc,h17_utc,h18_utc,h19_utc,h20_utc,h21_utc,h22_utc,h23_utc,weekday_0_mon0,weekday_1_mon0,weekday_2_mon0,weekday_3_mon0,weekday_4_mon0,weekday_5_mon0,weekday_6_mon0,gap_0,gap_1,gap_2,gap_3,gap_4,gap_5,gap_6,gap_7,gap_8,gap_9

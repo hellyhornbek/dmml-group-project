@@ -1,0 +1,8 @@
+This is a placeholder text file. The real file is too large for git and stays on Hans's computer.
+
+File: acousticbrainz-lowlevel-features-20220623-tonal.tar.zst
+Size: 884 MB (883,618,800 bytes)
+Downloaded: 2026-11-05
+What it is: AcousticBrainz audio features (project ended June 2022). Downloaded, NOT used.
+Checksum file: see the checksum file next to this one (if present).
+How it was downloaded and checked: Reports/00_Downloading

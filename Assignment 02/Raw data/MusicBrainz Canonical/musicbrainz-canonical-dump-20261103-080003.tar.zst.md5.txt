@@ -1,0 +1,3 @@
+This is a placeholder text file. It holds the content of the checksum file 'musicbrainz-canonical-dump-20261103-080003.tar.zst.md5' that came with the download.
+
+9b0b2925085fb104404efacb5e74af70

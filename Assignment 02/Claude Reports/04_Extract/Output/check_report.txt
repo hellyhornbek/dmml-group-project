@@ -1,0 +1,13 @@
+PASS  progress.json: done=True, lines read 2,990,440,915, unparsable cohort lines 0
+PASS  total rows 1,462,060,308, expected 1,462,060,308
+PASS  user-years that differ from the profile: 0
+PASS  users in extract 13,515, outside cohort 0, cohort users missing 0
+PASS  rows where year does not match the timestamp (UTC): 0
+PASS  rule recomputed from the extract: 13,515 users pass, 0 of the extract users fail
+      rows flagged as exact repeats (same user, second, artist, track): 12,684,853 (0.87%)
+      share of rows with recording_mbid: 10.9%
+      share of rows with duration_ms: 26.7%
+      share of rows with ms_played: 20.3%
+      share of rows with source: 76.0%
+
+RESULT: ALL CHECKS PASSED

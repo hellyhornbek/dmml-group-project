@@ -1,0 +1,10 @@
+source,file,size_bytes,size_gb,file_date_local,checksum_file,use
+ListenBrainz,listenbrainz-listens-dump-2758-20261101-000003-full.tar.zst,266993178854,266.99,2026-11-05 18:45,listenbrainz-listens-dump-2758-20261101-000003-full.tar.zst.md5,"used: count pass, profile pass, extract"
+MusicBrainz (canonical lookup),musicbrainz-canonical-dump-20261103-080003.tar.zst,2389716042,2.39,2026-11-04 16:55,musicbrainz-canonical-dump-20261103-080003.tar.zst.md5,used: linking (name to ids)
+MusicBrainz (full database dump),mbdump-derived.tar.bz2,527927545,0.53,2026-11-04 18:44,MD5SUMS,used: linking (id to details)
+MusicBrainz (full database dump),mbdump.tar.bz2,7701074497,7.7,2026-11-04 18:49,MD5SUMS,used: linking (id to details)
+AcousticBrainz,acousticbrainz-highlevel-sample-json-20220623-0.tar.zst,88818991,0.09,2026-11-05 20:19,sha256sums,not used (parked)
+AcousticBrainz,acousticbrainz-lowlevel-features-20220623-lowlevel.tar.zst,1159433718,1.16,2026-11-05 20:23,sha256sums,not used (parked)
+AcousticBrainz,acousticbrainz-lowlevel-features-20220623-rhythm.tar.zst,1260693156,1.26,2026-11-05 20:23,sha256sums,not used (parked)
+AcousticBrainz,acousticbrainz-lowlevel-features-20220623-tonal.tar.zst,883618800,0.88,2026-11-05 20:22,sha256sums,not used (parked)
+AcousticBrainz,acousticbrainz-lowlevel-sample-json-20220623-0.tar.zst,2080226201,2.08,2026-11-05 20:21,sha256sums,not used (parked)

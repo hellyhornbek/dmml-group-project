@@ -1,0 +1,7 @@
+This is a placeholder text file. The real data file is not in git; it stays on Hans's computer.
+
+File: sample_per_user.csv
+Size: 9 KB
+Rows: 600
+Columns: user_id,listens_in_sample,listens_2023_before_thinning
+What it is: Listens per user in the test sample.

@@ -1,0 +1,31 @@
+source,rows,share_of_all_rows
+ListenBrainz lastfm importer v2,539331499,0.3689
+(none),351004854,0.2401
+ListenBrainz Archive Importer,263169931,0.18
+ListenBrainz lastfm importer,170573735,0.1167
+Spotify Extended Streaming History Importer,35374998,0.0242
+listenbrainz,30015969,0.0205
+Pano Scrobbler,11731134,0.008
+navidrome,11125954,0.0076
+scotty,6364777,0.0044
+Web Scrobbler,6051236,0.0041
+elbisaur (Spotify Extended Streaming History parser),3229397,0.0022
+ListenBrainz Android,1772956,0.0012
+ListenBrainz plugin for Jellyfin,1366473,0.0009
+Maloja Archive Importer,1321128,0.0009
+strawberry,1198141,0.0008
+multi-scrobbler,1186699,0.0008
+spotify-to-listenbrainz-history-import,1158230,0.0008
+foo_listenbrainz2,1022928,0.0007
+Strawberry,975925,0.0007
+spotify-history-import,938232,0.0006
+github:mwiencek/lastfm-listenbrainz-sync,910630,0.0006
+ScrobblerBrainz,908426,0.0006
+foobar2000,822577,0.0006
+export-to-listenbrainz,612866,0.0004
+defvs/YTM-Extractor,573512,0.0004
+https://gist.github.com/fuddl/e17aa687df6ac1c7cbee5650ccfbc889,542322,0.0004
+listenbrainz-mpd,524206,0.0004
+peterjosling's Last.fm importer,402908,0.0003
+eavesdrop.fm,395213,0.0003
+gonic,373324,0.0003

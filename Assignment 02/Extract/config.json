@@ -1,0 +1,13 @@
+{
+  "min_listens": 2000,
+  "max_listens": 40000,
+  "min_run_years": 5,
+  "partial_years": {
+    "2026": 0.8333333333333334
+  },
+  "no_year_above_max": true,
+  "buckets": 100,
+  "n_users": 13515,
+  "n_listens": 1462060308,
+  "source_profile": "user_year_profile.csv"
+}

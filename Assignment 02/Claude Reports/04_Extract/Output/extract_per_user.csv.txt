@@ -1,0 +1,7 @@
+This is a placeholder text file. The real data file is not in git; it stays on Hans's computer.
+
+File: extract_per_user.csv
+Size: 0.2 MB
+Rows: 13,515
+Columns: user_id,rows,active_years
+What it is: Rows and active years per cohort user in the extract.

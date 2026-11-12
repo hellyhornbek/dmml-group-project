@@ -1,0 +1,7 @@
+This is a placeholder text file. The real data file is not in git; it stays on Hans's computer.
+
+File: sample_2023_600users.csv
+Size: 47.7 MB
+Rows: 200,007
+Columns: user_id,listen_time_utc,player_duration_ms,song,artist,album,release_year,genre,artist_tags,song_tags,song_length_ms,artist_begin_year,artist_end_year,artist_type,artist_country,recording_id,matchkey
+What it is: Test sample: 600 users, 2023, one row per listen, linked to MusicBrainz. Column meanings: Samples/README_sample_2023_600users.md.

@@ -1,0 +1,4 @@
+This is a placeholder text file. It holds the content of the checksum file 'sha256sums' that came with the download.
+
+952bdbc23a0684ebd931c59c648ca847b5a8281030f5b305adf449e563955c9f  acousticbrainz-highlevel-sample-json-20220623-0.tar.zst
+8fc3c44c8beed22c075bea954edca3d35927bca0193cbf0a31b07aecfec3db80  acousticbrainz-lowlevel-sample-json-20220623-0.tar.zst

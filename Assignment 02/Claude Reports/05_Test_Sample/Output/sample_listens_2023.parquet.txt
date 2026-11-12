@@ -1,0 +1,7 @@
+This is a placeholder text file. The real data file is not in git; it stays on Hans's computer.
+
+File: sample_listens_2023.parquet
+Size: 9.3 MB
+Rows: 200,007
+Columns: user_id, ts, artist_name, track_name, release_name, recording_mbid, release_mbid, artist_mbid, ms_played, duration_ms, user_listens_2023
+What it is: The 200,007 sampled listens before linking.

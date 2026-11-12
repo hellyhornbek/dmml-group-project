@@ -1,0 +1,7 @@
+step,songs
+distinct songs (artist + title),141063
+songs with a match key,136088
+songs matched in the canonical dump,95142
+songs with a recording id,95543
+songs with an artist id,95610
+songs with a release id,95583
