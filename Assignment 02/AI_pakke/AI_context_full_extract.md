@@ -9,13 +9,13 @@ Draft research directions (not final): (1) can long-term listeners be grouped in
 
 ## 2. Source
 - ListenBrainz full listens dump no. 2758, dated 2026-11-01 (about 267 GB compressed, 2,990,440,915 lines, one JSON listen per line).
-- Extract built with `Scripts/8_extract.py` from a cohort defined by `Scripts/7_build_cohort.py`. Verified with `--check`: all checks passed (see section 6).
+- Extract built with `extract.py` from a cohort defined by `build_cohort.py` (on Hans's machine, in `Reports/03_Cohort` and `Reports/04_Extract`, each step with its own report). Verified with `--check`: all checks passed (see section 6).
 
 ## 3. The cohort (who is in the extract)
 Rule: a user is in if they have at least 5 consecutive calendar years in which each year has 2,000-40,000 raw listens (UTC years; for 2026 the limits are scaled by 10/12 to about 1,667-33,333 because the dump ends 1 Nov). A user with any year above the maximum anywhere in their history is excluded completely. The 2,000 minimum only applies inside the 5-year window. The user's whole listening history is kept (also years outside the window, including years below 2,000). No sampling, no cap on rows.
 
 Result: **13,515 users, 1,462,060,308 listens** (rows in the extract, including 12.7 M rows flagged as duplicates).
-Why others are excluded (of 101,881 users in the dump profile): about 78% have too short a history (58,854 first appeared in 2025/26), 1.1% have gaps, 5.4% have too few listens, about 2.2% have abnormal years above 40,000 (these hold about 25% of all listens).
+Why others are excluded (of 101,881 users in the dump, counted with the same rule code): 3,604 users (3.5%) have a year above 40,000 listens; they hold 1,047,858,853 listens, 35.0% of all listens in the dump. 84,762 users (83.2%) have no 5 consecutive years within the limits (history too short, gaps or too few listens). The cohort is 13.3% of the users and 48.9% of the listens. Cohort share of each year's listens: about 65% in 2005-2016, falling to 19% in 2026 (many new users).
 
 Consequences to remember: the extract describes long-term, moderate-volume users (survivors), not all ListenBrainz users. Many listens come from imported histories (e.g. from Last.fm/Spotify), so "listen time" is not always when the music was actually played in ListenBrainz; upload date is not available.
 
@@ -84,5 +84,6 @@ Typical working units: a user-year or a user sample (for example the 10% bucket)
 - Privacy: user ids are pseudonymous numbers; usernames were dropped. Do not try to re-identify users.
 
 ## 9. Related files
-- `Sample/sample_2023_600users.csv` plus its README: 600 random cohort users from 2023, 200,314 listens (each user keeps 3.08% of their 2023 listens), already linked to MusicBrainz with columns: user_id, listen_time_utc, player_duration_ms, song, artist, album, release_year, genre, artist_tags, song_tags, song_length_ms, artist_begin_year, artist_end_year, artist_type, artist_country, recording_id, matchkey.
-- `Team_pack/cohort_users.csv`, `Team_pack/per_year_overview.csv` (the table in section 6 with all columns).
+- `test_data/sample_2023.csv` plus its README: 600 random cohort users from 2023, 200,314 listens (each user keeps 3.08% of their 2023 listens, exact repeats removed first), already linked to MusicBrainz (about 69% of distinct songs with a match key are matched in the canonical dump). Rebuilt on 12 Nov 2026 so that it can be reproduced: when a song has several genres with equal votes, the first alphabetically is used (the earlier version differed in genre for about 11% of rows, all other columns are identical). Columns: user_id, listen_time_utc, player_duration_ms, song, artist, album, release_year, genre, artist_tags, song_tags, song_length_ms, artist_begin_year, artist_end_year, artist_type, artist_country, recording_id, matchkey.
+- `AI_pakke/cohort_users.csv`, `AI_pakke/per_year_overview.csv` (the table in section 6 with all columns).
+- On Hans's machine the whole history is documented step by step in `Reports/` (00 downloading, 01 count pass, 02 profile pass, 03 cohort, 04 extract, 05 test sample), each with scripts, output, figures and a report.

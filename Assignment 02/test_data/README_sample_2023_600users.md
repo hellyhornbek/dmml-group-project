@@ -18,7 +18,7 @@ This is a TEST sample for getting started, not the analysis dataset.
 | player_duration_ms | milliseconds played, as reported by the player | 31.5% |
 | song, artist, album | as submitted by the user's client | 100 / 100 / 98% |
 | release_year | year of the album's (release group's) first release in MusicBrainz | 71% |
-| genre | most-voted official MusicBrainz genre of the song; if none, the artist's most-voted genre | 61% |
+| genre | most-voted official MusicBrainz genre of the song; if none, the artist's most-voted genre (ties: first alphabetically) | 61% |
 | artist_tags, song_tags | up to 10 MusicBrainz tags (all kinds, by votes), separated by `; ` | 61% / 32% |
 | song_length_ms | length of the recording in MusicBrainz | 70% |
 | artist_begin_year, artist_end_year | MusicBrainz life-span years (end year empty if still active) | 59% / 8% |
