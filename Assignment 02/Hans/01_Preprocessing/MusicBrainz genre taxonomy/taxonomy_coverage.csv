@@ -1,0 +1,64 @@
+year,category,genres,listens
+2006,1 has a parent (is a subgenre),572,686327
+2006,2 top-level genre with subgenres,74,465766
+2006,3 no relationships,72,18956
+2007,1 has a parent (is a subgenre),624,994050
+2007,2 top-level genre with subgenres,81,744989
+2007,3 no relationships,87,35329
+2008,1 has a parent (is a subgenre),657,1255739
+2008,2 top-level genre with subgenres,81,968307
+2008,3 no relationships,90,42125
+2009,1 has a parent (is a subgenre),695,1510790
+2009,2 top-level genre with subgenres,79,1120720
+2009,3 no relationships,100,53120
+2010,1 has a parent (is a subgenre),739,1759671
+2010,2 top-level genre with subgenres,85,1275472
+2010,3 no relationships,108,58404
+2011,1 has a parent (is a subgenre),732,1805320
+2011,2 top-level genre with subgenres,86,1386108
+2011,3 no relationships,111,60253
+2012,1 has a parent (is a subgenre),759,2004784
+2012,2 top-level genre with subgenres,86,1508507
+2012,3 no relationships,118,68543
+2013,1 has a parent (is a subgenre),785,2124372
+2013,2 top-level genre with subgenres,88,1682856
+2013,3 no relationships,118,65411
+2014,1 has a parent (is a subgenre),806,2212895
+2014,2 top-level genre with subgenres,89,1846715
+2014,3 no relationships,115,69850
+2015,1 has a parent (is a subgenre),812,2280081
+2015,2 top-level genre with subgenres,90,1854263
+2015,3 no relationships,118,77721
+2016,1 has a parent (is a subgenre),828,2271655
+2016,2 top-level genre with subgenres,89,1816292
+2016,3 no relationships,127,78211
+2017,1 has a parent (is a subgenre),858,2661794
+2017,2 top-level genre with subgenres,92,2056753
+2017,3 no relationships,127,95851
+2018,1 has a parent (is a subgenre),880,3134725
+2018,2 top-level genre with subgenres,92,2343798
+2018,3 no relationships,132,107671
+2019,1 has a parent (is a subgenre),899,3656091
+2019,2 top-level genre with subgenres,90,2608206
+2019,3 no relationships,138,130126
+2020,1 has a parent (is a subgenre),919,3817649
+2020,2 top-level genre with subgenres,94,2924269
+2020,3 no relationships,144,145379
+2021,1 has a parent (is a subgenre),948,3887412
+2021,2 top-level genre with subgenres,95,3170922
+2021,3 no relationships,149,148448
+2022,1 has a parent (is a subgenre),960,4319987
+2022,2 top-level genre with subgenres,94,3335542
+2022,3 no relationships,155,169926
+2023,1 has a parent (is a subgenre),980,4453156
+2023,2 top-level genre with subgenres,94,3349467
+2023,3 no relationships,145,185147
+2024,1 has a parent (is a subgenre),993,4304634
+2024,2 top-level genre with subgenres,97,3185268
+2024,3 no relationships,157,180287
+2025,1 has a parent (is a subgenre),993,3952483
+2025,2 top-level genre with subgenres,97,2853675
+2025,3 no relationships,153,169170
+2026,1 has a parent (is a subgenre),985,2963121
+2026,2 top-level genre with subgenres,95,2148502
+2026,3 no relationships,150,118566

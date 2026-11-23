@@ -7,3 +7,8 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Big data files (too large for git; they are re-made by the notebooks)
+*.parquet
+.tmp/
+Assignment 02/Hans/01_Preprocessing/Output_dev/

@@ -1,0 +1,2222 @@
+genre,parent,all_parents,n_parents,family,depth,n_children
+acholitronix,,,0,acholitronix,0,0
+acid jazz,,,0,acid jazz,0,0
+adhunik geet,,,0,adhunik geet,0,0
+afoxê,,,0,afoxê,0,0
+afrobeat,,,0,afrobeat,0,0
+afrobeats,,,0,afrobeats,0,2
+afropiano,afrobeats,afrobeats,1,afrobeats,1,0
+alté,afrobeats,afrobeats,1,afrobeats,1,0
+agbadza,,,0,agbadza,0,0
+agbekor,,,0,agbekor,0,0
+ahwash,,,0,ahwash,0,0
+aita,,,0,aita,0,0
+al jeel,,,0,al jeel,0,0
+aleke,,,0,aleke,0,0
+algerian chaabi,,,0,algerian chaabi,0,0
+alloukou,,,0,alloukou,0,0
+alpenrock,,,0,alpenrock,0,0
+alternative dance,,,0,alternative dance,0,2
+madchester,alternative dance,alternative dance,1,alternative dance,1,0
+new rave,alternative dance,alternative dance,1,alternative dance,1,0
+ambasse bey,,,0,ambasse bey,0,0
+ambient,,,0,ambient,0,4
+ambient americana,ambient,ambient,1,ambient,1,0
+kankyō ongaku,ambient,ambient,1,ambient,1,0
+space ambient,ambient,ambient,1,ambient,1,0
+tribal ambient,ambient,ambient,1,ambient,1,0
+ambient dub,,,0,ambient dub,0,0
+american gamelan,,,0,american gamelan,0,0
+americana,,,0,americana,0,0
+apala,,,0,apala,0,0
+arabesk,,,0,arabesk,0,0
+arrocha,,,0,arrocha,0,0
+arrocha sertanejo,,,0,arrocha sertanejo,0,0
+arrochadeira,,,0,arrochadeira,0,0
+asmr,,,0,asmr,0,0
+assiko,,,0,assiko,0,0
+audio documentary,,,0,audio documentary,0,0
+audio drama,,,0,audio drama,0,0
+avant-garde,,,0,avant-garde,0,0
+avanzada,,,0,avanzada,0,0
+axé,,,0,axé,0,0
+baila,,,0,baila,0,0
+baithak gana,,,0,baithak gana,0,0
+baião,,,0,baião,0,0
+balitaw,,,0,balitaw,0,0
+ballad,,,0,ballad,0,1
+latin ballad,ballad,ballad,1,ballad,1,0
+bambuco,,,0,bambuco,0,0
+bandari,,,0,bandari,0,0
+bandinha,,,0,bandinha,0,0
+banga,,,0,banga,0,0
+bantengan,,,0,bantengan,0,0
+baqashot,,,0,baqashot,0,0
+barbershop,,,0,barbershop,0,1
+jubilee,barbershop,barbershop,1,barbershop,1,0
+bard rock,,,0,bard rock,0,0
+batucada,,,0,batucada,0,0
+batuque,,,0,batuque,0,0
+baul gaan,,,0,baul gaan,0,0
+beatboxing,,,0,beatboxing,0,0
+bedoui wahrani,,,0,bedoui wahrani,0,0
+bend-skin,,,0,bend-skin,0,0
+benga,,,0,benga,0,0
+benna,,,0,benna,0,0
+beompae,,,0,beompae,0,0
+bhajan,,,0,bhajan,0,0
+bhangra,,,0,bhangra,0,0
+bhavageethe,,,0,bhavageethe,0,0
+biguine,,,0,biguine,0,0
+bikutsi,,,0,bikutsi,0,0
+bitpop,,,0,bitpop,0,0
+blackgaze,,,0,blackgaze,0,0
+blues,,,0,blues,0,17
+acoustic blues,blues,blues,1,blues,1,1
+african blues,blues,blues,1,blues,1,0
+boogie-woogie,blues,blues,1,blues,1,0
+british blues,blues,blues,1,blues,1,0
+chicago blues,blues,blues,1,blues,1,1
+classic blues,blues,blues,1,blues,1,0
+country blues,blues,blues,1,blues,1,1
+delta blues,blues,blues,1,blues,1,0
+electric blues,blues,blues,1,blues,1,2
+hill country blues,blues,blues,1,blues,1,0
+jump blues,blues,blues,1,blues,1,0
+louisiana blues,blues,blues,1,blues,1,0
+modern blues,blues,blues,1,blues,1,0
+new orleans blues,blues,blues,1,blues,1,0
+piano blues,blues,blues,1,blues,1,0
+soul blues,blues,blues,1,blues,1,0
+texas blues,blues,blues,1,blues,1,2
+acoustic chicago blues,chicago blues,chicago blues,1,blues,2,0
+acoustic texas blues,texas blues,texas blues,1,blues,2,0
+electric texas blues,electric blues,electric blues | texas blues,2,blues,2,0
+jug band,acoustic blues,acoustic blues,1,blues,2,0
+piedmont blues,country blues,country blues,1,blues,2,0
+swamp blues,electric blues,electric blues,1,blues,2,0
+blues rock,,,0,blues rock,0,1
+boogie rock,blues rock,blues rock,1,blues rock,1,0
+bocet,,,0,bocet,0,0
+boduberu,,,0,boduberu,0,0
+boedra,,,0,boedra,0,0
+bogino duu,,,0,bogino duu,0,0
+bolero,,,0,bolero,0,1
+filin,bolero,bolero,1,bolero,1,0
+bolero español,,,0,bolero español,0,0
+bolero son,,,0,bolero son,0,0
+bomba,,,0,bomba,0,0
+bomba del chota,,,0,bomba del chota,0,0
+bouyon,,,0,bouyon,0,0
+breaks,,,0,breaks,0,0
+brega,,,0,brega,0,2
+brega calypso,brega,brega,1,brega,1,0
+tecnobrega,brega,brega,1,brega,1,0
+brega funk,,,0,brega funk,0,1
+batidão romântico,brega funk,brega funk,1,brega funk,1,0
+bubbling house,,,0,bubbling house,0,0
+bullerengue,,,0,bullerengue,0,0
+burmese mono,,,0,burmese mono,0,0
+burrakatha,,,0,burrakatha,0,0
+bélé,,,0,bélé,0,0
+cadence lypso,,,0,cadence lypso,0,0
+cadence rampa,,,0,cadence rampa,0,0
+cajun,,,0,cajun,0,0
+cakewalk,,,0,cakewalk,0,0
+calypso,,,0,calypso,0,1
+calipso venezolano,calypso,calypso,1,calypso,1,0
+campursari,,,0,campursari,0,0
+campus folk,,,0,campus folk,0,0
+candombe,,,0,candombe,0,0
+candombe beat,,,0,candombe beat,0,0
+cante alentejano,,,0,cante alentejano,0,0
+canto a lo poeta,,,0,canto a lo poeta,0,0
+canto degli alpini,,,0,canto degli alpini,0,0
+cantoria,,,0,cantoria,0,1
+repente,cantoria,cantoria,1,cantoria,1,0
+cantu a chiterra,,,0,cantu a chiterra,0,0
+cantu a tenore,,,0,cantu a tenore,0,0
+canzone d'autore,,,0,canzone d'autore,0,0
+canzone napoletana,,,0,canzone napoletana,0,0
+canzone neomelodica,,,0,canzone neomelodica,0,0
+caporal,,,0,caporal,0,0
+carimbó,,,0,carimbó,0,0
+carnavalito,,,0,carnavalito,0,0
+carranga,,,0,carranga,0,0
+central asian throat singing,,,0,central asian throat singing,0,1
+kai,central asian throat singing,central asian throat singing,1,central asian throat singing,1,0
+chacarera,,,0,chacarera,0,0
+chachachá,,,0,chachachá,0,0
+chalga,,,0,chalga,0,0
+chamamé,,,0,chamamé,0,1
+chamamé tropical,chamamé,chamamé,1,chamamé,1,0
+chamarrita açoriana,,,0,chamarrita açoriana,0,0
+chamarrita rioplatense,,,0,chamarrita rioplatense,0,0
+champeta,,,0,champeta,0,0
+change ringing,,,0,change ringing,0,0
+changjak gugak,,,0,changjak gugak,0,0
+changüí,,,0,changüí,0,0
+chanson française,,,0,chanson française,0,3
+chanson québécoise,chanson française,chanson française,1,chanson française,1,0
+chanson réaliste,chanson française,chanson française,1,chanson française,1,0
+chanson à texte,chanson française,chanson française,1,chanson française,1,0
+chaozhou xianshi,,,0,chaozhou xianshi,0,0
+charanga,,,0,charanga,0,0
+chazzanut,,,0,chazzanut,0,1
+ashkenazi cantorial music,chazzanut,chazzanut,1,chazzanut,1,0
+children's music,,,0,children's music,0,1
+lullaby,children's music,children's music,1,children's music,1,1
+batonebi songs,lullaby,lullaby,1,children's music,2,1
+iavnana,batonebi songs,batonebi songs,1,children's music,3,0
+chillout,,,0,chillout,0,0
+chimurenga,,,0,chimurenga,0,0
+chinese literati music,,,0,chinese literati music,0,0
+choro,,,0,choro,0,0
+chotis madrileño,,,0,chotis madrileño,0,0
+christmas music,,,0,christmas music,0,0
+church music,,,0,church music,0,6
+anglican chant,church music,church music,1,church music,1,0
+byzantine chant,church music,church music,1,church music,1,3
+plainchant,church music,medieval | church music,2,church music,1,7
+russian orthodox liturgical music,church music,church music,1,church music,1,3
+taizé chant,church music,church music,1,church music,1,0
+zema,church music,church music,1,church music,1,0
+ambrosian chant,plainchant,plainchant,1,church music,2,0
+beneventan chant,plainchant,plainchant,1,church music,2,0
+celtic chant,plainchant,plainchant,1,church music,2,0
+gallican chant,plainchant,plainchant,1,church music,2,0
+gregorian chant,plainchant,plainchant,1,church music,2,1
+kontakion,byzantine chant,byzantine chant,1,church music,2,0
+kyivan chant,russian orthodox liturgical music,russian orthodox liturgical music,1,church music,2,0
+mozarabic chant,plainchant,plainchant,1,church music,2,0
+old roman chant,plainchant,plainchant,1,church music,2,0
+sticheron,byzantine chant,byzantine chant,1,church music,2,0
+troparion,byzantine chant,byzantine chant,1,church music,2,0
+valaam chant,russian orthodox liturgical music,russian orthodox liturgical music,1,church music,2,0
+znamenny chant,russian orthodox liturgical music,russian orthodox liturgical music,1,church music,2,0
+sarum chant,gregorian chant,gregorian chant,1,church music,3,0
+chutney,,,0,chutney,0,0
+chutney soca,,,0,chutney soca,0,0
+chöd,,,0,chöd,0,0
+cilokaq,,,0,cilokaq,0,0
+ciranda,,,0,ciranda,0,0
+classical,,,0,classical,0,14
+andalusian classical,classical,classical,1,classical,1,1
+chinese classical,classical,classical,1,classical,1,6
+guoyue,classical,classical,1,classical,1,0
+indian classical,classical,classical,1,classical,1,3
+islamic modal music,classical,classical,1,classical,1,5
+japanese classical,classical,classical,1,classical,1,10
+korean classical,classical,classical,1,classical,1,5
+persian classical,classical,classical,1,classical,1,0
+pìobaireachd,classical,classical,1,classical,1,0
+shashmaqam,classical,classical,1,classical,1,0
+southeast asian classical,classical,classical,1,classical,1,10
+sufiana kalam,classical,classical,1,classical,1,0
+vietnamese classical,classical,classical,1,classical,1,2
+western classical,classical,classical,1,classical,1,49
+aak,korean classical,korean classical,1,classical,2,0
+art song,western classical,western classical,1,classical,2,6
+bagatelle,western classical,western classical,1,classical,2,0
+baisha xiyue,chinese classical,chinese classical,1,classical,2,0
+ballet,western classical,western classical,1,classical,2,2
+baroque,western classical,western classical,1,classical,2,0
+baroque suite,western classical,western classical,1,classical,2,0
+brass band,western classical,western classical,1,classical,2,2
+burmese classical,southeast asian classical,southeast asian classical,1,classical,2,0
+ca trù,vietnamese classical,vietnamese classical,1,classical,2,0
+cantata,western classical,western classical,1,classical,2,0
+canzona,western classical,western classical,1,classical,2,0
+capriccio,western classical,western classical,1,classical,2,0
+carnatic classical,indian classical,indian classical,1,classical,2,1
+character piece,western classical,western classical,1,classical,2,0
+chinese opera,chinese classical,chinese classical,1,classical,2,8
+cinematic classical,western classical,western classical,1,classical,2,0
+classical period,western classical,western classical,1,classical,2,0
+concert band,western classical,western classical,1,classical,2,0
+concertina band,western classical,western classical,1,classical,2,0
+concerto,western classical,western classical,1,classical,2,2
+contemporary classical,western classical,western classical,1,classical,2,1
+dangak,korean classical,korean classical,1,classical,2,0
+divertissement,western classical,western classical,1,classical,2,0
+dongjing,chinese classical,chinese classical,1,classical,2,0
+english pastoral school,western classical,western classical,1,classical,2,0
+fantasia,western classical,western classical,1,classical,2,0
+fugue,western classical,western classical,1,classical,2,0
+gagaku,japanese classical,japanese classical,1,classical,2,0
+gagok,korean classical,korean classical,1,classical,2,0
+gamelan,southeast asian classical,southeast asian classical,1,classical,2,4
+heikyoku,japanese classical,japanese classical,1,classical,2,0
+hindustani classical,indian classical,indian classical,1,classical,2,8
+honkyoku,japanese classical,japanese classical,1,classical,2,0
+hyangak,korean classical,korean classical,1,classical,2,0
+hát tuồng,vietnamese classical,vietnamese classical,1,classical,2,0
+impressionism,western classical,western classical,1,classical,2,0
+impromptu,western classical,western classical,1,classical,2,0
+iraqi maqam,islamic modal music,islamic modal music,1,classical,2,0
+jeongak,korean classical,korean classical,1,classical,2,0
+jiuta,japanese classical,japanese classical,1,classical,2,0
+jōruri,japanese classical,japanese classical,1,classical,2,0
+kacapi suling,southeast asian classical,southeast asian classical,1,classical,2,0
+kulintang,southeast asian classical,southeast asian classical,1,classical,2,0
+madrigal,western classical,western classical,1,classical,2,0
+mahori,southeast asian classical,southeast asian classical,1,classical,2,0
+malouf,andalusian classical,andalusian classical,1,classical,2,0
+march,western classical,western classical,1,classical,2,3
+mass,western classical,western classical,1,classical,2,1
+medieval,western classical,western classical,1,classical,2,5
+meiji shinkyoku,japanese classical,japanese classical,1,classical,2,0
+modern classical,western classical,western classical,1,classical,2,15
+motet,western classical,western classical,1,classical,2,0
+mugham,islamic modal music,islamic modal music,1,classical,2,0
+nagauta,japanese classical,japanese classical,1,classical,2,0
+nanguan,chinese classical,chinese classical,1,classical,2,0
+neoclassicism,western classical,western classical,1,classical,2,0
+nocturne,western classical,western classical,1,classical,2,0
+noh,japanese classical,japanese classical,1,classical,2,0
+odissi classical,indian classical,indian classical,1,classical,2,0
+opera,western classical,western classical,1,classical,2,13
+oratorio,western classical,western classical,1,classical,2,0
+overture,western classical,western classical,1,classical,2,0
+passion setting,western classical,western classical,1,classical,2,0
+pinpeat,southeast asian classical,southeast asian classical,1,classical,2,0
+prelude,western classical,western classical,1,classical,2,0
+renaissance,western classical,western classical,1,classical,2,0
+ricercar,western classical,western classical,1,classical,2,0
+romantic classical,western classical,western classical,1,classical,2,0
+saluang klasik,southeast asian classical,southeast asian classical,1,classical,2,0
+sawt,islamic modal music,islamic modal music,1,classical,2,0
+serenade,western classical,western classical,1,classical,2,0
+shōmyō,japanese classical,japanese classical,1,classical,2,0
+sinfonia concertante,western classical,western classical,1,classical,2,0
+sonata,western classical,western classical,1,classical,2,0
+string quartet,western classical,western classical,1,classical,2,0
+symphonic mugham,western classical,western classical,1,classical,2,0
+symphonic poem,western classical,western classical,1,classical,2,0
+symphony,western classical,western classical,1,classical,2,1
+sōkyoku,japanese classical,japanese classical,1,classical,2,2
+talempong,southeast asian classical,southeast asian classical,1,classical,2,0
+tembang cianjuran,southeast asian classical,southeast asian classical,1,classical,2,0
+thai classical,southeast asian classical,southeast asian classical,1,classical,2,3
+theme and variations,western classical,western classical,1,classical,2,0
+toccata,western classical,western classical,1,classical,2,0
+turkish classical,islamic modal music,islamic modal music,1,classical,2,0
+uyghur muqam,islamic modal music,islamic modal music,1,classical,2,0
+yanyue,chinese classical,chinese classical,1,classical,2,0
+yayue,chinese classical,chinese classical,1,classical,2,0
+zarzuela,western classical,western classical,1,classical,2,3
+étude,western classical,western classical,1,classical,2,0
+abhang,hindustani classical,hindustani classical,1,classical,3,0
+ars antiqua,medieval,medieval,1,classical,3,0
+ars nova,medieval,medieval,1,classical,3,0
+ars subtilior,medieval,medieval,1,classical,3,0
+balinese gamelan,gamelan,gamelan,1,classical,3,10
+ballad opera,opera,opera,1,classical,3,0
+ballet de cour,ballet,ballet,1,classical,3,0
+beijing opera,chinese opera,chinese opera,1,classical,3,1
+british brass band,brass band,brass band,1,classical,3,0
+cantonese opera,chinese opera,chinese opera,1,classical,3,0
+choral symphony,symphony,symphony,1,classical,3,0
+circus march,march,march,1,classical,3,0
+comédie-ballet,ballet,ballet,1,classical,3,0
+concerto for orchestra,concerto,concerto,1,classical,3,0
+concerto grosso,concerto,concerto,1,classical,3,0
+danmono,sōkyoku,sōkyoku,1,classical,3,0
+dechovka,brass band,brass band,1,classical,3,0
+dhrupad,hindustani classical,hindustani classical,1,classical,3,0
+expressionism,modern classical,modern classical,1,classical,3,0
+fon leb,thai classical,thai classical,1,classical,3,0
+funeral march,march,march,1,classical,3,0
+futurism,modern classical,modern classical,1,classical,3,0
+gamelan degung,gamelan,gamelan,1,classical,3,0
+grand opera,opera,opera,1,classical,3,0
+género chico,zarzuela,zarzuela,1,classical,3,0
+género grande,zarzuela,zarzuela,1,classical,3,0
+henan opera,chinese opera,chinese opera,1,classical,3,0
+indeterminacy,modern classical,modern classical,1,classical,3,0
+javanese gamelan,gamelan,gamelan,1,classical,3,4
+khrueang sai,thai classical,thai classical,1,classical,3,0
+khyal,hindustani classical,hindustani classical,1,classical,3,0
+klasik,hindustani classical,hindustani classical,1,classical,3,0
+konnakol,carnatic classical,carnatic classical,1,classical,3,0
+korean revolutionary opera,chinese opera,chinese opera,1,classical,3,0
+kumiuta,sōkyoku,sōkyoku,1,classical,3,0
+kunqu,chinese opera,chinese opera,1,classical,3,0
+lied,art song,art song,1,classical,3,0
+lute song,art song,art song,1,classical,3,0
+malay gamelan,gamelan,gamelan,1,classical,3,0
+medieval lyric poetry,medieval,medieval,1,classical,3,2
+microtonal classical,modern classical,modern classical,1,classical,3,0
+minimalism,modern classical,modern classical,1,classical,3,1
+monodrama,opera,opera,1,classical,3,0
+musique concrète instrumentale,modern classical,modern classical,1,classical,3,0
+mélodie,art song,art song,1,classical,3,0
+música festera,march,march,1,classical,3,0
+natya sangeet,hindustani classical,hindustani classical,1,classical,3,0
+neoromanticism,modern classical,modern classical,1,classical,3,0
+new complexity,modern classical,modern classical,1,classical,3,0
+opera buffa,opera,opera,1,classical,3,0
+opera semiseria,opera,opera,1,classical,3,0
+opera seria,opera,opera,1,classical,3,0
+operetta,opera,opera,1,classical,3,0
+opéra comique,opera,opera,1,classical,3,0
+orchestral song,art song,art song,1,classical,3,0
+piphat,thai classical,thai classical,1,classical,3,0
+post-classical,contemporary classical,contemporary classical,1,classical,3,0
+post-minimalism,modern classical,modern classical,1,classical,3,0
+process music,modern classical,modern classical,1,classical,3,0
+requiem,mass,mass,1,classical,3,0
+romantische oper,opera,opera,1,classical,3,0
+russian romance,art song,art song,1,classical,3,0
+serialism,modern classical,modern classical,1,classical,3,1
+sichuan opera,chinese opera,chinese opera,1,classical,3,0
+singspiel,opera,opera,1,classical,3,0
+sonorism,modern classical,modern classical,1,classical,3,0
+spectralism,modern classical,modern classical,1,classical,3,0
+spiritual art song,art song,art song | concert spiritual,2,classical,3,0
+stochastic music,modern classical,modern classical,1,classical,3,0
+tappa,hindustani classical,hindustani classical,1,classical,3,0
+tarana,hindustani classical,hindustani classical,1,classical,3,0
+thumri,hindustani classical,hindustani classical,1,classical,3,0
+totalism,modern classical,modern classical,1,classical,3,0
+tragédie en musique,opera,opera,1,classical,3,0
+verismo,opera,opera,1,classical,3,0
+yangzhou opera,chinese opera,chinese opera,1,classical,3,0
+yue opera,chinese opera,chinese opera,1,classical,3,0
+zarzuela barroca,zarzuela,zarzuela,1,classical,3,0
+zeitoper,opera,opera,1,classical,3,0
+chinese revolutionary opera,beijing opera,beijing opera,1,classical,4,0
+gamelan angklung,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan beleganjur,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan gambang,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan gender wayang,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan gong gede,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan gong kebyar,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan jegog,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan joged bumbung,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan salendro,javanese gamelan,javanese gamelan,1,classical,4,0
+gamelan sekaten,javanese gamelan,javanese gamelan,1,classical,4,0
+gamelan selunding,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan semar pegulingan,balinese gamelan,balinese gamelan,1,classical,4,0
+gamelan siteran,javanese gamelan,javanese gamelan,1,classical,4,0
+gamelan surakarta,javanese gamelan,javanese gamelan,1,classical,4,0
+holy minimalism,minimalism,minimalism,1,classical,4,0
+integral serialism,serialism,serialism,1,classical,4,0
+minnesang,medieval lyric poetry,medieval lyric poetry,1,classical,4,0
+troubadour song,medieval lyric poetry,medieval lyric poetry,1,classical,4,0
+coco,,,0,coco,0,1
+embolada,coco,coco,1,coco,1,0
+coladeira,,,0,coladeira,0,0
+colindă,,,0,colindă,0,0
+comedy,,,0,comedy,0,4
+break-in,comedy,comedy,1,comedy,1,0
+prank calls,comedy,comedy,1,comedy,1,0
+sketch comedy,comedy,comedy,1,comedy,1,0
+standup comedy,comedy,comedy,1,comedy,1,0
+compas,,,0,compas,0,0
+conga,,,0,conga,0,0
+congolese rumba,,,0,congolese rumba,0,0
+contenance angloise,,,0,contenance angloise,0,0
+contra,,,0,contra,0,0
+coon song,,,0,coon song,0,0
+copla,,,0,copla,0,0
+copla cajamarquina,,,0,copla cajamarquina,0,0
+country,,,0,country,0,16
+alternative country,country,country,1,country,1,1
+bakersfield sound,country,country,1,country,1,0
+bluegrass,country,country,1,country,1,3
+classic country,country,country,1,country,1,0
+contemporary country,country,country,1,country,1,1
+country yodeling,country,country,1,country,1,0
+honky tonk,country,country,1,country,1,0
+nashville sound,country,country,1,country,1,0
+progressive country,country,country,1,country,1,1
+red dirt,country,country,1,country,1,0
+texas country,country,country,1,country,1,0
+traditional country,country,country,1,country,1,3
+truck driving country,country,country,1,country,1,0
+urban cowboy,country,country,1,country,1,0
+western,country,country,1,country,1,0
+western swing,country,country,1,country,1,0
+bluegrass gospel,bluegrass,bluegrass,1,country,2,0
+close harmony,traditional country,traditional country,1,country,2,0
+country boogie,traditional country,traditional country,1,country,2,0
+country gospel,traditional country,traditional country,1,country,2,0
+gothic country,alternative country,alternative country,1,country,2,0
+neo-traditional country,contemporary country,contemporary country,1,country,2,0
+outlaw country,progressive country,progressive country,1,country,2,0
+progressive bluegrass,bluegrass,bluegrass,1,country,2,1
+traditional bluegrass,bluegrass,bluegrass,1,country,2,0
+jamgrass,progressive bluegrass,progressive bluegrass,1,country,3,0
+country and irish,,,0,country and irish,0,0
+country folk,,,0,country folk,0,0
+country pop,,,0,country pop,0,3
+boyfriend country,country pop,country pop,1,country pop,1,0
+bro-country,country pop,country pop,1,country pop,1,0
+countrypolitan,country pop,country pop,1,country pop,1,0
+country rap,,,0,country rap,0,0
+country rock,,,0,country rock,0,1
+cosmic country,country rock,country rock,1,country rock,1,0
+country soul,,,0,country soul,0,0
+crossbreed,,,0,crossbreed,0,0
+crossover thrash,,,0,crossover thrash,0,0
+crunkcore,,,0,crunkcore,0,0
+cuarteto,,,0,cuarteto,0,0
+cueca,,,0,cueca,0,1
+cueca brava,cueca,cueca,1,cueca,1,0
+cumbia,,,0,cumbia,0,9
+cachaca,cumbia,cumbia,1,cumbia,1,0
+cumbia argentina,cumbia,cumbia,1,cumbia,1,4
+cumbia chilena,cumbia,cumbia,1,cumbia,1,0
+cumbia colombiana,cumbia,cumbia,1,cumbia,1,0
+cumbia mexicana,cumbia,cumbia,1,cumbia,1,1
+cumbia peruana,cumbia,cumbia,1,cumbia,1,5
+cumbia salvadoreña,cumbia,cumbia,1,cumbia,1,0
+nueva cumbia chilena,cumbia,cumbia,1,cumbia,1,0
+tecnocumbia,cumbia,cumbia,1,cumbia,1,0
+chicha,cumbia peruana,cumbia peruana,1,cumbia,2,0
+cumbia amazónica,cumbia peruana,cumbia peruana,1,cumbia,2,0
+cumbia norteña peruana,cumbia peruana,cumbia peruana,1,cumbia,2,0
+cumbia pop,cumbia argentina,cumbia argentina,1,cumbia,2,0
+cumbia sanjuanera,cumbia peruana,cumbia peruana,1,cumbia,2,0
+cumbia santafesina,cumbia argentina,cumbia argentina,1,cumbia,2,0
+cumbia sonidera,cumbia mexicana,cumbia mexicana,1,cumbia,2,1
+cumbia sureña peruana,cumbia peruana,cumbia peruana,1,cumbia,2,0
+cumbia turra,cumbia argentina,cumbia argentina,1,cumbia,2,0
+cumbia villera,cumbia argentina,cumbia argentina,1,cumbia,2,0
+cumbia rebajada,cumbia sonidera,cumbia sonidera,1,cumbia,3,0
+cumbia tejana,,,0,cumbia tejana,0,0
+cuplé,,,0,cuplé,0,0
+currulao,,,0,currulao,0,0
+cururu,,,0,cururu,0,0
+cyberpunk,,,0,cyberpunk,0,0
+cải lương,,,0,cải lương,0,0
+dabke,,,0,dabke,0,0
+dance,,,0,dance,0,3
+electro,dance,dance,1,dance,1,1
+eurobeat,dance,dance,1,dance,1,1
+eurodance,dance,dance,1,dance,1,2
+bubblegum dance,eurodance,eurodance,1,dance,2,0
+italo dance,eurodance,eurodance,1,dance,2,0
+j-euro,eurobeat,eurobeat,1,dance,2,0
+skweee,electro,electro,1,dance,2,0
+dangdut,,,0,dangdut,0,1
+koplo,dangdut,dangdut,1,dangdut,1,0
+danzón,,,0,danzón,0,0
+dark ambient,,,0,dark ambient,0,2
+black ambient,dark ambient,dark ambient,1,dark ambient,1,0
+ritual ambient,dark ambient,dark ambient,1,dark ambient,1,0
+dark cabaret,,,0,dark cabaret,0,0
+dark wave,,,0,dark wave,0,3
+ethereal wave,dark wave,dark wave,1,dark wave,1,0
+neoclassical dark wave,dark wave,dark wave,1,dark wave,1,0
+neue deutsche todeskunst,dark wave,dark wave,1,dark wave,1,0
+deathcore,,,0,deathcore,0,0
+deathgrind,,,0,deathgrind,0,0
+dembow,,,0,dembow,0,0
+demostyle,,,0,demostyle,0,0
+descarga,,,0,descarga,0,0
+desert blues,,,0,desert blues,0,0
+desgarrada,,,0,desgarrada,0,0
+dhaanto,,,0,dhaanto,0,0
+dhol tasha,,,0,dhol tasha,0,0
+digital cumbia,,,0,digital cumbia,0,0
+digital hardcore,,,0,digital hardcore,0,0
+dikir barat,,,0,dikir barat,0,0
+dimotiko,,,0,dimotiko,0,0
+disco,,,0,disco,0,4
+boogie,disco,disco,1,disco,1,0
+electro-disco,disco,disco,1,disco,1,4
+euro-disco,disco,disco,1,disco,1,0
+latin disco,disco,disco,1,disco,1,0
+hi-nrg,electro-disco,electro-disco,1,disco,2,0
+italo-disco,electro-disco,electro-disco,1,disco,2,0
+red disco,electro-disco,electro-disco,1,disco,2,0
+space disco,electro-disco,electro-disco,1,disco,2,0
+disco polo,,,0,disco polo,0,0
+djanba,,,0,djanba,0,0
+dobrado,,,0,dobrado,0,0
+dohori,,,0,dohori,0,0
+doina,,,0,doina,0,0
+dondang sayang,,,0,dondang sayang,0,0
+dongzu dage,,,0,dongzu dage,0,0
+drone,,,0,drone,0,0
+duma,,,0,duma,0,0
+electro swing,,,0,electro swing,0,0
+electronic,,,0,electronic,0,41
+algorave,electronic,electronic,1,electronic,1,0
+bit music,electronic,electronic,1,electronic,1,4
+black midi,electronic,electronic,1,electronic,1,0
+celtic electronica,electronic,electronic,1,electronic,1,0
+chillsynth,electronic,electronic,1,electronic,1,0
+club,electronic,electronic,1,electronic,1,0
+digital fusion,electronic,electronic,1,electronic,1,0
+downtempo,electronic,electronic,1,electronic,1,1
+drift phonk,electronic,electronic,1,electronic,1,0
+dungeon synth,electronic,electronic,1,electronic,1,4
+edm,electronic,electronic,1,electronic,1,65
+electronica,electronic,electronic,1,electronic,1,0
+experimental electronic,electronic,electronic,1,electronic,1,1
+flashcore,electronic,electronic,1,electronic,1,0
+folktronica,electronic,electronic,1,electronic,1,0
+funktronica,electronic,electronic,1,electronic,1,0
+futurepop,electronic,electronic,1,electronic,1,0
+glitch,electronic,electronic,1,electronic,1,0
+graphical sound,electronic,electronic,1,electronic,1,0
+hexd,electronic,electronic,1,electronic,1,0
+horror synth,electronic,electronic,1,electronic,1,0
+idm,electronic,electronic,1,electronic,1,1
+illbient,electronic,electronic,1,electronic,1,0
+indietronica,electronic,electronic,1,electronic,1,2
+krushclub,electronic,electronic,1,electronic,1,0
+leftfield,electronic,electronic,1,electronic,1,0
+microsound,electronic,electronic,1,electronic,1,0
+minatory,electronic,electronic,1,electronic,1,0
+minimal wave,electronic,electronic,1,electronic,1,1
+moogsploitation,electronic,electronic,1,electronic,1,0
+nightcore,electronic,electronic,1,electronic,1,0
+nu disco,electronic,electronic,1,electronic,1,0
+nu jazz,electronic,electronic,1,electronic,1,0
+progressive electronic,electronic,electronic,1,electronic,1,1
+psybient,electronic,electronic,1,electronic,1,0
+sampledelia,electronic,electronic,1,electronic,1,0
+seapunk,electronic,electronic,1,electronic,1,0
+synthwave,electronic,electronic,1,electronic,1,4
+vaporwave,electronic,electronic,1,electronic,1,10
+wave,electronic,electronic,1,electronic,1,2
+witch house,electronic,electronic,1,electronic,1,0
+aquacrunk,edm,edm,1,electronic,2,0
+artcore,edm,edm,1,electronic,2,0
+balani show,edm,edm,1,electronic,2,0
+baltimore club,edm,edm,1,electronic,2,0
+barber beats,vaporwave,vaporwave,1,electronic,2,0
+berlin school,progressive electronic,progressive electronic,1,electronic,2,0
+breakbeat,edm,edm,1,electronic,2,10
+breakcore,edm,edm,1,electronic,2,3
+broken beat,edm,edm,1,electronic,2,0
+broken transmission,vaporwave,vaporwave,1,electronic,2,0
+bubblegum bass,edm,edm,1,electronic,2,0
+bubbling,edm,edm,1,electronic,2,0
+budots,edm,edm,1,electronic,2,0
+bytebeat,bit music,bit music,1,electronic,2,0
+bérite club,edm,edm,1,electronic,2,0
+chillwave,indietronica,indietronica,1,electronic,2,0
+chiptune,bit music,bit music,1,electronic,2,0
+comfy synth,dungeon synth,dungeon synth,1,electronic,2,0
+coupé-décalé,edm,edm,1,electronic,2,0
+cruise,edm,edm,1,electronic,2,0
+dariacore,edm,edm,1,electronic,2,0
+dark disco,edm,edm,1,electronic,2,0
+darksynth,synthwave,synthwave,1,electronic,2,0
+deconstructed club,edm,edm,1,electronic,2,0
+doskpop,bit music,bit music,1,electronic,2,0
+dreampunk,vaporwave,vaporwave,1,electronic,2,0
+dreamwave,synthwave,synthwave,1,electronic,2,0
+drum and bass,edm,edm,1,electronic,2,19
+dubstep,edm,edm,1,electronic,2,6
+dungeon chip,dungeon synth,dungeon synth,1,electronic,2,0
+eccojams,vaporwave,vaporwave,1,electronic,2,0
+electro latino,edm,edm,1,electronic,2,0
+electroacoustic,experimental electronic,experimental electronic,1,electronic,2,3
+electroclash,edm,edm,1,electronic,2,0
+fm synthesis,bit music,bit music,1,electronic,2,0
+footwork,edm,edm,1,electronic,2,0
+footwork jungle,edm,edm,1,electronic,2,0
+freestyle,edm,edm,1,electronic,2,0
+funkot,edm,edm,1,electronic,2,0
+future bass,edm,edm,1,electronic,2,2
+future rave,edm,edm,1,electronic,2,0
+ghettotech,edm,edm,1,electronic,2,0
+glitch hop edm,edm,edm,1,electronic,2,2
+glitch pop,indietronica,indietronica,1,electronic,2,0
+grime,edm,edm,1,electronic,2,1
+hands up,edm,edm,1,electronic,2,1
+hard drum,edm,edm,1,electronic,2,0
+hard nrg,edm,edm,1,electronic,2,0
+hardcore techno,edm,edm,1,electronic,2,19
+hardstyle,edm,edm,1,electronic,2,6
+hardtekk,edm,edm,1,electronic,2,0
+hardvapour,vaporwave,vaporwave,1,electronic,2,0
+hardwave,wave,wave,1,electronic,2,0
+house,edm,edm,1,electronic,2,48
+hypertechno,edm,edm,1,electronic,2,0
+jersey club,edm,edm,1,electronic,2,0
+jumpstyle,edm,edm,1,electronic,2,1
+jungle terror,edm,edm,1,electronic,2,0
+keller synth,dungeon synth,dungeon synth,1,electronic,2,0
+kuduro,edm,edm,1,electronic,2,1
+lento violento,edm,edm,1,electronic,2,0
+mallsoft,vaporwave,vaporwave,1,electronic,2,0
+manyao,edm,edm,1,electronic,2,0
+melodic bass,edm,edm,1,electronic,2,0
+midtempo bass,edm,edm,1,electronic,2,0
+minimal synth,minimal wave,minimal wave,1,electronic,2,0
+moombahcore,edm,edm,1,electronic,2,0
+moombahton,edm,edm,1,electronic,2,0
+neo rave,edm,edm,1,electronic,2,0
+neo-grime,wave,wave,1,electronic,2,0
+nerdcore techno,edm,edm,1,electronic,2,0
+nortec,edm,edm,1,electronic,2,0
+ori deck,edm,edm,1,electronic,2,0
+outrun,synthwave,synthwave,1,electronic,2,0
+philly club,edm,edm,1,electronic,2,0
+post-dubstep,edm,edm,1,electronic,2,0
+rave,edm,edm,1,electronic,2,0
+shangaan electro,edm,edm,1,electronic,2,0
+singeli,edm,edm,1,electronic,2,0
+slimepunk,edm,edm,1,electronic,2,0
+slushwave,vaporwave,vaporwave,1,electronic,2,0
+sovietwave,synthwave,synthwave,1,electronic,2,0
+spacesynth,edm,edm,1,electronic,2,0
+techno,edm,edm,1,electronic,2,15
+toytown techno,edm,edm,1,electronic,2,0
+trance,edm,edm,1,electronic,2,16
+trap edm,edm,edm,1,electronic,2,5
+tribal guarachero,edm,edm,1,electronic,2,0
+trip hop,downtempo,downtempo,1,electronic,2,0
+uk funky,edm,edm,1,electronic,2,0
+uk garage,edm,edm,1,electronic,2,6
+utopian virtual,vaporwave,vaporwave,1,electronic,2,0
+vapornoise,vaporwave,vaporwave,1,electronic,2,0
+vaportrap,vaporwave,vaporwave,1,electronic,2,0
+winter synth,dungeon synth,dungeon synth,1,electronic,2,0
+2-step,uk garage,uk garage,1,electronic,3,0
+acid breaks,breakbeat,breakbeat,1,electronic,3,0
+acid house,house,house,1,electronic,3,0
+acid techno,techno,techno,1,electronic,3,0
+acid trance,trance,trance,1,electronic,3,0
+acidcore,hardcore techno,hardcore techno,1,electronic,3,0
+acousmatic,electroacoustic,electroacoustic,1,electronic,3,0
+afro house,house,house,1,electronic,3,1
+amapiano,house,house,1,electronic,3,0
+ambient house,house,house,1,electronic,3,0
+ambient techno,techno,techno,1,electronic,3,0
+ambient trance,trance,trance,1,electronic,3,0
+amigacore,hardcore techno,hardcore techno,1,electronic,3,0
+atmospheric drum and bass,drum and bass,drum and bass,1,electronic,3,0
+balearic beat,house,house,1,electronic,3,0
+balearic trance,trance,trance,1,electronic,3,0
+ballroom house,house,house,1,electronic,3,0
+bass house,house,house,1,electronic,3,0
+bassline,uk garage,uk garage,1,electronic,3,0
+batida,kuduro,kuduro,1,electronic,3,0
+belgian techno,hardcore techno,hardcore techno,1,electronic,3,0
+big beat,breakbeat,breakbeat,1,electronic,3,0
+big room house,house,house,1,electronic,3,0
+big room trance,trance,trance,1,electronic,3,0
+bleep techno,techno,techno,1,electronic,3,0
+brazilian bass,house,house,1,electronic,3,0
+breakbeat hardcore,breakbeat,breakbeat,1,electronic,3,3
+breakbeat kota,breakbeat,breakbeat,1,electronic,3,1
+breakstep,uk garage,uk garage,1,electronic,3,0
+brostep,dubstep,dubstep,1,electronic,3,5
+buchiage trance,hands up,hands up,1,electronic,3,0
+changa tuki,house,house,1,electronic,3,0
+chicago house,house,house,1,electronic,3,0
+chillstep,dubstep,dubstep,1,electronic,3,0
+dancefloor drum and bass,drum and bass,drum and bass,1,electronic,3,0
+dark garage,uk garage,uk garage,1,electronic,3,0
+darkcore edm,hardcore techno,hardcore techno,1,electronic,3,0
+darkstep,drum and bass,drum and bass,1,electronic,3,1
+deathchant hardcore,hardcore techno,hardcore techno,1,electronic,3,0
+deep drum and bass,drum and bass,drum and bass,1,electronic,3,0
+deep house,house,house,1,electronic,3,0
+deep techno,techno,techno,1,electronic,3,0
+detroit techno,techno,techno,1,electronic,3,0
+diva house,house,house,1,electronic,3,1
+doomcore,hardcore techno,hardcore techno,1,electronic,3,0
+dream trance,trance,trance,1,electronic,3,0
+drill and bass,drum and bass,drum and bass | idm,2,electronic,3,0
+drumfunk,drum and bass,drum and bass,1,electronic,3,0
+drumstep,drum and bass,drum and bass,1,electronic,3,0
+dubstyle,hardstyle,hardstyle,1,electronic,3,0
+dubwise,drum and bass,drum and bass,1,electronic,3,0
+dungeon sound,dubstep,dubstep,1,electronic,3,0
+early hardstyle,hardstyle,hardstyle,1,electronic,3,0
+electro house,house,house,1,electronic,3,5
+electro trance,trance,trance,1,electronic,3,0
+euphoric hardstyle,hardstyle,hardstyle,1,electronic,3,0
+euro house,house,house,1,electronic,3,0
+euro-trance,trance,trance,1,electronic,3,0
+festival progressive house,house,house,1,electronic,3,0
+festival trap,trap edm,trap edm,1,electronic,3,0
+florida breaks,breakbeat,breakbeat,1,electronic,3,0
+frapcore,hardcore techno,hardcore techno,1,electronic,3,0
+free tekno,techno,techno,1,electronic,3,0
+freeform hardcore,hardcore techno,hardcore techno,1,electronic,3,0
+french house,house,house,1,electronic,3,0
+frenchcore,hardcore techno,hardcore techno,1,electronic,3,0
+frenchtek,jumpstyle,jumpstyle,1,electronic,3,0
+funky breaks,breakbeat,breakbeat,1,electronic,3,0
+funky house,house,house,1,electronic,3,0
+future bounce,house,house,1,electronic,3,0
+future core,future bass,future bass,1,electronic,3,0
+future funk,house,house,1,electronic,3,0
+future garage,uk garage,uk garage,1,electronic,3,0
+future house,house,house,1,electronic,3,0
+g-house,house,house,1,electronic,3,0
+gabber,hardcore techno,hardcore techno,1,electronic,3,2
+garage house,house,house,1,electronic,3,1
+ghetto funk,glitch hop edm,glitch hop edm,1,electronic,3,0
+ghetto house,house,house,1,electronic,3,1
+goa trance,trance,trance,1,electronic,3,1
+gqom,house,house,1,electronic,3,0
+halftime,drum and bass,drum and bass,1,electronic,3,0
+happy hardcore,hardcore techno,hardcore techno,1,electronic,3,2
+hard house,house,house,1,electronic,3,2
+hard techno,techno,techno,1,electronic,3,0
+hard trance,trance,trance,1,electronic,3,0
+hard trap,trap edm,trap edm,1,electronic,3,0
+hardgroove techno,techno,techno,1,electronic,3,0
+hardstep,drum and bass,drum and bass,1,electronic,3,0
+heaven trap,trap edm,trap edm,1,electronic,3,0
+hi-tech full-on,trance,trance,1,electronic,3,0
+hip house,house,house,1,electronic,3,0
+hybrid trap,trap edm,trap edm,1,electronic,3,0
+hyper techno,hardcore techno,hardcore techno,1,electronic,3,0
+industrial hardcore,hardcore techno,hardcore techno,1,electronic,3,0
+industrial techno,techno,techno,1,electronic,3,1
+italo house,house,house,1,electronic,3,0
+j-core,hardcore techno,hardcore techno,1,electronic,3,1
+jackin house,house,house,1,electronic,3,0
+jazz house,house,house,1,electronic,3,0
+jazzstep,drum and bass,drum and bass,1,electronic,3,0
+jersey sound,house,house,1,electronic,3,0
+jump up,drum and bass,drum and bass,1,electronic,3,0
+jungle,drum and bass,drum and bass,1,electronic,3,1
+kawaii future bass,future bass,future bass,1,electronic,3,0
+kwaito,house,house,1,electronic,3,1
+latin house,house,house,1,electronic,3,0
+liquid funk,drum and bass,drum and bass,1,electronic,3,1
+lolicore,breakcore,breakcore,1,electronic,3,0
+makina,techno,techno,1,electronic,3,0
+mashcore,breakcore,breakcore,1,electronic,3,0
+melodic dubstep,dubstep,dubstep,1,electronic,3,0
+melodic house,house,house,1,electronic,3,0
+melodic techno,techno,techno,1,electronic,3,0
+melodic trance,trance,trance,1,electronic,3,0
+microhouse,house,house,1,electronic,3,0
+minimal drum and bass,drum and bass,drum and bass,1,electronic,3,2
+minimal techno,techno,techno,1,electronic,3,2
+modern hardtek,hardcore techno,hardcore techno,1,electronic,3,2
+musique concrète,electroacoustic,electroacoustic,1,electronic,3,0
+neurofunk,drum and bass,drum and bass,1,electronic,3,0
+neurohop,glitch hop edm,glitch hop edm,1,electronic,3,0
+nu skool breaks,breakbeat,breakbeat,1,electronic,3,0
+nustyle,hardstyle,hardstyle,1,electronic,3,0
+organic house,house,house,1,electronic,3,0
+outsider house,house,house,1,electronic,3,1
+peak time techno,techno,techno,1,electronic,3,0
+phonk house,house,house,1,electronic,3,0
+powerstomp,hardcore techno,hardcore techno,1,electronic,3,0
+progressive breaks,breakbeat,breakbeat,1,electronic,3,0
+progressive house,house,house,1,electronic,3,1
+progressive trance,trance,trance,1,electronic,3,0
+psybreaks,breakbeat,breakbeat,1,electronic,3,0
+psystyle,hardstyle,hardstyle,1,electronic,3,0
+psytrance,trance,trance,1,electronic,3,5
+purple sound,dubstep,dubstep,1,electronic,3,0
+raggacore,breakcore,breakcore,1,electronic,3,0
+rawstyle,hardstyle,hardstyle,1,electronic,3,2
+schranz,techno,techno,1,electronic,3,0
+slap house,house,house,1,electronic,3,0
+speed garage,uk garage,uk garage,1,electronic,3,0
+speed house,house,house,1,electronic,3,0
+speedcore,hardcore techno,hardcore techno,1,electronic,3,2
+stutter house,house,house,1,electronic,3,0
+tearout,dubstep,dubstep,1,electronic,3,0
+tech house,house,house,1,electronic,3,2
+tech trance,trance,trance,1,electronic,3,0
+technoid,drum and bass,drum and bass,1,electronic,3,0
+techstep,drum and bass,drum and bass,1,electronic,3,0
+terrorcore,hardcore techno,hardcore techno,1,electronic,3,0
+text-sound composition,electroacoustic,electroacoustic | sound poetry,2,electronic,3,0
+trance 2.0,trance,trance,1,electronic,3,0
+trancestep,drum and bass,drum and bass,1,electronic,3,0
+tribal house,house,house,1,electronic,3,1
+tropical house,house,house,1,electronic,3,0
+twerk,trap edm,trap edm,1,electronic,3,0
+uk jackin,house,house,1,electronic,3,0
+uptempo hardcore,hardcore techno,hardcore techno,1,electronic,3,0
+vinahouse,house,house,1,electronic,3,0
+vocal house,house,house,1,electronic,3,0
+vocal trance,trance,trance,1,electronic,3,0
+weightless,grime,grime,1,electronic,3,0
+west coast breaks,breakbeat,breakbeat,1,electronic,3,0
+wonky techno,techno,techno,1,electronic,3,0
+3-step,afro house,afro house,1,electronic,4,0
+autonomic,minimal drum and bass,minimal drum and bass,1,electronic,4,0
+bacardi,kwaito,kwaito,1,electronic,4,0
+birmingham sound,industrial techno,industrial techno,1,electronic,4,0
+bouncy techno,happy hardcore,happy hardcore,1,electronic,4,0
+briddim,brostep,brostep,1,electronic,4,0
+colour bass,brostep,brostep,1,electronic,4,0
+complextro,electro house,electro house,1,electronic,4,0
+dark psytrance,psytrance,psytrance,1,electronic,4,2
+darkcore,breakbeat hardcore,breakbeat hardcore,1,electronic,4,0
+deathstep,brostep,brostep,1,electronic,4,0
+deep tech,tech house,tech house,1,electronic,4,0
+donk,hard house,hard house,1,electronic,4,0
+dub techno,minimal techno,minimal techno,1,electronic,4,0
+dutch house,electro house,electro house,1,electronic,4,0
+dutch trancecore,gabber,gabber,1,electronic,4,0
+epic house,progressive house,progressive house,1,electronic,4,0
+extratone,speedcore,speedcore,1,electronic,4,0
+fidget house,electro house,electro house,1,electronic,4,0
+forest psytrance,psytrance,psytrance,1,electronic,4,0
+french electro,electro house,electro house,1,electronic,4,0
+full-on,psytrance,psytrance,1,electronic,4,1
+gospel house,garage house,garage house,1,electronic,4,0
+guaracha edm,tribal house,tribal house,1,electronic,4,0
+hard renaissance,j-core,j-core,1,electronic,4,0
+hardbag,diva house,diva house,1,electronic,4,0
+hardbass,hard house,hard house,1,electronic,4,0
+hardcore breaks,breakbeat hardcore,breakbeat hardcore,1,electronic,4,0
+juke,ghetto house,ghetto house,1,electronic,4,0
+jungle dutch,breakbeat kota,breakbeat kota,1,electronic,4,0
+jungle techno,breakbeat hardcore,breakbeat hardcore,1,electronic,4,0
+lo-fi house,outsider house,outsider house,1,electronic,4,0
+melbourne bounce,electro house,electro house,1,electronic,4,0
+microfunk,minimal drum and bass,minimal drum and bass,1,electronic,4,0
+neo-trance,minimal techno,minimal techno,1,electronic,4,0
+nitzhonot,goa trance,goa trance,1,electronic,4,0
+nu style gabber,gabber,gabber,1,electronic,4,0
+progressive psytrance,psytrance,psytrance,1,electronic,4,1
+pumpcore,modern hardtek,modern hardtek,1,electronic,4,0
+ragga jungle,jungle,jungle,1,electronic,4,0
+raggatek,modern hardtek,modern hardtek,1,electronic,4,0
+rawphoric,rawstyle,rawstyle,1,electronic,4,0
+riddim dubstep,brostep,brostep,1,electronic,4,2
+rominimal,tech house,tech house,1,electronic,4,0
+sambass,liquid funk,liquid funk,1,electronic,4,0
+skullstep,darkstep,darkstep,1,electronic,4,0
+splittercore,speedcore,speedcore,1,electronic,4,0
+suomisaundi,psytrance,psytrance,1,electronic,4,0
+tearout brostep,brostep,brostep,1,electronic,4,0
+uk hardcore,happy hardcore,happy hardcore,1,electronic,4,0
+xtra raw,rawstyle,rawstyle,1,electronic,4,0
+future riddim,riddim dubstep,riddim dubstep,1,electronic,5,0
+hi-tech,dark psytrance,dark psytrance,1,electronic,5,0
+liquid riddim,riddim dubstep,riddim dubstep,1,electronic,5,0
+night full-on,full-on,full-on,1,electronic,5,0
+psycore,dark psytrance,dark psytrance,1,electronic,5,0
+zenonesque,progressive psytrance,progressive psytrance,1,electronic,5,0
+electronic rock,,,0,electronic rock,0,0
+electronicore,,,0,electronicore,0,0
+electrotango,,,0,electrotango,0,0
+emo pop,,,0,emo pop,0,0
+emo rap,,,0,emo rap,0,0
+enka,,,0,enka,0,0
+estrada,,,0,estrada,0,0
+experimental,,,0,experimental,0,8
+conducted improvisation,experimental,experimental,1,experimental,1,0
+data sonification,experimental,experimental,1,experimental,1,0
+noise,experimental,experimental,1,experimental,1,3
+plunderphonics,experimental,experimental,1,experimental,1,2
+reductionism,experimental,experimental,1,experimental,1,2
+sound art,experimental,experimental,1,experimental,1,0
+sound collage,experimental,experimental,1,experimental,1,1
+tape music,experimental,experimental,1,experimental,1,0
+black noise,noise,noise,1,experimental,2,0
+harsh noise,noise,noise,1,experimental,2,2
+lowercase,reductionism,reductionism,1,experimental,2,0
+mad,plunderphonics,plunderphonics,1,experimental,2,0
+onkyo,reductionism,reductionism,1,experimental,2,0
+power electronics,noise,noise,1,experimental,2,0
+spamwave,sound collage,sound collage,1,experimental,2,0
+ytpmv,plunderphonics,plunderphonics,1,experimental,2,0
+cut-up noise,harsh noise,harsh noise,1,experimental,3,0
+harsh noise wall,harsh noise,harsh noise,1,experimental,3,1
+ambient noise wall,harsh noise wall,harsh noise wall,1,experimental,4,0
+fado,,,0,fado,0,1
+fado de coimbra,fado,fado,1,fado,1,0
+fakaseasea,,,0,fakaseasea,0,0
+famo,,,0,famo,0,0
+fandango,,,0,fandango,0,1
+fandango caiçara,fandango,fandango,1,fandango,1,0
+fantezi,,,0,fantezi,0,0
+field recording,,,0,field recording,0,1
+nature sounds,field recording,field recording,1,field recording,1,2
+animal sounds,nature sounds,nature sounds,1,field recording,2,2
+rain sounds,nature sounds,nature sounds,1,field recording,2,0
+birdsong,animal sounds,animal sounds,1,field recording,3,0
+whale song,animal sounds,animal sounds,1,field recording,3,0
+filipino rondalla,,,0,filipino rondalla,0,0
+filmi,,,0,filmi,0,0
+flamenco,,,0,flamenco,0,3
+bulería,flamenco,flamenco,1,flamenco,1,0
+nuevo flamenco,flamenco,flamenco,1,flamenco,1,0
+rumba flamenca,flamenco,flamenco,1,flamenco,1,0
+flamenco jazz,,,0,flamenco jazz,0,0
+folk,,,0,folk,0,43
+appalachian folk,folk,folk,1,folk,1,0
+bagad,folk,folk,1,folk,1,0
+baguala,folk,folk,1,folk,1,0
+biraha,folk,folk,1,folk,1,0
+celtic,folk,folk,1,folk,1,2
+contemporary folk,folk,folk,1,folk,1,13
+drinking song,folk,folk,1,folk,1,0
+fahrtenlied,folk,folk,1,folk,1,0
+falak,folk,folk,1,folk,1,0
+fife and drum blues,folk,folk,1,folk,1,0
+fijiri,folk,folk,1,folk,1,0
+hungarian folk,folk,folk,1,folk,1,3
+isa,folk,folk,1,folk,1,0
+ländlermusik,folk,folk,1,folk,1,0
+música criolla,folk,folk,1,folk,1,5
+neo-medieval folk,folk,folk,1,folk,1,0
+nepali lok geet,folk,folk,1,folk,1,0
+new mexico music,folk,folk,1,folk,1,0
+néo-trad,folk,folk,1,folk,1,0
+old-time,folk,folk,1,folk,1,0
+pagan folk,folk,folk,1,folk,1,0
+rabbit song,folk,folk,1,folk,1,0
+scottish country dance music,folk,folk,1,folk,1,0
+scrumpy and western,folk,folk,1,folk,1,0
+seguidilla,folk,folk,1,folk,1,0
+sevdalinka,folk,folk,1,folk,1,0
+sevillanas,folk,folk,1,folk,1,0
+skiffle,folk,folk,1,folk,1,0
+stornello,folk,folk,1,folk,1,0
+sutartinės,folk,folk,1,folk,1,0
+tajaraste,folk,folk,1,folk,1,0
+talking blues,folk,folk,1,folk,1,0
+tarantella,folk,folk,1,folk,1,2
+tonada asturiana,folk,folk,1,folk,1,0
+trampská hudba,folk,folk,1,folk,1,0
+trikitixa,folk,folk,1,folk,1,0
+turkish folk,folk,folk,1,folk,1,1
+visa,folk,folk,1,folk,1,0
+waulking song,folk,folk,1,folk,1,0
+white voice,folk,folk,1,folk,1,0
+work song,folk,folk,1,folk,1,6
+xuc,folk,folk,1,folk,1,0
+yodeling,folk,folk,1,folk,1,0
+aboio,work song,work song,1,folk,2,0
+alternative folk,contemporary folk,contemporary folk,1,folk,2,0
+american primitive guitar,contemporary folk,contemporary folk,1,folk,2,0
+anti-folk,contemporary folk,contemporary folk,1,folk,2,0
+avant-folk,contemporary folk,contemporary folk,1,folk,2,0
+cape breton fiddling,celtic,celtic,1,folk,2,0
+chamber folk,contemporary folk,contemporary folk,1,folk,2,0
+csárdás,hungarian folk,hungarian folk,1,folk,2,0
+festejo,música criolla,música criolla,1,folk,2,0
+filk,contemporary folk,contemporary folk,1,folk,2,0
+haozi,work song,work song,1,folk,2,0
+indie folk,contemporary folk,contemporary folk,1,folk,2,0
+industrial folk song,work song,work song,1,folk,2,0
+irish folk,celtic,celtic,1,folk,2,1
+landó,música criolla,música criolla,1,folk,2,0
+loner folk,contemporary folk,contemporary folk,1,folk,2,0
+marinera,música criolla,música criolla,1,folk,2,1
+military cadence,work song,work song,1,folk,2,0
+neofolk,contemporary folk,contemporary folk,1,folk,2,1
+neofolklore,contemporary folk,contemporary folk,1,folk,2,0
+nóta,hungarian folk,hungarian folk,1,folk,2,0
+pizzica,tarantella,tarantella,1,folk,2,0
+polca criolla,música criolla,música criolla,1,folk,2,0
+progressive folk,contemporary folk,contemporary folk,1,folk,2,0
+psychedelic folk,contemporary folk,contemporary folk,1,folk,2,4
+pásztordal,hungarian folk,hungarian folk,1,folk,2,0
+sea shanty,work song,work song,1,folk,2,0
+shan'ge,work song,work song,1,folk,2,0
+stomp and holler,contemporary folk,contemporary folk,1,folk,2,0
+tammurriata,tarantella,tarantella,1,folk,2,0
+vals criollo,música criolla,música criolla,1,folk,2,0
+zeybek,turkish folk,turkish folk,1,folk,2,0
+dark folk,neofolk,neofolk,1,folk,3,0
+freak folk,psychedelic folk,psychedelic folk,1,folk,3,0
+free folk,psychedelic folk,psychedelic folk,1,folk,3,0
+marinera norteña,marinera,marinera,1,folk,3,0
+sean-nós,irish folk,irish folk,1,folk,3,0
+udigrudi,psychedelic folk,psychedelic folk,1,folk,3,0
+wyrd folk,psychedelic folk,psychedelic folk,1,folk,3,0
+folk pop,,,0,folk pop,0,3
+manele,folk pop,folk pop,1,folk pop,1,0
+tallava,folk pop,folk pop,1,folk pop,1,0
+turbo-folk,folk pop,folk pop,1,folk pop,1,0
+folkhop,,,0,folkhop,0,0
+football chant,,,0,football chant,0,0
+forró,,,0,forró,0,2
+forró eletrônico,forró,forró,1,forró,1,2
+forró universitário,forró,forró,1,forró,1,0
+forró de favela,forró eletrônico,forró eletrônico,1,forró,2,0
+piseiro,forró eletrônico,forró eletrônico,1,forró,2,0
+free improvisation,,,0,free improvisation,0,1
+eai,free improvisation,free improvisation,1,free improvisation,1,0
+frevo,,,0,frevo,0,4
+frevo de bloco,frevo,frevo,1,frevo,1,0
+frevo de rua,frevo,frevo,1,frevo,1,0
+frevo elétrico,frevo,frevo,1,frevo,1,0
+frevo-canção,frevo,frevo,1,frevo,1,0
+fuji,,,0,fuji,0,0
+funaná,,,0,funaná,0,0
+fungi,,,0,fungi,0,0
+funk,,,0,funk,0,9
+afro-funk,funk,funk,1,funk,1,0
+brit funk,funk,funk,1,funk,1,0
+deep funk,funk,funk,1,funk,1,0
+electro-funk,funk,funk,1,funk,1,0
+go-go,funk,funk,1,funk,1,1
+latin funk,funk,funk,1,funk,1,0
+p-funk,funk,funk,1,funk,1,0
+porn groove,funk,funk,1,funk,1,0
+synth funk,funk,funk,1,funk,1,1
+bounce beat,go-go,go-go,1,funk,2,0
+minneapolis sound,synth funk,synth funk,1,funk,2,0
+funk brasileiro,,,0,funk brasileiro,0,15
+arrocha funk,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+beat bolha,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+beat fino,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+eletrofunk,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+funk carioca,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+funk consciente,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+funk de bh,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+funk mandelão,funk brasileiro,funk brasileiro,1,funk brasileiro,1,4
+funk melody,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+funk ostentação,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+funk proibidão,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+mega funk,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+rasteirinha,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+tamborzão,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+trapfunk,funk brasileiro,funk brasileiro,1,funk brasileiro,1,0
+beat bruxaria,funk mandelão,funk mandelão,1,funk brasileiro,2,0
+brazilian phonk,funk mandelão,funk mandelão,1,funk brasileiro,2,0
+funk automotivo,funk mandelão,funk mandelão,1,funk brasileiro,2,0
+ritmada,funk mandelão,funk mandelão,1,funk brasileiro,2,0
+funk metal,,,0,funk metal,0,0
+funk rock,,,0,funk rock,0,0
+fusion gugak,,,0,fusion gugak,0,0
+gaana,,,0,gaana,0,0
+gaelic psalm singing,,,0,gaelic psalm singing,0,0
+gaita zuliana,,,0,gaita zuliana,0,0
+gambang kromong,,,0,gambang kromong,0,0
+garage punk,,,0,garage punk,0,1
+budget rock,garage punk,garage punk,1,garage punk,1,0
+garba,,,0,garba,0,0
+ghazal,,,0,ghazal,0,0
+glam,,,0,glam,0,0
+glam punk,,,0,glam punk,0,0
+glitch hop,,,0,glitch hop,0,0
+gnawa,,,0,gnawa,0,0
+gondang,,,0,gondang,0,0
+goombay,,,0,goombay,0,0
+gospel,,,0,gospel,0,6
+contemporary gospel,gospel,gospel,1,gospel,1,0
+praise break,gospel,gospel,1,gospel,1,0
+sacred steel,gospel,gospel,1,gospel,1,0
+southern gospel,gospel,gospel,1,gospel,1,0
+traditional black gospel,gospel,gospel,1,gospel,1,0
+urban contemporary gospel,gospel,gospel,1,gospel,1,0
+gospel hymn,,,0,gospel hymn,0,0
+gothic,,,0,gothic,0,0
+grindcore,,,0,grindcore,0,4
+cybergrind,grindcore,grindcore,1,grindcore,1,0
+goregrind,grindcore,grindcore,1,grindcore,1,2
+mincecore,grindcore,grindcore,1,grindcore,1,0
+noisegrind,grindcore,grindcore,1,grindcore,1,0
+gorenoise,goregrind,goregrind,1,grindcore,2,0
+pornogrind,goregrind,goregrind,1,grindcore,2,0
+griot,,,0,griot,0,0
+gstanzl,,,0,gstanzl,0,0
+guajira,,,0,guajira,0,0
+guangdong yinyue,,,0,guangdong yinyue,0,0
+guaracha,,,0,guaracha,0,0
+guaracha santiagueña,,,0,guaracha santiagueña,0,0
+guarania,,,0,guarania,0,0
+guayla,,,0,guayla,0,0
+gumbe,,,0,gumbe,0,0
+gwo ka,,,0,gwo ka,0,0
+għana,,,0,għana,0,0
+habanera,,,0,habanera,0,0
+haitian vodou drumming,,,0,haitian vodou drumming,0,0
+hambo,,,0,hambo,0,0
+hanmai,,,0,hanmai,0,0
+hapa haole,,,0,hapa haole,0,0
+harana,,,0,harana,0,0
+harawi,,,0,harawi,0,0
+hauntology,,,0,hauntology,0,0
+highlife,,,0,highlife,0,1
+burger-highlife,highlife,highlife,1,highlife,1,0
+himene tarava,,,0,himene tarava,0,0
+hip hop,,,0,hip hop,0,54
+abstract hip hop,hip hop,hip hop,1,hip hop,1,0
+afro trap,hip hop,hip hop,1,hip hop,1,0
+afroswing,hip hop,hip hop,1,hip hop,1,0
+alternative hip hop,hip hop,hip hop,1,hip hop,1,0
+arabesk rap,hip hop,hip hop,1,hip hop,1,0
+battle rap,hip hop,hip hop,1,hip hop,1,0
+bongo flava,hip hop,hip hop,1,hip hop,1,0
+boom bap,hip hop,hip hop,1,hip hop,1,0
+bounce,hip hop,hip hop,1,hip hop,1,1
+chicano rap,hip hop,hip hop,1,hip hop,1,0
+chipmunk soul,hip hop,hip hop,1,hip hop,1,0
+chopped and screwed,hip hop,hip hop,1,hip hop,1,0
+christian hip hop,hip hop,hip hop,1,hip hop,1,0
+cloud rap,hip hop,hip hop,1,hip hop,1,0
+comedy hip hop,hip hop,hip hop,1,hip hop,1,1
+conscious hip hop,hip hop,hip hop,1,hip hop,1,0
+crunk,hip hop,hip hop,1,hip hop,1,0
+digicore,hip hop,hip hop,1,hip hop,1,0
+drumless hip hop,hip hop,hip hop,1,hip hop,1,0
+east coast hip hop,hip hop,hip hop,1,hip hop,1,0
+experimental hip hop,hip hop,hip hop,1,hip hop,1,1
+g-funk,hip hop,hip hop,1,hip hop,1,0
+gangsta rap,hip hop,hip hop,1,hip hop,1,3
+genge,hip hop,hip hop,1,hip hop,1,1
+hardcore hip hop,hip hop,hip hop,1,hip hop,1,3
+hipco,hip hop,hip hop,1,hip hop,1,0
+hiplife,hip hop,hip hop,1,hip hop,1,0
+horrorcore,hip hop,hip hop,1,hip hop,1,0
+houston sound,hip hop,hip hop,1,hip hop,1,0
+hyphy,hip hop,hip hop,1,hip hop,1,0
+instrumental hip hop,hip hop,hip hop,1,hip hop,1,1
+jazz rap,hip hop,hip hop,1,hip hop,1,0
+jerk,hip hop,hip hop,1,hip hop,1,0
+jerk rap,hip hop,hip hop,1,hip hop,1,0
+jersey club rap,hip hop,hip hop,1,hip hop,1,0
+lowend,hip hop,hip hop,1,hip hop,1,0
+miami bass,hip hop,hip hop,1,hip hop,1,1
+mobb music,hip hop,hip hop,1,hip hop,1,0
+nerdcore,hip hop,hip hop,1,hip hop,1,0
+old school hip hop,hip hop,hip hop,1,hip hop,1,0
+philly club rap,hip hop,hip hop,1,hip hop,1,0
+phonk,hip hop,hip hop,1,hip hop,1,0
+political hip hop,hip hop,hip hop,1,hip hop,1,0
+pop rap,hip hop,hip hop,1,hip hop,1,2
+punk rap,hip hop,hip hop,1,hip hop,1,0
+ratchet music,hip hop,hip hop,1,hip hop,1,0
+samba rap,hip hop,hip hop,1,hip hop,1,0
+snap,hip hop,hip hop,1,hip hop,1,0
+southern hip hop,hip hop,hip hop,1,hip hop,1,1
+stoner rap,hip hop,hip hop,1,hip hop,1,0
+trap,hip hop,hip hop,1,hip hop,1,12
+turntablism,hip hop,hip hop,1,hip hop,1,1
+underground hip hop,hip hop,hip hop,1,hip hop,1,0
+west coast hip hop,hip hop,hip hop,1,hip hop,1,0
+battle record,turntablism,turntablism,1,hip hop,2,0
+britcore,hardcore hip hop,hardcore hip hop,1,hip hop,2,0
+chap hop,comedy hip hop,comedy hip hop,1,hip hop,2,0
+chicago bop,pop rap,pop rap,1,hip hop,2,0
+chopper,hardcore hip hop,hardcore hip hop,1,hip hop,2,0
+coke rap,gangsta rap,gangsta rap,1,hip hop,2,0
+detroit trap,trap,trap,1,hip hop,2,0
+dirty south,southern hip hop,southern hip hop,1,hip hop,2,0
+drill,trap,trap,1,hip hop,2,6
+frat rap,pop rap,pop rap,1,hip hop,2,0
+gengetone,genge,genge,1,hip hop,2,0
+industrial hip hop,experimental hip hop,experimental hip hop,1,hip hop,2,0
+lo-fi hip hop,instrumental hip hop,instrumental hip hop,1,hip hop,2,0
+mafioso rap,gangsta rap,gangsta rap,1,hip hop,2,0
+memphis rap,hardcore hip hop,hardcore hip hop,1,hip hop,2,1
+new jazz,trap,trap,1,hip hop,2,0
+no melody trap,trap,trap,1,hip hop,2,0
+plugg,trap,trap,1,hip hop,2,4
+rage,trap,trap,1,hip hop,2,0
+regalia,trap,trap,1,hip hop,2,0
+scam rap,gangsta rap,gangsta rap,1,hip hop,2,0
+sigilkore,trap,trap,1,hip hop,2,0
+sissy bounce,bounce,bounce,1,hip hop,2,0
+techno bass,miami bass,miami bass,1,hip hop,2,0
+trap latino,trap,trap,1,hip hop,2,0
+trap metal,trap,trap,1,hip hop,2,0
+trap shaabi,trap,trap,1,hip hop,2,0
+tread,trap,trap,1,hip hop,2,0
+ambient plugg,plugg,plugg,1,hip hop,3,0
+chicago drill,drill,drill,1,hip hop,3,0
+dark plugg,plugg,plugg,1,hip hop,3,0
+dungeon rap,memphis rap,memphis rap,1,hip hop,3,0
+free car music,drill,drill,1,hip hop,3,0
+jersey drill,drill,drill,1,hip hop,3,0
+new york drill,drill,drill,1,hip hop,3,2
+philly drill,drill,drill,1,hip hop,3,0
+pluggnb,plugg,plugg,1,hip hop,3,1
+terror plugg,plugg,plugg,1,hip hop,3,0
+uk drill,drill,drill,1,hip hop,3,0
+asian rock,pluggnb,pluggnb,1,hip hop,4,0
+sample drill,new york drill,new york drill,1,hip hop,4,0
+sexy drill,new york drill,new york drill,1,hip hop,4,0
+hopepunk,,,0,hopepunk,0,0
+hornpipe,,,0,hornpipe,0,0
+huapango,,,0,huapango,0,0
+huaylarsh,,,0,huaylarsh,0,0
+huayno,,,0,huayno,0,3
+chimayche,huayno,huayno,1,huayno,1,0
+chuscada,huayno,huayno,1,huayno,1,0
+huayno con arpa,huayno,huayno,1,huayno,1,0
+humppa,,,0,humppa,0,0
+industrial,,,0,industrial,0,3
+death industrial,industrial,industrial,1,industrial,1,0
+electro-industrial,industrial,industrial,1,industrial,1,1
+post-industrial,industrial,industrial,1,industrial,1,4
+dark electro,electro-industrial,electro-industrial,1,industrial,2,1
+ebm,post-industrial,post-industrial,1,industrial,2,1
+epic collage,post-industrial,post-industrial,1,industrial,2,0
+martial industrial,post-industrial,post-industrial,1,industrial,2,0
+power noise,post-industrial,post-industrial,1,industrial,2,0
+aggrotech,dark electro,dark electro,1,industrial,3,0
+new beat,ebm,ebm,1,industrial,3,2
+hard beat,new beat,new beat,1,industrial,4,0
+skizzo,new beat,new beat,1,industrial,4,0
+industrial metal,,,0,industrial metal,0,1
+cyber metal,industrial metal,industrial metal,1,industrial metal,1,0
+industrial rock,,,0,industrial rock,0,1
+machine rock,industrial rock,industrial rock,1,industrial rock,1,0
+instrumental,,,0,instrumental,0,0
+isicathamiya,,,0,isicathamiya,0,0
+islamic religious music,,,0,islamic religious music,0,6
+adhan,islamic religious music,islamic religious music,1,islamic religious music,1,0
+ginan,islamic religious music,islamic religious music,1,islamic religious music,1,0
+maddahi,islamic religious music,islamic religious music,1,islamic religious music,1,1
+mappila,islamic religious music,islamic religious music,1,islamic religious music,1,0
+mataali,islamic religious music,islamic religious music,1,islamic religious music,1,0
+nasheed,islamic religious music,islamic religious music,1,islamic religious music,1,0
+shoor,maddahi,maddahi,1,islamic religious music,2,0
+izlan,,,0,izlan,0,0
+izvorna bosanska muzika,,,0,izvorna bosanska muzika,0,0
+jaipongan,,,0,jaipongan,0,0
+james bay fiddling,,,0,james bay fiddling,0,0
+jazz,,,0,jazz,0,36
+afro-jazz,jazz,jazz,1,jazz,1,0
+avant-garde jazz,jazz,jazz,1,jazz,1,1
+bebop,jazz,jazz,1,jazz,1,0
+big band,jazz,jazz,1,jazz,1,1
+cape jazz,jazz,jazz,1,jazz,1,0
+classic jazz,jazz,jazz,1,jazz,1,0
+contemporary jazz,jazz,jazz,1,jazz,1,0
+cool jazz,jazz,jazz,1,jazz,1,0
+crime jazz,jazz,jazz,1,jazz,1,0
+crossover jazz,jazz,jazz,1,jazz,1,0
+dark jazz,jazz,jazz,1,jazz,1,0
+dixieland,jazz,jazz,1,jazz,1,0
+ethio-jazz,jazz,jazz,1,jazz,1,0
+free jazz,jazz,jazz,1,jazz,1,0
+gypsy jazz,jazz,jazz,1,jazz,1,0
+hard bop,jazz,jazz,1,jazz,1,0
+indo jazz,jazz,jazz,1,jazz,1,0
+instrumental jazz,jazz,jazz,1,jazz,1,0
+jazz fusion,jazz,jazz,1,jazz,1,0
+jazz-funk,jazz,jazz,1,jazz,1,1
+kréyol djaz,jazz,jazz,1,jazz,1,0
+latin jazz,jazz,jazz,1,jazz,1,1
+marabi,jazz,jazz,1,jazz,1,1
+modal jazz,jazz,jazz,1,jazz,1,1
+modern creative,jazz,jazz,1,jazz,1,0
+neo-bop,jazz,jazz,1,jazz,1,0
+orchestral jazz,jazz,jazz,1,jazz,1,0
+paramaribop,jazz,jazz,1,jazz,1,0
+post-bop,jazz,jazz,1,jazz,1,0
+smooth jazz,jazz,jazz,1,jazz,1,0
+soul jazz,jazz,jazz,1,jazz,1,0
+spiritual jazz,jazz,jazz,1,jazz,1,0
+stride,jazz,jazz,1,jazz,1,0
+sweet jazz,jazz,jazz,1,jazz,1,0
+swing,jazz,jazz,1,jazz,1,1
+vocal jazz,jazz,jazz,1,jazz,1,1
+afro-cuban jazz,latin jazz,latin jazz,1,jazz,2,0
+experimental big band,big band,big band,1,jazz,2,0
+free funk,avant-garde jazz,jazz-funk | avant-garde jazz,2,jazz,2,0
+jazz mugham,modal jazz,modal jazz,1,jazz,2,0
+mbaqanga,marabi,marabi,1,jazz,2,0
+swing revival,swing,swing,1,jazz,2,0
+vocalese,vocal jazz,vocal jazz,1,jazz,2,0
+jazz blues,,,0,jazz blues,0,0
+jazz guachaca,,,0,jazz guachaca,0,0
+jhumar,,,0,jhumar,0,0
+jibonmukhi gaan,,,0,jibonmukhi gaan,0,0
+jit,,,0,jit,0,0
+joik,,,0,joik,0,0
+jongo,,,0,jongo,0,0
+joropo,,,0,joropo,0,0
+jota,,,0,jota,0,0
+junkanoo,,,0,junkanoo,0,0
+jácara,,,0,jácara,0,0
+jùjú,,,0,jùjú,0,0
+kabarett,,,0,kabarett,0,0
+kadodi,,,0,kadodi,0,0
+kadongo kamu,,,0,kadongo kamu,0,0
+kafi,,,0,kafi,0,0
+kagura,,,0,kagura,0,0
+kalattut,,,0,kalattut,0,0
+kalindula,,,0,kalindula,0,0
+kalon'ny fahiny,,,0,kalon'ny fahiny,0,0
+kan ha diskan,,,0,kan ha diskan,0,0
+kaneka,,,0,kaneka,0,0
+kantan chamorrita,,,0,kantan chamorrita,0,0
+kanto,,,0,kanto,0,0
+kantruem,,,0,kantruem,0,0
+kapuka,,,0,kapuka,0,0
+kaseko,,,0,kaseko,0,0
+kasékò,,,0,kasékò,0,0
+kecak,,,0,kecak,0,0
+keroncong,,,0,keroncong,0,1
+langgam jawa,keroncong,keroncong,1,keroncong,1,0
+kete,,,0,kete,0,0
+ketuk tilu,,,0,ketuk tilu,0,0
+kidandali,,,0,kidandali,0,0
+kidumbak,,,0,kidumbak,0,0
+kilapanga,,,0,kilapanga,0,0
+kirtan,,,0,kirtan,0,1
+shabad kirtan,kirtan,kirtan,1,kirtan,1,0
+kizomba,,,0,kizomba,0,1
+tarraxinha,kizomba,kizomba,1,kizomba,1,0
+klapa,,,0,klapa,0,0
+klezmer,,,0,klezmer,0,0
+kliningan,,,0,kliningan,0,0
+kouta,,,0,kouta,0,0
+krakowiak,,,0,krakowiak,0,0
+kuda lumping,,,0,kuda lumping,0,0
+kujawiak,,,0,kujawiak,0,0
+kumi-daiko,,,0,kumi-daiko,0,0
+kundiman,,,0,kundiman,0,0
+kwela,,,0,kwela,0,0
+laiko,,,0,laiko,0,2
+modern laiko,laiko,laiko,1,laiko,1,0
+skiladiko,laiko,laiko,1,laiko,1,0
+lambada,,,0,lambada,0,1
+guitarrada,lambada,lambada,1,lambada,1,0
+latin,,,0,latin,0,3
+bachata,latin,latin,1,latin,1,0
+boogaloo,latin,latin,1,latin,1,0
+rhumba,latin,latin,1,latin,1,0
+lauda,,,0,lauda,0,0
+lavani,,,0,lavani,0,0
+liscio,,,0,liscio,0,0
+liwa,,,0,liwa,0,0
+luk krung,,,0,luk krung,0,0
+luk thung,,,0,luk thung,0,0
+lundu,,,0,lundu,0,0
+maftirim,,,0,maftirim,0,0
+makossa,,,0,makossa,0,0
+malagueña venezolana,,,0,malagueña venezolana,0,0
+malhun,,,0,malhun,0,0
+maloya,,,0,maloya,0,2
+maloya électronique,maloya,maloya,1,maloya,1,0
+maloya élektrik,maloya,maloya,1,maloya,1,0
+mambo,,,0,mambo,0,0
+mambo chileno,,,0,mambo chileno,0,0
+mangambeu,,,0,mangambeu,0,0
+mantra,,,0,mantra,0,1
+tibetan buddhist chant,mantra,mantra,1,mantra,1,0
+maracatu,,,0,maracatu,0,0
+marching band,,,0,marching band,0,6
+beni,marching band,marching band,1,marching band,1,0
+drum and bugle corps,marching band,marching band,1,marching band,1,0
+drumline,marching band,marching band,1,marching band,1,0
+fife and drum,marching band,marching band,1,marching band,1,0
+guggenmusik,marching band,marching band,1,marching band,1,0
+pep band,marching band,marching band,1,marching band,1,0
+marchinha,,,0,marchinha,0,0
+marrabenta,,,0,marrabenta,0,0
+maskanda,,,0,maskanda,0,0
+maxixe,,,0,maxixe,0,0
+mazurka,,,0,mazurka,0,0
+mbalax,,,0,mbalax,0,0
+mbolé,,,0,mbolé,0,0
+mbube,,,0,mbube,0,0
+mchiriku,,,0,mchiriku,0,0
+mento,,,0,mento,0,0
+menzuma,,,0,menzuma,0,0
+merecumbé,,,0,merecumbé,0,0
+merengue,,,0,merengue,0,4
+mambo urbano,merengue,merengue,1,merengue,1,0
+merengue típico,merengue,merengue,1,merengue,1,0
+merenhouse,merengue,merengue,1,merengue,1,0
+tecnomerengue,merengue,merengue,1,merengue,1,0
+merequetengue,,,0,merequetengue,0,0
+metal,,,0,metal,0,24
+alternative metal,metal,metal,1,metal,1,3
+avant-garde metal,metal,metal,1,metal,1,0
+black metal,metal,metal,1,metal,1,8
+christian metal,metal,metal,1,metal,1,0
+death metal,metal,metal,1,metal,1,6
+doom metal,metal,metal,1,metal,1,3
+drone metal,metal,metal,1,metal,1,0
+folk metal,metal,metal,1,metal,1,2
+gothic metal,metal,metal,1,metal,1,0
+groove metal,metal,metal,1,metal,1,0
+heavy metal,metal,metal,1,metal,1,3
+kawaii metal,metal,metal,1,metal,1,0
+neoclassical metal,metal,metal,1,metal,1,0
+pop metal,metal,metal,1,metal,1,0
+post-metal,metal,metal,1,metal,1,1
+power metal,metal,metal,1,metal,1,0
+progressive metal,metal,metal,1,metal,1,1
+sludge metal,metal,metal,1,metal,1,1
+southern metal,metal,metal,1,metal,1,0
+stoner metal,metal,metal,1,metal,1,0
+symphonic metal,metal,metal,1,metal,1,0
+thrash metal,metal,metal,1,metal,1,1
+trance metal,metal,metal,1,metal,1,0
+viking metal,metal,metal,1,metal,1,0
+atmospheric black metal,black metal,black metal,1,metal,2,0
+atmospheric sludge metal,sludge metal,sludge metal,1,metal,2,0
+black 'n' roll,black metal,black metal,1,metal,2,0
+blackened death metal,death metal,death metal,1,metal,2,0
+brutal death metal,death metal,death metal,1,metal,2,1
+celtic metal,folk metal,folk metal,1,metal,2,0
+death 'n' roll,death metal,death metal,1,metal,2,0
+death-doom metal,doom metal,doom metal,1,metal,2,0
+depressive black metal,black metal,black metal,1,metal,2,0
+dissonant black metal,black metal,black metal,1,metal,2,0
+djent,progressive metal,progressive metal,1,metal,2,0
+doomgaze,post-metal,post-metal,1,metal,2,0
+funeral doom metal,doom metal,doom metal,1,metal,2,0
+medieval metal,folk metal,folk metal,1,metal,2,0
+melodic black metal,black metal,black metal,1,metal,2,0
+melodic death metal,death metal,death metal,1,metal,2,0
+neue deutsche härte,alternative metal,alternative metal,1,metal,2,0
+nu metal,alternative metal,alternative metal,1,metal,2,0
+nwobhm,heavy metal,heavy metal,1,metal,2,0
+old school death metal,death metal,death metal,1,metal,2,0
+pagan black metal,black metal,black metal,1,metal,2,0
+rap metal,alternative metal,alternative metal,1,metal,2,0
+speed metal,heavy metal,heavy metal,1,metal,2,0
+symphonic black metal,black metal,black metal,1,metal,2,0
+technical death metal,death metal,death metal,1,metal,2,1
+technical thrash metal,thrash metal,thrash metal,1,metal,2,0
+traditional doom metal,doom metal,doom metal,1,metal,2,1
+us power metal,heavy metal,heavy metal,1,metal,2,0
+war metal,black metal,black metal,1,metal,2,0
+dissonant death metal,technical death metal,technical death metal,1,metal,3,0
+epic doom metal,traditional doom metal,traditional doom metal,1,metal,3,0
+slam death metal,brutal death metal,brutal death metal,1,metal,3,0
+metalcore,,,0,metalcore,0,5
+downtempo deathcore,metalcore,metalcore,1,metalcore,1,0
+mathcore,metalcore,metalcore,1,metalcore,1,0
+melodic metalcore,metalcore,metalcore,1,metalcore,1,0
+progressive metalcore,metalcore,metalcore,1,metalcore,1,0
+thall,metalcore,metalcore,1,metalcore,1,0
+meyxana,,,0,meyxana,0,0
+mgodro,,,0,mgodro,0,0
+milonga,,,0,milonga,0,1
+milonga ciudadana,milonga,milonga,1,milonga,1,0
+min'yō,,,0,min'yō,0,0
+modinha,,,0,modinha,0,0
+mor lam,,,0,mor lam,0,1
+mor lam sing,mor lam,mor lam,1,mor lam,1,0
+morenada,,,0,morenada,0,0
+morna,,,0,morna,0,0
+moroccan chaabi,,,0,moroccan chaabi,0,0
+moutya,,,0,moutya,0,0
+mpb,,,0,mpb,0,0
+muak,,,0,muak,0,0
+mugithi,,,0,mugithi,0,0
+muiñeira,,,0,muiñeira,0,0
+muliza,,,0,muliza,0,0
+musette,,,0,musette,0,0
+musical,,,0,musical,0,9
+cabaret,musical,musical,1,musical,1,0
+chèo,musical,musical,1,musical,1,0
+industrial musical,musical,musical,1,musical,1,0
+minstrelsy,musical,musical,1,musical,1,0
+murga,musical,musical,1,musical,1,1
+music hall,musical,musical,1,musical,1,0
+revue,musical,musical,1,musical,1,0
+rock musical,musical,musical,1,musical,1,0
+vaudeville,musical,musical,1,musical,1,0
+murga uruguaya,murga,murga,1,musical,2,0
+muzika mizrahit,,,0,muzika mizrahit,0,1
+muzikat dika'on,muzika mizrahit,muzika mizrahit,1,muzika mizrahit,1,0
+muzika yehudit mekorit,,,0,muzika yehudit mekorit,0,0
+muziki wa dansi,,,0,muziki wa dansi,0,0
+méringue,,,0,méringue,0,0
+métis fiddling,,,0,métis fiddling,0,0
+música llanera,,,0,música llanera,0,0
+música típica chilena,,,0,música típica chilena,0,0
+mūsīqā lubnāniyya,,,0,mūsīqā lubnāniyya,0,0
+nagara naam,,,0,nagara naam,0,0
+narodnozabavna glasba,,,0,narodnozabavna glasba,0,0
+new age,,,0,new age,0,4
+andean new age,new age,new age,1,new age,1,0
+celtic new age,new age,new age,1,new age,1,0
+native american new age,new age,new age,1,new age,1,0
+neoclassical new age,new age,new age,1,new age,1,0
+ngoma,,,0,ngoma,0,2
+chakacha,ngoma,ngoma,1,ngoma,1,0
+unyago,ngoma,ngoma,1,ngoma,1,0
+nhạc tiền chiến,,,0,nhạc tiền chiến,0,0
+nhạc vàng,,,0,nhạc vàng,0,0
+nhạc đỏ,,,0,nhạc đỏ,0,0
+nigun,,,0,nigun,0,0
+njuup,,,0,njuup,0,0
+noiadance,,,0,noiadance,0,0
+non-music,,,0,non-music,0,0
+oberek,,,0,oberek,0,0
+ogene music,,,0,ogene music,0,0
+omutibo,,,0,omutibo,0,0
+onda nueva,,,0,onda nueva,0,0
+ondō,,,0,ondō,0,0
+opera-ballet,,,0,opera-ballet,0,0
+orchestral,,,0,orchestral,0,0
+orkes gambus,,,0,orkes gambus,0,0
+pachanga,,,0,pachanga,0,0
+paghjella,,,0,paghjella,0,0
+pala,,,0,pala,0,0
+palm-wine,,,0,palm-wine,0,0
+palo de mayo,,,0,palo de mayo,0,0
+pandilla,,,0,pandilla,0,0
+pansori,,,0,pansori,0,0
+parang,,,0,parang,0,0
+parlour music,,,0,parlour music,0,0
+pasillo,,,0,pasillo,0,0
+pasodoble,,,0,pasodoble,0,0
+payada,,,0,payada,0,0
+pilón,,,0,pilón,0,0
+pimba,,,0,pimba,0,0
+piosenka aktorska,,,0,piosenka aktorska,0,0
+pipe band music,,,0,pipe band music,0,0
+pirekua,,,0,pirekua,0,0
+piyyut,,,0,piyyut,0,1
+zemirot,piyyut,piyyut,1,piyyut,1,0
+plena,,,0,plena,0,0
+poetry,,,0,poetry,0,9
+beat poetry,poetry,poetry,1,poetry,1,0
+cowboy poetry,poetry,poetry,1,poetry,1,0
+dub poetry,poetry,poetry,1,poetry,1,0
+jazz poetry,poetry,poetry,1,poetry,1,0
+kakawin,poetry,poetry,1,poetry,1,0
+ngâm thơ,poetry,poetry,1,poetry,1,0
+punk poetry,poetry,poetry,1,poetry,1,0
+slam poetry,poetry,poetry,1,poetry,1,0
+sound poetry,poetry,poetry,1,poetry,1,1
+polifonia occitana,,,0,polifonia occitana,0,0
+polka,,,0,polka,0,3
+chicago polka,polka,polka,1,polka,1,0
+eastern-style polka,polka,polka,1,polka,1,0
+schottische,polka,polka,1,polka,1,0
+polka paraguaya,,,0,polka paraguaya,0,0
+polonaise,,,0,polonaise,0,0
+pop,,,0,pop,0,64
+alternative pop,pop,pop,1,pop,1,0
+ambient pop,pop,pop,1,pop,1,0
+art pop,pop,pop,1,pop,1,0
+avant-garde pop,pop,pop,1,pop,1,0
+bardcore,pop,pop,1,pop,1,0
+baroque pop,pop,pop,1,pop,1,0
+brill building,pop,pop,1,pop,1,0
+bubblegum pop,pop,pop,1,pop,1,0
+c-pop,pop,pop,1,pop,1,4
+canción melódica,pop,pop,1,pop,1,2
+city pop,pop,pop,1,pop,1,1
+classical crossover,pop,pop,1,pop,1,1
+contemporary christian,pop,pop,1,pop,1,1
+dance-pop,pop,pop,1,pop,1,3
+dansband,pop,pop,1,pop,1,0
+dansktop,pop,pop,1,pop,1,0
+denpa,pop,pop,1,pop,1,1
+easy listening,pop,pop,1,pop,1,4
+electro hop,pop,pop,1,pop,1,0
+electropop,pop,pop,1,pop,1,0
+europop,pop,pop,1,pop,1,0
+flamenco pop,pop,pop,1,pop,1,0
+hyperpop,pop,pop,1,pop,1,0
+hypnagogic pop,pop,pop,1,pop,1,0
+indian pop,pop,pop,1,pop,1,1
+indie pop,pop,pop,1,pop,1,6
+j-pop,pop,pop,1,pop,1,2
+jazz pop,pop,pop,1,pop,1,0
+jesus music,pop,pop,1,pop,1,0
+k-pop,pop,pop,1,pop,1,0
+kayōkyoku,pop,pop,1,pop,1,3
+korean ballad,pop,pop,1,pop,1,1
+latin pop,pop,pop,1,pop,1,1
+levenslied,pop,pop,1,pop,1,0
+mulatós,pop,pop,1,pop,1,0
+nederpop,pop,pop,1,pop,1,0
+neo-acoustic,pop,pop,1,pop,1,0
+nyū myūjikku,pop,pop,1,pop,1,0
+opm,pop,pop,1,pop,1,0
+orthodox pop,pop,pop,1,pop,1,0
+palingsound,pop,pop,1,pop,1,0
+persian pop,pop,pop,1,pop,1,0
+pop ghazal,pop,pop,1,pop,1,0
+pop kreatif,pop,pop,1,pop,1,0
+pop minang,pop,pop,1,pop,1,1
+progressive pop,pop,pop,1,pop,1,0
+psychedelic pop,pop,pop,1,pop,1,0
+q-pop,pop,pop,1,pop,1,0
+rom kbach,pop,pop,1,pop,1,0
+russian chanson,pop,pop,1,pop,1,0
+schlager,pop,pop,1,pop,1,2
+shibuya-kei,pop,pop,1,pop,1,1
+sophisti-pop,pop,pop,1,pop,1,0
+sundanese pop,pop,pop,1,pop,1,0
+sunshine pop,pop,pop,1,pop,1,0
+synth-pop,pop,pop,1,pop,1,0
+t-pop,pop,pop,1,pop,1,0
+teen pop,pop,pop,1,pop,1,0
+toytown pop,pop,pop,1,pop,1,0
+traditional pop,pop,pop,1,pop,1,1
+turkish pop,pop,pop,1,pop,1,0
+v-pop,pop,pop,1,pop,1,0
+wong shadow,pop,pop,1,pop,1,0
+yé-yé,pop,pop,1,pop,1,0
+akishibu-kei,j-pop,j-pop,1,pop,2,0
+bedroom pop,indie pop,indie pop,1,pop,2,0
+bhojpuri pop,indian pop,indian pop,1,pop,2,0
+bolero-beat,canción melódica,canción melódica,1,pop,2,0
+c86,indie pop,indie pop,1,pop,2,0
+cantopop,c-pop,c-pop,1,pop,2,0
+chamber pop,indie pop,indie pop,1,pop,2,0
+cocktail nation,easy listening,easy listening,1,pop,2,0
+donosti sound,indie pop,indie pop,1,pop,2,0
+exotica,easy listening,easy listening,1,pop,2,1
+gufeng,c-pop,c-pop,1,pop,2,0
+idol kayō,kayōkyoku,kayōkyoku,1,pop,2,0
+lounge,easy listening,easy listening,1,pop,2,0
+mandopop,c-pop,c-pop,1,pop,2,0
+moe song,denpa,denpa,1,pop,2,0
+mood kayō,kayōkyoku,kayōkyoku,1,pop,2,0
+música cebolla,canción melódica,canción melódica,1,pop,2,0
+neo-city pop,city pop,city pop,1,pop,2,0
+operatic pop,classical crossover,classical crossover,1,pop,2,0
+oriental ballad,korean ballad,korean ballad,1,pop,2,0
+partyschlager,schlager,schlager,1,pop,2,0
+picopop,shibuya-kei,shibuya-kei,1,pop,2,0
+praise & worship,contemporary christian,contemporary christian,1,pop,2,0
+romanian popcorn,dance-pop,dance-pop,1,pop,2,0
+space age pop,easy listening,easy listening,1,pop,2,0
+talempong goyang,pop minang,pop minang,1,pop,2,0
+techno kayō,kayōkyoku,kayōkyoku,1,pop,2,0
+tecnorumba,dance-pop,dance-pop,1,pop,2,0
+tin pan alley,traditional pop,traditional pop,1,pop,2,0
+tontipop,indie pop,indie pop,1,pop,2,0
+township bubblegum,dance-pop,dance-pop,1,pop,2,0
+tropipop,latin pop,latin pop,1,pop,2,0
+twee pop,indie pop,indie pop,1,pop,2,1
+volkstümliche musik,schlager,schlager,1,pop,2,0
+wa euro,j-pop,j-pop,1,pop,2,0
+zhongguo feng,c-pop,c-pop,1,pop,2,0
+cuddlecore,twee pop,twee pop,1,pop,3,0
+sitarsploitation,exotica,exotica,1,pop,3,0
+pop rock,,,0,pop rock,0,6
+beat music,pop rock,pop rock,1,pop rock,1,4
+burmese stereo,pop rock,pop rock,1,pop rock,1,0
+jangle pop,pop rock,pop rock,1,pop rock,1,0
+manila sound,pop rock,pop rock,1,pop rock,1,0
+power pop,pop rock,pop rock,1,pop rock,1,0
+tropical rock,pop rock,pop rock,1,pop rock,1,0
+group sounds,beat music,beat music,1,pop rock,2,0
+jovem guarda,beat music,beat music,1,pop rock,2,0
+merseybeat,beat music,beat music,1,pop rock,2,0
+nederbeat,beat music,beat music,1,pop rock,2,0
+pop soul,,,0,pop soul,0,1
+motown,pop soul,pop soul,1,pop soul,1,0
+porro,,,0,porro,0,0
+powada,,,0,powada,0,0
+production music,,,0,production music,0,0
+progressive,,,0,progressive,0,0
+psychedelic,,,0,psychedelic,0,2
+neo-psychedelia,psychedelic,psychedelic,1,psychedelic,1,2
+psychploitation,psychedelic,psychedelic,1,psychedelic,1,0
+paisley underground,neo-psychedelia,neo-psychedelia,1,psychedelic,2,0
+psichedelia occulta italiana,neo-psychedelia,neo-psychedelia,1,psychedelic,2,0
+psychobilly,,,0,psychobilly,0,0
+puirt à beul,,,0,puirt à beul,0,0
+pungmul,,,0,pungmul,0,0
+punk,,,0,punk,0,8
+alternative punk,punk,punk,1,punk,1,0
+anarcho-punk,punk,punk,1,punk,1,0
+art punk,punk,punk,1,punk,1,0
+cowpunk,punk,punk,1,punk,1,0
+electropunk,punk,punk,1,punk,1,0
+folk punk,punk,punk,1,punk,1,2
+post-hardcore,punk,punk,1,punk,1,6
+punk rock,punk,punk,1,punk,1,12
+celtic punk,folk punk,folk punk,1,punk,2,0
+deathrock,punk rock,punk rock,1,punk,2,0
+gypsy punk,punk rock,punk rock,1,punk,2,0
+hardcore punk,punk rock,punk rock,1,punk,2,13
+horror punk,punk rock,punk rock,1,punk,2,0
+könsrock,punk rock,punk rock,1,punk,2,0
+nintendocore,post-hardcore,post-hardcore,1,punk,2,0
+oi,punk rock,punk rock,1,punk,2,0
+pop punk,punk rock,punk rock,1,punk,2,3
+pop screamo,post-hardcore,post-hardcore,1,punk,2,0
+progressive post-hardcore,post-hardcore,post-hardcore,1,punk,2,1
+queercore,punk rock,punk rock,1,punk,2,0
+riot grrrl,punk rock,punk rock,1,punk,2,0
+rustic stomp,folk punk,folk punk,1,punk,2,0
+screamo,post-hardcore,post-hardcore,1,punk,2,1
+skate punk,punk rock,punk rock,1,punk,2,0
+surf punk,punk rock,punk rock,1,punk,2,0
+viking rock,punk rock,punk rock,1,punk,2,0
+beatdown hardcore,hardcore punk,hardcore punk,1,punk,3,0
+burning spirits,hardcore punk,hardcore punk,1,punk,3,0
+christian hardcore,hardcore punk,hardcore punk,1,punk,3,0
+crust punk,hardcore punk,hardcore punk,1,punk,3,3
+d-beat,hardcore punk,hardcore punk,1,punk,3,1
+easycore,pop punk,pop punk,1,punk,3,0
+emoviolence,screamo,screamo,1,punk,3,0
+melodic hardcore,hardcore punk,hardcore punk,1,punk,3,0
+neon pop punk,pop punk,pop punk,1,punk,3,0
+noisecore,hardcore punk,hardcore punk,1,punk,3,0
+powerviolence,hardcore punk,hardcore punk,1,punk,3,0
+sasscore,hardcore punk,hardcore punk,1,punk,3,0
+seishun punk,pop punk,pop punk,1,punk,3,0
+street punk,hardcore punk,hardcore punk,1,punk,3,0
+swancore,progressive post-hardcore,progressive post-hardcore,1,punk,3,0
+thrashcore,hardcore punk,hardcore punk,1,punk,3,0
+tough guy hardcore,hardcore punk,hardcore punk,1,punk,3,0
+uk82,hardcore punk,hardcore punk,1,punk,3,0
+blackened crust,crust punk,crust punk,1,punk,4,0
+neocrust,crust punk,crust punk,1,punk,4,0
+raw punk,d-beat,d-beat,1,punk,4,0
+stenchcore,crust punk,crust punk,1,punk,4,0
+punta,,,0,punta,0,0
+punto,,,0,punto,0,0
+puxa,,,0,puxa,0,0
+qaraami,,,0,qaraami,0,0
+qasidah modern,,,0,qasidah modern,0,0
+qawwali,,,0,qawwali,0,0
+quan họ,,,0,quan họ,0,0
+quyi,,,0,quyi,0,0
+r&b,,,0,r&b,0,8
+beach music,r&b,r&b,1,r&b,1,0
+blue-eyed soul,r&b,r&b,1,r&b,1,0
+british rhythm & blues,r&b,r&b,1,r&b,1,0
+contemporary r&b,r&b,r&b,1,r&b,1,4
+doo-wop,r&b,r&b,1,r&b,1,0
+new orleans r&b,r&b,r&b,1,r&b,1,0
+quiet storm,r&b,r&b,1,r&b,1,0
+swamp pop,r&b,r&b,1,r&b,1,0
+alternative r&b,contemporary r&b,contemporary r&b,1,r&b,2,0
+hip hop soul,contemporary r&b,contemporary r&b,1,r&b,2,0
+new jack swing,contemporary r&b,contemporary r&b,1,r&b,2,0
+uk street soul,contemporary r&b,contemporary r&b,1,r&b,2,0
+rabiz,,,0,rabiz,0,0
+ragga hip-hop,,,0,ragga hip-hop,0,0
+ragtime,,,0,ragtime,0,3
+classic ragtime,ragtime,ragtime,1,ragtime,1,0
+novelty piano,ragtime,ragtime,1,ragtime,1,0
+ragtime song,ragtime,ragtime,1,ragtime,1,0
+rap rock,,,0,rap rock,0,0
+rapcore,,,0,rapcore,0,0
+rapso,,,0,rapso,0,0
+raqs baladi,,,0,raqs baladi,0,0
+rara,,,0,rara,0,0
+rasin,,,0,rasin,0,0
+rasqueado cuiabano,,,0,rasqueado cuiabano,0,0
+raï,,,0,raï,0,1
+pop raï,raï,raï,1,raï,1,0
+rebetiko,,,0,rebetiko,0,0
+red song,,,0,red song,0,0
+reggae,,,0,reggae,0,10
+dancehall,reggae,reggae,1,reggae,1,6
+deejay,reggae,reggae,1,reggae,1,0
+dub,reggae,reggae,1,reggae,1,1
+gospel reggae,reggae,reggae,1,reggae,1,0
+lovers rock,reggae,reggae,1,reggae,1,0
+pacific reggae,reggae,reggae,1,reggae,1,1
+reggae panameño,reggae,reggae,1,reggae,1,0
+reggae-pop,reggae,reggae,1,reggae,1,0
+roots reggae,reggae,reggae,1,reggae,1,0
+skinhead reggae,reggae,reggae,1,reggae,1,0
+flex dance music,dancehall,dancehall,1,reggae,2,0
+gommance,dancehall,dancehall,1,reggae,2,0
+jawaiian,pacific reggae,pacific reggae,1,reggae,2,0
+novo dub,dub,dub,1,reggae,2,0
+ragga,dancehall,dancehall,1,reggae,2,0
+shatta,dancehall,dancehall,1,reggae,2,0
+trap dancehall,dancehall,dancehall,1,reggae,2,0
+zess,dancehall,dancehall,1,reggae,2,0
+reggaeton,,,0,reggaeton,0,7
+bachatón,reggaeton,reggaeton,1,reggaeton,1,0
+cubatón,reggaeton,reggaeton,1,reggaeton,1,1
+cumbiatón,reggaeton,reggaeton,1,reggaeton,1,0
+doble paso,reggaeton,reggaeton,1,reggaeton,1,0
+neoperreo,reggaeton,reggaeton,1,reggaeton,1,0
+rkt,reggaeton,reggaeton,1,reggaeton,1,0
+romantic flow,reggaeton,reggaeton,1,reggaeton,1,0
+reparto,cubatón,cubatón,1,reggaeton,2,0
+regional mexicano,,,0,regional mexicano,0,14
+banda sinaloense,regional mexicano,regional mexicano,1,regional mexicano,1,1
+canto cardenche,regional mexicano,regional mexicano,1,regional mexicano,1,0
+chilena,regional mexicano,regional mexicano,1,regional mexicano,1,0
+corrido,regional mexicano,regional mexicano,1,regional mexicano,1,1
+grupera,regional mexicano,regional mexicano,1,regional mexicano,1,0
+mariachi,regional mexicano,regional mexicano,1,regional mexicano,1,0
+norteño,regional mexicano,regional mexicano,1,regional mexicano,1,4
+ranchera,regional mexicano,regional mexicano,1,regional mexicano,1,0
+son calentano,regional mexicano,regional mexicano,1,regional mexicano,1,0
+son huasteco,regional mexicano,regional mexicano,1,regional mexicano,1,0
+son istmeño,regional mexicano,regional mexicano,1,regional mexicano,1,0
+son jarocho,regional mexicano,regional mexicano,1,regional mexicano,1,0
+tejano,regional mexicano,regional mexicano,1,regional mexicano,1,0
+trova yucateca,regional mexicano,regional mexicano,1,regional mexicano,1,0
+cumbia norteña mexicana,norteño,norteño,1,regional mexicano,2,0
+duranguense,norteño,norteño,1,regional mexicano,2,0
+movimiento alterado,norteño,norteño,1,regional mexicano,2,0
+narcocorrido,corrido,corrido,1,regional mexicano,2,0
+sierreño,norteño,norteño,1,regional mexicano,2,1
+technobanda,banda sinaloense,banda sinaloense,1,regional mexicano,2,0
+corrido tumbado,sierreño,sierreño,1,regional mexicano,3,0
+rigsar,,,0,rigsar,0,0
+ring shout,,,0,ring shout,0,0
+ripsaw,,,0,ripsaw,0,0
+rizitika,,,0,rizitika,0,0
+rock,,,0,rock,0,59
+acoustic rock,rock,rock,1,rock,1,0
+afro rock,rock,rock,1,rock,1,0
+alternative rock,rock,rock,1,rock,1,12
+anatolian rock,rock,rock,1,rock,1,0
+aor,rock,rock,1,rock,1,0
+arena rock,rock,rock,1,rock,1,0
+art rock,rock,rock,1,rock,1,0
+beat rock,rock,rock,1,rock,1,0
+christian rock,rock,rock,1,rock,1,1
+classic rock,rock,rock,1,rock,1,0
+comedy rock,rock,rock,1,rock,1,0
+dance-rock,rock,rock,1,rock,1,0
+experimental rock,rock,rock,1,rock,1,2
+folk rock,rock,rock,1,rock,1,5
+freakbeat,rock,rock,1,rock,1,0
+garage rock,rock,rock,1,rock,1,3
+glam rock,rock,rock,1,rock,1,0
+gothic rock,rock,rock,1,rock,1,0
+hard rock,rock,rock,1,rock,1,3
+heartland rock,rock,rock,1,rock,1,0
+instrumental rock,rock,rock,1,rock,1,0
+jam band,rock,rock,1,rock,1,1
+jazz rock,rock,rock,1,rock,1,0
+latin rock,rock,rock,1,rock,1,0
+mainstream rock,rock,rock,1,rock,1,0
+mangue beat,rock,rock,1,rock,1,0
+math rock,rock,rock,1,rock,1,1
+miejski folk,rock,rock,1,rock,1,0
+mod,rock,rock,1,rock,1,1
+neo-rockabilly,rock,rock,1,rock,1,0
+new wave,rock,rock,1,rock,1,2
+noise rock,rock,rock,1,rock,1,1
+occult rock,rock,rock,1,rock,1,0
+piano rock,rock,rock,1,rock,1,0
+pop yeh-yeh,rock,rock,1,rock,1,0
+post-punk,rock,rock,1,rock,1,3
+post-rock,rock,rock,1,rock,1,0
+progressive rock,rock,rock,1,rock,1,5
+proto-punk,rock,rock,1,rock,1,0
+psychedelic rock,rock,rock,1,rock,1,6
+pub rock,rock,rock,1,rock,1,0
+punk blues,rock,rock,1,rock,1,0
+rautalanka,rock,rock,1,rock,1,0
+reggae rock,rock,rock,1,rock,1,0
+rock and roll,rock,rock,1,rock,1,3
+rock andaluz,rock,rock,1,rock,1,0
+rock andino,rock,rock,1,rock,1,0
+rock opera,rock,rock,1,rock,1,0
+rock urbano,rock,rock,1,rock,1,0
+rock urbano mexicano,rock,rock,1,rock,1,0
+roots rock,rock,rock,1,rock,1,1
+soft rock,rock,rock,1,rock,1,1
+southern rock,rock,rock,1,rock,1,0
+sufi rock,rock,rock,1,rock,1,0
+surf,rock,rock,1,rock,1,3
+swamp rock,rock,rock,1,rock,1,0
+symphonic rock,rock,rock,1,rock,1,0
+visual kei,rock,rock,1,rock,1,2
+zolo,rock,rock,1,rock,1,0
+acid rock,psychedelic rock,psychedelic rock,1,rock,2,0
+avant-prog,progressive rock,progressive rock,1,rock,2,1
+british folk rock,folk rock,folk rock,1,rock,2,0
+britpop,alternative rock,alternative rock,1,rock,2,0
+brutal prog,progressive rock,progressive rock,1,rock,2,0
+canterbury scene,psychedelic rock,psychedelic rock,1,rock,2,0
+celtic rock,folk rock,folk rock,1,rock,2,0
+coldwave,post-punk,post-punk,1,rock,2,0
+crossover prog,progressive rock,progressive rock,1,rock,2,0
+dance-punk,post-punk,post-punk,1,rock,2,1
+dream pop,alternative rock,alternative rock,1,rock,2,0
+emo,alternative rock,alternative rock | post-hardcore,2,rock,2,2
+frat rock,garage rock,garage rock,1,rock,2,0
+garage psych,garage rock,garage rock,1,rock,2,0
+garage rock revival,garage rock,garage rock,1,rock,2,0
+geek rock,alternative rock,alternative rock,1,rock,2,0
+glam metal,hard rock,hard rock,1,rock,2,1
+grebo,alternative rock,alternative rock,1,rock,2,0
+grunge,alternative rock,alternative rock,1,rock,2,0
+heavy psych,psychedelic rock,psychedelic rock,1,rock,2,0
+hot rod music,surf,surf,1,rock,2,0
+indie rock,alternative rock,alternative rock,1,rock,2,6
+indorock,rock and roll,rock and roll,1,rock,2,0
+j-rock,alternative rock,alternative rock,1,rock,2,1
+krautrock,experimental rock,experimental rock,1,rock,2,0
+livetronica,jam band,jam band,1,rock,2,0
+lo-fi,alternative rock,alternative rock,1,rock,2,0
+loud kei,visual kei,visual kei,1,rock,2,0
+math pop,math rock,math rock,1,rock,2,0
+medieval rock,folk rock,folk rock,1,rock,2,0
+mod revival,mod,mod,1,rock,2,0
+neo-progressive rock,progressive rock,progressive rock,1,rock,2,0
+neue deutsche welle,new wave,new wave,1,rock,2,0
+new romantic,new wave,new wave,1,rock,2,0
+no wave,experimental rock,experimental rock,1,rock,2,0
+phleng phuea chiwit,folk rock,folk rock,1,rock,2,0
+pigfuck,noise rock,noise rock,1,rock,2,0
+post-britpop,alternative rock,alternative rock,1,rock,2,0
+post-grunge,alternative rock,alternative rock,1,rock,2,0
+post-punk revival,post-punk,post-punk,1,rock,2,0
+raga rock,psychedelic rock,psychedelic rock,1,rock,2,0
+rock kapak,hard rock,hard rock,1,rock,2,1
+rock rural,folk rock,folk rock,1,rock,2,0
+rockaballad,rock and roll,rock and roll,1,rock,2,0
+rockabilly,rock and roll,rock and roll,1,rock,2,0
+shoegaze,alternative rock,alternative rock,1,rock,2,0
+soft visual,visual kei,visual kei,1,rock,2,0
+space rock,psychedelic rock,psychedelic rock,1,rock,2,0
+stoner rock,hard rock,hard rock,1,rock,2,1
+surf rock,surf,surf,1,rock,2,1
+symphonic prog,progressive rock,progressive rock,1,rock,2,0
+tex-mex,roots rock,roots rock,1,rock,2,0
+vocal surf,surf,surf,1,rock,2,0
+xian psych,christian rock,christian rock,1,rock,2,0
+yacht rock,soft rock,soft rock,1,rock,2,0
+zamrock,psychedelic rock,psychedelic rock,1,rock,2,0
+dance-punk revival,dance-punk,dance-punk,1,rock,3,0
+desert rock,stoner rock,stoner rock,1,rock,3,0
+dunedin sound,indie rock,indie rock,1,rock,3,0
+eleki,surf rock,surf rock,1,rock,3,0
+emocore,emo,emo | post-hardcore,2,rock,3,0
+hamburger schule,indie rock,indie rock,1,rock,3,0
+indie surf,indie rock,indie rock,1,rock,3,0
+midwest emo,emo,emo,1,rock,3,0
+noise pop,indie rock,indie rock,1,rock,3,0
+rock jiwang,rock kapak,rock kapak,1,rock,3,0
+slacker rock,indie rock,indie rock,1,rock,3,1
+sleaze rock,glam metal,glam metal,1,rock,3,0
+slowcore,indie rock,indie rock,1,rock,3,0
+yakousei,j-rock,j-rock,1,rock,3,0
+zeuhl,avant-prog,avant-prog,1,rock,3,0
+shitgaze,slacker rock,slacker rock,1,rock,4,0
+rocksteady,,,0,rocksteady,0,0
+rumba,,,0,rumba,0,0
+rumba catalana,,,0,rumba catalana,0,0
+rumba cubana,,,0,rumba cubana,0,1
+guaguancó,rumba cubana,rumba cubana,1,rumba cubana,1,0
+runo song,,,0,runo song,0,1
+seto leelo,runo song,runo song,1,runo song,1,0
+ryūkōka,,,0,ryūkōka,0,0
+rōkyoku,,,0,rōkyoku,0,0
+sa'idi,,,0,sa'idi,0,0
+sacred harp,,,0,sacred harp,0,0
+saeta,,,0,saeta,0,0
+salegy,,,0,salegy,0,0
+salsa,,,0,salsa,0,4
+salsa choke,salsa,salsa,1,salsa,1,0
+salsa dura,salsa,salsa,1,salsa,1,0
+salsa romántica,salsa,salsa,1,salsa,1,0
+timba,salsa,salsa,1,salsa,1,0
+samba,,,0,samba,0,14
+bossa nova,samba,samba,1,samba,1,0
+pagode,samba,samba,1,samba,1,1
+pagodão,samba,samba,1,samba,1,0
+partido alto,samba,samba,1,samba,1,0
+samba de breque,samba,samba,1,samba,1,0
+samba de gafieira,samba,samba,1,samba,1,0
+samba de roda,samba,samba,1,samba,1,0
+samba de terreiro,samba,samba,1,samba,1,0
+samba-canção,samba,samba,1,samba,1,0
+samba-enredo,samba,samba,1,samba,1,0
+samba-exaltação,samba,samba,1,samba,1,0
+samba-joia,samba,samba,1,samba,1,0
+samba-rock,samba,samba,1,samba,1,1
+sambalanço,samba,samba,1,samba,1,0
+pagode romântico,pagode,pagode,1,samba,2,0
+samba soul,samba-rock,samba-rock,1,samba,2,0
+samba-choro,,,0,samba-choro,0,0
+samba-jazz,,,0,samba-jazz,0,0
+samba-reggae,,,0,samba-reggae,0,0
+samri,,,0,samri,0,0
+sanjo,,,0,sanjo,0,0
+sanjuanito,,,0,sanjuanito,0,0
+santé engagé,,,0,santé engagé,0,0
+sarala gee,,,0,sarala gee,0,0
+sardana,,,0,sardana,0,0
+saya afroboliviana,,,0,saya afroboliviana,0,0
+seggae,,,0,seggae,0,0
+semba,,,0,semba,0,0
+seresta,,,0,seresta,0,0
+sertanejo,,,0,sertanejo,0,3
+sertanejo raiz,sertanejo,sertanejo,1,sertanejo,1,1
+sertanejo romântico,sertanejo,sertanejo,1,sertanejo,1,0
+sertanejo universitário,sertanejo,sertanejo,1,sertanejo,1,2
+agronejo,sertanejo universitário,sertanejo universitário,1,sertanejo,2,0
+funknejo,sertanejo universitário,sertanejo universitário,1,sertanejo,2,0
+moda de viola,sertanejo raiz,sertanejo raiz,1,sertanejo,2,0
+shaabi,,,0,shaabi,0,1
+mahraganat,shaabi,shaabi,1,shaabi,1,0
+shanto,,,0,shanto,0,0
+shidaiqu,,,0,shidaiqu,0,0
+shima-uta,,,0,shima-uta,0,0
+shinkyoku,,,0,shinkyoku,0,0
+sigidrigi,,,0,sigidrigi,0,0
+sikuri,,,0,sikuri,0,0
+sinawi,,,0,sinawi,0,0
+singer-songwriter,,,0,singer-songwriter,0,7
+avtorskaya pesnya,singer-songwriter,singer-songwriter,1,singer-songwriter,1,0
+euskal kantagintza berria,singer-songwriter,singer-songwriter,1,singer-songwriter,1,0
+kleinkunst,singer-songwriter,singer-songwriter,1,singer-songwriter,1,0
+liedermacher,singer-songwriter,singer-songwriter,1,singer-songwriter,1,0
+música de intervenção,singer-songwriter,singer-songwriter,1,singer-songwriter,1,0
+nova cançó,singer-songwriter,singer-songwriter,1,singer-songwriter,1,0
+nueva canción,singer-songwriter,singer-songwriter,1,singer-songwriter,1,3
+nueva canción chilena,nueva canción,nueva canción,1,singer-songwriter,2,0
+nueva canción española,nueva canción,nueva canción,1,singer-songwriter,2,0
+nuevo cancionero,nueva canción,nueva canción,1,singer-songwriter,2,0
+siren jam,,,0,siren jam,0,0
+sizhu music,,,0,sizhu music,0,1
+jiangnan sizhu,sizhu music,sizhu music,1,sizhu music,1,0
+ska,,,0,ska,0,3
+2 tone,ska,ska,1,ska,1,0
+jamaican ska,ska,ska,1,ska,1,0
+third wave ska,ska,ska,1,ska,1,0
+ska punk,,,0,ska punk,0,2
+crack rock steady,ska punk,ska punk,1,ska punk,1,0
+skacore,ska punk,ska punk,1,ska punk,1,0
+slack-key guitar,,,0,slack-key guitar,0,0
+slowed & reverb,,,0,slowed & reverb,0,0
+soca,,,0,soca,0,3
+bashment soca,soca,soca,1,soca,1,0
+dennery segment,soca,soca,1,soca,1,0
+power soca,soca,soca,1,soca,1,0
+son cubano,,,0,son cubano,0,1
+son montuno,son cubano,son cubano,1,son cubano,1,0
+son de pascua,,,0,son de pascua,0,0
+son nica,,,0,son nica,0,0
+song of sana’a,,,0,song of sana’a,0,0
+songo,,,0,songo,0,0
+soukous,,,0,soukous,0,1
+kwassa kwassa,soukous,soukous,1,soukous,1,0
+soul,,,0,soul,0,10
+chicago soul,soul,soul,1,soul,1,0
+deep soul,soul,soul,1,soul,1,0
+latin soul,soul,soul,1,soul,1,0
+neo soul,soul,soul,1,soul,1,0
+northern soul,soul,soul,1,soul,1,0
+philly soul,soul,soul,1,soul,1,0
+progressive soul,soul,soul,1,soul,1,0
+psychedelic soul,soul,soul,1,soul,1,0
+smooth soul,soul,soul,1,soul,1,0
+southern soul,soul,soul,1,soul,1,0
+sound effects,,,0,sound effects,0,2
+binaural beats,sound effects,sound effects,1,sound effects,1,0
+broadband noise,sound effects,sound effects,1,sound effects,1,0
+space rock revival,,,0,space rock revival,0,0
+spirituals,,,0,spirituals,0,1
+concert spiritual,spirituals,spirituals,1,spirituals,1,1
+spoken word,,,0,spoken word,0,5
+fairy tale,spoken word,spoken word,1,spoken word,1,0
+guided meditation,spoken word,spoken word,1,spoken word,1,0
+interview,spoken word,spoken word,1,spoken word,1,0
+lecture,spoken word,spoken word,1,spoken word,1,0
+speech,spoken word,spoken word,1,spoken word,1,1
+sermon,speech,speech,1,spoken word,2,0
+spouge,,,0,spouge,0,0
+staïfi,,,0,staïfi,0,0
+steampunk,,,0,steampunk,0,0
+steel band,,,0,steel band,0,0
+stotra,,,0,stotra,0,0
+sungura,,,0,sungura,0,0
+séga,,,0,séga,0,1
+traditional séga,séga,séga,1,séga,1,1
+séga tambour,traditional séga,traditional séga,1,séga,2,0
+taarab,,,0,taarab,0,0
+takamba,,,0,takamba,0,0
+tamborera,,,0,tamborera,0,0
+tamborito,,,0,tamborito,0,0
+tango,,,0,tango,0,2
+finnish tango,tango,tango,1,tango,1,0
+nuevo tango,tango,tango,1,tango,1,0
+tanjidor,,,0,tanjidor,0,0
+taoist ritual music,,,0,taoist ritual music,0,0
+taquirari,,,0,taquirari,0,0
+tarawangsa,,,0,tarawangsa,0,0
+tassa,,,0,tassa,0,0
+tassu,,,0,tassu,0,0
+tbm,,,0,tbm,0,0
+tchinkoumé,,,0,tchinkoumé,0,0
+tecnofunk,,,0,tecnofunk,0,0
+third stream,,,0,third stream,0,0
+tiento,,,0,tiento,0,0
+timbila,,,0,timbila,0,0
+tivaner inngernerlu,,,0,tivaner inngernerlu,0,0
+tizita,,,0,tizita,0,0
+toada de boi,,,0,toada de boi,0,0
+tonada potosina,,,0,tonada potosina,0,0
+tonadilla,,,0,tonadilla,0,0
+tondero,,,0,tondero,0,0
+township jive,,,0,township jive,0,0
+toypop,,,0,toypop,0,0
+tradi-moderne congolais,,,0,tradi-moderne congolais,0,0
+tradi-moderne ivoirien,,,0,tradi-moderne ivoirien,0,0
+trallalero,,,0,trallalero,0,0
+trap soul,,,0,trap soul,0,0
+tropicanibalismo,,,0,tropicanibalismo,0,0
+tropicália,,,0,tropicália,0,0
+trot,,,0,trot,0,2
+pon-chak disco,trot,trot,1,trot,1,0
+semi-trot,trot,trot,1,trot,1,0
+trova,,,0,trova,0,1
+nueva trova,trova,trova,1,trova,1,0
+tsapiky,,,0,tsapiky,0,0
+tsonga disco,,,0,tsonga disco,0,0
+tsugaru-jamisen,,,0,tsugaru-jamisen,0,0
+tumba,,,0,tumba,0,0
+tumba francesa,,,0,tumba francesa,0,0
+tumbélé,,,0,tumbélé,0,0
+twoubadou,,,0,twoubadou,0,0
+tân cổ giao duyên,,,0,tân cổ giao duyên,0,0
+uaajeerneq,,,0,uaajeerneq,0,0
+ufie music,,,0,ufie music,0,0
+unakesa,,,0,unakesa,0,0
+upopo,,,0,upopo,0,0
+urtiin duu,,,0,urtiin duu,0,0
+urumi melam,,,0,urumi melam,0,0
+uzun hava,,,0,uzun hava,0,1
+bozlak,uzun hava,uzun hava,1,uzun hava,1,0
+vaigat,,,0,vaigat,0,0
+vallenato,,,0,vallenato,0,0
+vanera,,,0,vanera,0,0
+vaudeville blues,,,0,vaudeville blues,0,0
+vedic chant,,,0,vedic chant,0,0
+verbunkos,,,0,verbunkos,0,0
+vietnamese bolero,,,0,vietnamese bolero,0,0
+villancico,,,0,villancico,0,0
+vude,,,0,vude,0,0
+waila,,,0,waila,0,0
+waka,,,0,waka,0,0
+waltz,,,0,waltz,0,3
+slow waltz,waltz,waltz,1,waltz,1,0
+vals venezolano,waltz,waltz,1,waltz,1,0
+valsa brasileira,waltz,waltz,1,waltz,1,0
+wangga,,,0,wangga,0,0
+wassoulou,,,0,wassoulou,0,0
+west coast swing,,,0,west coast swing,0,0
+whistling,,,0,whistling,0,0
+wonky,,,0,wonky,0,0
+world fusion,,,0,world fusion,0,0
+worldbeat,,,0,worldbeat,0,0
+xaxado,,,0,xaxado,0,0
+xote,,,0,xote,0,0
+xẩm,,,0,xẩm,0,0
+yaraví,,,0,yaraví,0,0
+yu-mex,,,0,yu-mex,0,0
+yukar,,,0,yukar,0,0
+zamacueca,,,0,zamacueca,0,0
+zamba,,,0,zamba,0,0
+ziglibithy,,,0,ziglibithy,0,0
+zinli,,,0,zinli,0,0
+zoblazo,,,0,zoblazo,0,0
+zohioliin duu,,,0,zohioliin duu,0,0
+zouglou,,,0,zouglou,0,0
+zouk,,,0,zouk,0,3
+afro-zouk,zouk,zouk,1,zouk,1,0
+cabo zouk,zouk,zouk,1,zouk,1,0
+zouk love,zouk,zouk,1,zouk,1,0
+zydeco,,,0,zydeco,0,1
+nouveau zydeco,zydeco,zydeco,1,zydeco,1,0
+éntekhno,,,0,éntekhno,0,1
+neo kyma,éntekhno,éntekhno,1,éntekhno,1,0
+özgün müzik,,,0,özgün müzik,0,0
+čalgija,,,0,čalgija,0,0
+ʻōteʻa,,,0,ʻōteʻa,0,0
