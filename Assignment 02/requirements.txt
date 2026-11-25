@@ -1,0 +1,28 @@
+# Python packages for Assignment 02 (tested with Python 3.12)
+#
+# Basis: the group's shared conda env `damml2026` (Python 3.12). This file lists what the
+# project needs on top of it; pick `damml2026` as the kernel when running the notebooks.
+#
+# Setup, run from the `Assignment 02` folder:
+#   macOS / Linux (Terminal):
+#     conda activate damml2026
+#     python -m pip install -r requirements.txt
+#   Windows (open "Miniforge Prompt" or "Anaconda Prompt" from the Start menu):
+#     conda activate damml2026
+#     python -m pip install -r requirements.txt
+#
+# Also needed outside pip: the `zstd` command line tool, to read the .tar.zst dumps.
+# Easiest on all systems, inside the env:  conda install -c conda-forge zstd
+#   or  macOS: brew install zstd    Ubuntu/Debian: sudo apt install zstd    Windows: winget install Meta.Zstandard
+
+# data handling
+pandas>=2.3
+numpy>=2.1
+duckdb>=2.0      # queries the 11 GB parquet extract without loading it into memory
+pyarrow>=26.0    # parquet read/write for pandas
+
+# plots
+matplotlib>=3.10
+
+# run the notebooks (Jupyter / VS Code kernel)
+ipykernel>=7.3
