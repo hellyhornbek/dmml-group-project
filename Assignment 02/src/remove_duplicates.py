@@ -1,10 +1,6 @@
 import pandas as pd
 from pathlib import Path
 
-# Clean data
-# remove duplicate listens: same user id, track id, timestamp
-# get genre data if not there already
-
 
 def remove_duplicates(sample_path, cleaned_path=None):
     """Read the sample and remove duplicate listens (same user, track, timestamp).

@@ -8,7 +8,7 @@ def make_sessions(min_len, max_len, min_gap, sample_path, sessions_path):
     min_len       sessions with fewer listens are dropped
     max_len       longer sessions keep only their first max_len listens
     min_gap       pd.Timedelta; a gap longer than this starts a new session
-    sample_path   input csv (e.g. sample_2023_600users.csv)
+    sample_path   input csv of cleaned listens (listens_cleaned.csv from the preprocessing notebook)
     sessions_path output csv, one row per listen
 
     Returns the sessions DataFrame.
