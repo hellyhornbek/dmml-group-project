@@ -1,0 +1,1451 @@
+measure,n
+artists_total,3032671
+type_Person,1627005
+artists_with_area,1506390
+type_none,688473
+type_Group,669091
+artists_with_begin_year,608509
+artists_with_any_tag,271562
+artists_with_official_genre,218964
+artists_with_2plus_official_genres,102947
+type_Character,18246
+top_genre_hip hop,17248
+top_genre_jazz,14840
+artists_with_6plus_official_genres,14771
+type_Orchestra,12058
+type_Choir,11051
+top_genre_black metal,7374
+top_genre_punk,7259
+type_Other,6747
+top_genre_rock,6618
+top_genre_classical,6418
+top_genre_electronic,5873
+top_genre_pop,4828
+top_genre_death metal,4763
+top_genre_boom bap,4373
+top_genre_alternative rock,4304
+top_genre_ambient,3768
+top_genre_folk,3260
+top_genre_visual kei,3168
+top_genre_drum and bass,2369
+top_genre_indie rock,2137
+top_genre_doom metal,2018
+top_genre_metal,1992
+top_genre_blues,1950
+top_genre_hardcore punk,1903
+top_genre_latin,1886
+top_genre_heavy metal,1806
+top_genre_hard rock,1776
+top_genre_country,1736
+top_genre_garage rock,1478
+top_genre_dance,1465
+distinct_top_genres,1435
+top_genre_indie pop,1390
+top_genre_j-pop,1334
+top_genre_emo,1268
+top_genre_progressive rock,1202
+top_genre_experimental,1197
+top_genre_k-pop,1175
+top_genre_house,1142
+top_genre_brutal death metal,1139
+top_genre_tango,1127
+top_genre_techno,1083
+top_genre_alternative pop,1011
+top_genre_soul,972
+top_genre_reggae,879
+top_genre_thrash metal,870
+top_genre_singer-songwriter,857
+top_genre_edm,816
+top_genre_blues rock,810
+top_genre_alternative metal,805
+top_genre_psychedelic rock,804
+top_genre_banda sinaloense,801
+top_genre_funk,794
+top_genre_horror punk,777
+top_genre_contemporary r&b,755
+top_genre_atmospheric black metal,744
+top_genre_dubstep,733
+top_genre_metalcore,727
+top_genre_post-punk,716
+top_genre_pop rock,715
+top_genre_r&b,698
+top_genre_power metal,697
+top_genre_progressive metal,678
+top_genre_trance,675
+top_genre_deep house,650
+top_genre_melodic death metal,641
+top_genre_new wave,634
+top_genre_electro,621
+top_genre_grindcore,604
+top_genre_industrial,587
+top_genre_pop punk,576
+top_genre_americana,573
+top_genre_dream pop,566
+top_genre_ballad,562
+top_genre_alternative hip hop,561
+top_genre_bluegrass,557
+top_genre_comedy,539
+top_genre_punk rock,538
+top_genre_cantopop,532
+top_genre_chiptune,521
+top_genre_soft visual,517
+top_genre_afrobeat,512
+top_genre_mandopop,499
+top_genre_folk rock,497
+top_genre_instrumental,493
+top_genre_gothic rock,482
+top_genre_reggaeton,474
+top_genre_dub,467
+top_genre_post-rock,464
+top_genre_krautrock,461
+top_genre_ebm,460
+top_genre_dark ambient,460
+top_genre_dancehall,456
+top_genre_norteño,450
+top_genre_downtempo,450
+top_genre_electronica,445
+top_genre_contemporary jazz,440
+top_genre_deathcore,439
+top_genre_ska,438
+top_genre_psytrance,433
+top_genre_disco,429
+top_genre_synthwave,413
+top_genre_lo-fi hip hop,403
+top_genre_chalga,401
+top_genre_dance-pop,400
+top_genre_grunge,399
+top_genre_gothic metal,392
+top_genre_noise,368
+top_genre_gospel,367
+top_genre_contemporary christian,359
+top_genre_electropop,358
+top_genre_contra,358
+top_genre_schlager,356
+top_genre_afrobeats,355
+top_genre_avant-garde,346
+top_genre_celtic,344
+top_genre_eurobeat,342
+top_genre_chanson française,339
+top_genre_indie folk,336
+top_genre_avant-garde jazz,333
+top_genre_gangsta rap,330
+top_genre_dark wave,328
+top_genre_synth-pop,326
+top_genre_breakbeat,325
+top_genre_free improvisation,321
+top_genre_art rock,318
+top_genre_desert rock,318
+top_genre_production music,317
+top_genre_contemporary folk,312
+top_genre_persian pop,310
+top_genre_jazz fusion,309
+top_genre_dungeon synth,306
+top_genre_post-hardcore,300
+top_genre_afro house,299
+top_genre_crust punk,297
+top_genre_groove metal,294
+top_genre_conscious hip hop,293
+top_genre_filmi,289
+top_genre_regional mexicano,284
+top_genre_contemporary classical,281
+top_genre_coldwave,279
+top_genre_hard bop,276
+top_genre_drone,273
+top_genre_alternative r&b,271
+top_genre_beatdown hardcore,268
+top_genre_alternative country,268
+top_genre_stoner rock,267
+top_genre_breakcore,266
+top_genre_folk metal,266
+top_genre_new age,264
+top_genre_aor,260
+top_genre_folk pop,259
+top_genre_experimental rock,255
+top_genre_string quartet,253
+top_genre_trap,252
+top_genre_heavy psych,250
+top_genre_audio drama,248
+top_genre_art pop,239
+top_genre_gothic,236
+top_genre_idol kayō,235
+top_genre_horrorcore,234
+top_genre_shoegaze,232
+top_genre_acoustic rock,231
+top_genre_screamo,229
+top_genre_depressive black metal,225
+top_genre_grime,223
+top_genre_classic rock,222
+top_genre_noise rock,222
+top_genre_cumbia,220
+top_genre_bedroom pop,215
+top_genre_funeral doom metal,214
+top_genre_lo-fi,213
+top_genre_oi,210
+top_genre_filk,209
+top_genre_doo-wop,208
+top_genre_rockabilly,208
+top_genre_power pop,203
+top_genre_anarcho-punk,203
+top_genre_children's music,202
+top_genre_alternative folk,201
+top_genre_baroque,200
+top_genre_free jazz,194
+top_genre_melodic black metal,193
+top_genre_cloud rap,193
+top_genre_math rock,191
+top_genre_opera,190
+top_genre_folk punk,186
+top_genre_neue deutsche welle,185
+top_genre_hardstyle,183
+top_genre_garage punk,181
+top_genre_rock and roll,180
+top_genre_crossover prog,177
+top_genre_chillout,177
+top_genre_ska punk,176
+top_genre_bachata,175
+top_genre_easy listening,174
+top_genre_country rock,167
+top_genre_industrial metal,166
+top_genre_big band,165
+top_genre_dark electro,164
+top_genre_acid jazz,162
+top_genre_symphonic metal,161
+top_genre_dixieland,161
+top_genre_latin pop,161
+top_genre_disco polo,160
+top_genre_post-metal,159
+top_genre_crossover thrash,158
+top_genre_bass house,157
+top_genre_j-rock,157
+top_genre_christian hardcore,156
+top_genre_nu metal,155
+top_genre_jazz rock,154
+top_genre_alternative dance,150
+top_genre_christian rock,148
+top_genre_stoner metal,148
+top_genre_eurodance,146
+top_genre_neo-progressive rock,145
+top_genre_dark psytrance,144
+top_genre_psychobilly,143
+top_genre_goregrind,143
+top_genre_psychedelic,143
+top_genre_beat music,142
+top_genre_djent,140
+top_genre_flamenco,139
+top_genre_melodic techno,138
+top_genre_psychedelic pop,136
+top_genre_vaporwave,135
+top_genre_europop,135
+top_genre_jungle,134
+top_genre_enka,134
+top_genre_mpb,134
+top_genre_sludge metal,133
+top_genre_chillwave,133
+top_genre_bolero,132
+top_genre_pigfuck,132
+top_genre_acid techno,131
+top_genre_drill,129
+top_genre_deathrock,129
+top_genre_technical death metal,128
+top_genre_hyperpop,127
+top_genre_jam band,127
+top_genre_instrumental rock,127
+top_genre_pop rap,126
+top_genre_club,125
+top_genre_opm,125
+top_genre_bossa nova,124
+top_genre_acid rock,121
+top_genre_c-pop,120
+top_genre_musical,120
+top_genre_avant-garde metal,119
+top_genre_symphonic black metal,119
+top_genre_kayōkyoku,118
+top_genre_melodic hardcore,117
+top_genre_blackened death metal,117
+top_genre_glam metal,114
+top_genre_speed metal,113
+top_genre_fado,113
+top_genre_electro-industrial,111
+top_genre_cabaret,110
+top_genre_britpop,107
+top_genre_medieval,106
+top_genre_christian hip hop,106
+top_genre_dansband,104
+top_genre_city pop,102
+top_genre_electro house,102
+top_genre_mathcore,101
+top_genre_korean ballad,99
+top_genre_bebop,98
+top_genre_melodic metalcore,97
+top_genre_alternative punk,96
+top_genre_glam rock,96
+top_genre_aggrotech,96
+top_genre_east coast hip hop,95
+top_genre_progressive house,94
+top_genre_hardcore hip hop,94
+top_genre_electronic rock,93
+top_genre_neo soul,93
+top_genre_symphonic prog,92
+top_genre_art punk,92
+top_genre_laiko,90
+top_genre_old-time,89
+top_genre_italo-disco,88
+top_genre_barbershop,87
+top_genre_powerviolence,86
+top_genre_abstract hip hop,86
+top_genre_emo rap,86
+top_genre_darksynth,84
+top_genre_ambient techno,82
+top_genre_salsa,82
+top_genre_harsh noise wall,82
+top_genre_bubblegum dance,81
+top_genre_dark folk,79
+top_genre_goa trance,79
+top_genre_celtic punk,79
+top_genre_irish folk,79
+top_genre_hardcore techno,78
+top_genre_experimental hip hop,78
+top_genre_tech house,78
+top_genre_easycore,77
+top_genre_baroque pop,77
+top_genre_breaks,77
+top_genre_sertanejo,77
+top_genre_harsh noise,77
+top_genre_acoustic blues,77
+top_genre_idm,77
+top_genre_neo-psychedelia,75
+top_genre_hard trance,75
+top_genre_cinematic classical,75
+top_genre_swing,74
+top_genre_avant-folk,73
+top_genre_t-pop,73
+top_genre_manele,73
+top_genre_emoviolence,72
+top_genre_uk garage,72
+top_genre_industrial rock,71
+top_genre_christian metal,71
+top_genre_orchestral,71
+top_genre_surf rock,71
+top_genre_vocal jazz,70
+top_genre_acid house,70
+top_genre_corrido,69
+top_genre_euro house,69
+top_genre_happy hardcore,69
+top_genre_electroacoustic,68
+top_genre_bassline,68
+top_genre_boogie,67
+top_genre_neofolk,67
+top_genre_contemporary gospel,67
+top_genre_mod,67
+top_genre_poetry,67
+top_genre_emocore,67
+top_genre_southern gospel,66
+top_genre_g-funk,66
+top_genre_contemporary country,66
+top_genre_latin rock,66
+top_genre_levenslied,65
+top_genre_classical crossover,65
+top_genre_blackgaze,65
+top_genre_bhangra,65
+top_genre_comedy hip hop,65
+top_genre_kabarett,64
+top_genre_spoken word,64
+top_genre_big room house,64
+top_genre_death-doom metal,64
+top_genre_trip hop,63
+top_genre_modern classical,63
+top_genre_witch house,63
+top_genre_gabber,62
+top_genre_blue-eyed soul,61
+top_genre_avant-prog,61
+top_genre_brass band,60
+top_genre_vallenato,60
+top_genre_muzika mizrahit,60
+top_genre_traditional pop,59
+top_genre_progressive trance,59
+top_genre_cyberpunk,58
+top_genre_progressive,58
+top_genre_cajun,58
+top_genre_gypsy jazz,58
+top_genre_new mexico music,58
+top_genre_funk rock,58
+top_genre_ambient pop,57
+top_genre_deathgrind,57
+top_genre_nerdcore,57
+top_genre_dub techno,57
+top_genre_psychedelic folk,57
+top_genre_progressive folk,57
+top_genre_minimal wave,56
+top_genre_digicore,56
+top_genre_d-beat,56
+top_genre_hard techno,56
+top_genre_experimental electronic,55
+top_genre_amapiano,54
+top_genre_klezmer,54
+top_genre_orthodox pop,54
+top_genre_comedy rock,53
+top_genre_zouk,52
+top_genre_electroclash,52
+top_genre_latin ballad,52
+top_genre_jazz-funk,51
+top_genre_minimal techno,51
+top_genre_future bass,50
+top_genre_dansktop,50
+top_genre_big beat,50
+top_genre_chinese classical,50
+top_genre_space rock,50
+top_genre_complextro,49
+top_genre_luk thung,49
+top_genre_chamber pop,49
+top_genre_calypso,49
+top_genre_dance-punk,48
+top_genre_indietronica,47
+top_genre_nu disco,47
+top_genre_bubblegum pop,47
+top_genre_no wave,47
+top_genre_melodic house,47
+top_genre_lolicore,47
+top_genre_forró,47
+top_genre_country pop,46
+top_genre_southern rock,46
+top_genre_champeta,46
+top_genre_cybergrind,45
+top_genre_turbo-folk,45
+top_genre_afro trap,45
+top_genre_breakbeat hardcore,45
+top_genre_chillsynth,44
+top_genre_minimal synth,44
+top_genre_glam,44
+top_genre_christmas music,44
+top_genre_soft rock,44
+top_genre_nhạc vàng,44
+top_genre_samba,44
+top_genre_instrumental hip hop,43
+top_genre_celtic rock,43
+top_genre_hard house,43
+top_genre_hindustani classical,43
+top_genre_atmospheric drum and bass,43
+top_genre_soca,43
+top_genre_pagan black metal,42
+top_genre_glitch,42
+top_genre_dariacore,41
+top_genre_latin jazz,40
+top_genre_italo dance,40
+top_genre_uptempo hardcore,40
+top_genre_c86,39
+top_genre_western classical,39
+top_genre_mariachi,38
+top_genre_noise pop,38
+top_genre_deep tech,38
+top_genre_ambient dub,38
+top_genre_ryūkōka,38
+top_genre_electric blues,37
+top_genre_anti-folk,37
+top_genre_battle rap,37
+top_genre_kleinkunst,37
+top_genre_v-pop,37
+top_genre_indian pop,37
+top_genre_campus folk,36
+top_genre_buchiage trance,36
+top_genre_noisecore,36
+top_genre_soukous,36
+top_genre_british rhythm & blues,36
+top_genre_country blues,36
+top_genre_underground hip hop,36
+top_genre_digital hardcore,36
+top_genre_beatboxing,35
+top_genre_smooth jazz,35
+top_genre_arabesk,35
+top_genre_detroit trap,35
+top_genre_ranchera,35
+top_genre_loud kei,35
+top_genre_electropunk,34
+top_genre_cool jazz,34
+top_genre_atmospheric sludge metal,34
+top_genre_kizomba,34
+top_genre_barber beats,34
+top_genre_trot,34
+top_genre_guggenmusik,34
+top_genre_new beat,33
+top_genre_drift phonk,33
+top_genre_nyū myūjikku,33
+top_genre_folktronica,33
+top_genre_liedermacher,33
+top_genre_chazzanut,33
+top_genre_canzone napoletana,33
+top_genre_viking metal,32
+top_genre_future funk,32
+top_genre_french house,32
+top_genre_drumstep,31
+top_genre_brazilian phonk,31
+top_genre_ragga,31
+top_genre_jazz pop,31
+top_genre_cumbia peruana,31
+top_genre_non-music,31
+top_genre_emo pop,31
+top_genre_world fusion,31
+top_genre_estrada,30
+top_genre_dangdut,30
+top_genre_progressive psytrance,30
+top_genre_midwest emo,30
+top_genre_surf,29
+top_genre_progressive electronic,29
+top_genre_glam punk,29
+top_genre_q-pop,29
+top_genre_persian classical,29
+top_genre_electro swing,29
+top_genre_eai,29
+top_genre_futurepop,28
+top_genre_chillstep,28
+top_genre_garage rock revival,28
+top_genre_pop soul,28
+top_genre_power electronics,28
+top_genre_bounce,28
+top_genre_nederpop,28
+top_genre_anatolian rock,28
+top_genre_lovers rock,28
+top_genre_lounge,27
+top_genre_field recording,27
+top_genre_highlife,27
+top_genre_canterbury scene,27
+top_genre_freakbeat,27
+top_genre_praise & worship,27
+top_genre_boogie-woogie,26
+top_genre_ambient house,26
+top_genre_makina,26
+top_genre_brega,26
+top_genre_detroit techno,26
+top_genre_acousmatic,26
+top_genre_asmr,26
+top_genre_gorenoise,26
+top_genre_wave,25
+top_genre_rap rock,25
+top_genre_afro-cuban jazz,25
+top_genre_drone metal,25
+top_genre_chicago blues,25
+top_genre_industrial techno,25
+top_genre_british folk rock,25
+top_genre_ragga hip-hop,25
+top_genre_musette,25
+top_genre_congolese rumba,24
+top_genre_roots reggae,24
+top_genre_raï,24
+top_genre_trap edm,24
+top_genre_zydeco,24
+top_genre_slowcore,24
+top_genre_chamber folk,24
+top_genre_post-grunge,24
+top_genre_hi-nrg,24
+top_genre_country folk,24
+top_genre_freak folk,23
+top_genre_post-industrial,23
+top_genre_red song,23
+top_genre_teen pop,23
+top_genre_slam death metal,23
+top_genre_trap latino,23
+top_genre_russian chanson,23
+top_genre_phonk,23
+top_genre_music hall,22
+top_genre_riot grrrl,22
+top_genre_appalachian folk,22
+top_genre_chicago house,22
+top_genre_pop yeh-yeh,22
+top_genre_death industrial,22
+top_genre_plunderphonics,22
+top_genre_exotica,22
+top_genre_shidaiqu,22
+top_genre_nightcore,22
+top_genre_carnatic classical,22
+top_genre_japanese classical,21
+top_genre_indian classical,21
+top_genre_renaissance,21
+top_genre_brostep,21
+top_genre_group sounds,21
+top_genre_belgian techno,21
+top_genre_vocal trance,21
+top_genre_avant-garde pop,21
+top_genre_choro,21
+top_genre_country rap,21
+top_genre_frenchcore,21
+top_genre_bitpop,21
+top_genre_viking rock,21
+top_genre_jangle pop,21
+top_genre_dark disco,21
+top_genre_cumbia norteña mexicana,20
+top_genre_éntekhno,20
+top_genre_gnawa,20
+top_genre_berlin school,20
+top_genre_euro-disco,20
+top_genre_electronicore,20
+top_genre_church music,20
+top_genre_rave,20
+top_genre_country and irish,19
+top_genre_doomgaze,19
+top_genre_funk metal,19
+top_genre_dark jazz,19
+top_genre_uk drill,19
+top_genre_trap metal,19
+top_genre_soul jazz,19
+top_genre_cumbia argentina,19
+top_genre_crunk,19
+top_genre_corrido tumbado,19
+top_genre_nwobhm,19
+top_genre_broken beat,19
+top_genre_uk hardcore,19
+top_genre_motown,18
+top_genre_polka,18
+top_genre_skate punk,18
+top_genre_merengue,18
+top_genre_dikir barat,18
+top_genre_vocal house,18
+top_genre_dirty south,18
+top_genre_nasheed,18
+top_genre_turntablism,18
+top_genre_dembow,18
+top_genre_zeuhl,17
+top_genre_odissi classical,17
+top_genre_vaudeville blues,17
+top_genre_technical thrash metal,17
+top_genre_deconstructed club,17
+top_genre_dunedin sound,17
+top_genre_mugham,17
+top_genre_footwork,17
+top_genre_death 'n' roll,17
+top_genre_min'yō,17
+top_genre_freestyle,17
+top_genre_ragtime,17
+top_genre_hip hop soul,16
+top_genre_pornogrind,16
+top_genre_choral symphony,16
+top_genre_cowboy poetry,16
+top_genre_candombe,16
+top_genre_new orleans r&b,16
+top_genre_gamelan,16
+top_genre_occult rock,16
+top_genre_new romantic,16
+top_genre_western swing,16
+top_genre_avtorskaya pesnya,16
+top_genre_black ambient,16
+top_genre_jovem guarda,16
+top_genre_chicago drill,16
+top_genre_ethio-jazz,16
+top_genre_comfy synth,16
+top_genre_african blues,16
+top_genre_visa,16
+top_genre_2-step,16
+top_genre_desert blues,16
+top_genre_piano rock,16
+top_genre_afro-jazz,16
+top_genre_bhajan,15
+top_genre_delta blues,15
+top_genre_nu jazz,15
+top_genre_rocksteady,15
+top_genre_dark cabaret,15
+top_genre_electro-funk,15
+top_genre_northern soul,15
+top_genre_sea shanty,15
+top_genre_shibuya-kei,15
+top_genre_funk carioca,15
+top_genre_central asian throat singing,15
+top_genre_hardgroove techno,15
+top_genre_pagode,15
+top_genre_cowpunk,14
+top_genre_sovietwave,14
+top_genre_cantonese opera,14
+top_genre_glitch hop,14
+top_genre_balearic beat,14
+top_genre_maloya,14
+top_genre_instrumental jazz,14
+top_genre_garba,14
+top_genre_classic jazz,14
+top_genre_southern hip hop,14
+top_genre_deep techno,14
+top_genre_new jack swing,14
+top_genre_afro-funk,14
+top_genre_queercore,14
+top_genre_hypnagogic pop,14
+top_genre_chopped and screwed,14
+top_genre_psybient,13
+top_genre_post-bop,13
+top_genre_neue deutsche härte,13
+top_genre_euro-trance,13
+top_genre_copla,13
+top_genre_mod revival,13
+top_genre_rap metal,13
+top_genre_turkish pop,13
+top_genre_acid breaks,13
+top_genre_ethereal wave,13
+top_genre_hip house,13
+top_genre_sunshine pop,13
+top_genre_néo-trad,13
+top_genre_piedmont blues,13
+top_genre_speedcore,13
+top_genre_future house,13
+top_genre_pub rock,13
+top_genre_hard trap,13
+top_genre_bit music,13
+top_genre_afroswing,13
+top_genre_yé-yé,13
+top_genre_axé,13
+top_genre_cape breton fiddling,13
+top_genre_merseybeat,12
+top_genre_algerian chaabi,12
+top_genre_electrotango,12
+top_genre_canción melódica,12
+top_genre_west coast hip hop,12
+top_genre_riddim dubstep,12
+top_genre_ytpmv,12
+top_genre_memphis rap,12
+top_genre_beijing opera,12
+top_genre_epic doom metal,12
+top_genre_mashcore,12
+top_genre_turkish classical,12
+top_genre_qawwali,12
+top_genre_dance-rock,12
+top_genre_luk krung,12
+top_genre_kawaii future bass,12
+top_genre_denpa,12
+top_genre_nederbeat,12
+top_genre_2 tone,12
+top_genre_arena rock,12
+top_genre_rapcore,12
+top_genre_swamp pop,12
+top_genre_chamamé,11
+top_genre_tsugaru-jamisen,11
+top_genre_chanson réaliste,11
+top_genre_extratone,11
+top_genre_future garage,11
+top_genre_operetta,11
+top_genre_old school hip hop,11
+top_genre_power noise,11
+top_genre_neurofunk,11
+top_genre_brega funk,11
+top_genre_indorock,11
+top_genre_ambient noise wall,11
+top_genre_artcore,11
+top_genre_neoperreo,11
+top_genre_hands up,11
+top_genre_sound collage,11
+top_genre_boogie rock,11
+top_genre_hamburger schule,11
+top_genre_art song,11
+top_genre_lo-fi house,11
+top_genre_funky house,11
+top_genre_dissonant death metal,11
+top_genre_acid trance,11
+top_genre_marrabenta,11
+top_genre_cuarteto,11
+top_genre_makossa,11
+top_genre_blackened crust,10
+top_genre_garage house,10
+top_genre_sasscore,10
+top_genre_jump blues,10
+top_genre_j-core,10
+top_genre_ritual ambient,10
+top_genre_compas,10
+top_genre_mbalax,10
+top_genre_black 'n' roll,10
+top_genre_darkstep,10
+top_genre_semba,10
+top_genre_slam poetry,10
+top_genre_piano blues,10
+top_genre_classical period,10
+top_genre_forró universitário,10
+top_genre_leftfield,10
+top_genre_bongo flava,10
+top_genre_thrashcore,10
+top_genre_dutch house,10
+top_genre_miami bass,10
+top_genre_neoclassical metal,10
+top_genre_burmese stereo,10
+top_genre_italo house,10
+top_genre_rebetiko,10
+top_genre_melodic dubstep,10
+top_genre_neocrust,10
+top_genre_kawaii metal,10
+top_genre_tech trance,10
+top_genre_classic country,10
+top_genre_ghazal,9
+top_genre_jumpstyle,9
+top_genre_slushwave,9
+top_genre_pop screamo,9
+top_genre_nueva canción,9
+top_genre_political hip hop,9
+top_genre_organic house,9
+top_genre_música criolla,9
+top_genre_euphoric hardstyle,9
+top_genre_progressive metalcore,9
+top_genre_neo-rockabilly,9
+top_genre_ambient trance,9
+top_genre_deathstep,9
+top_genre_twee pop,9
+top_genre_għana,9
+top_genre_skiffle,9
+top_genre_mugithi,9
+top_genre_nueva trova,9
+top_genre_operatic pop,9
+top_genre_steampunk,9
+top_genre_kwaito,9
+top_genre_gospel reggae,9
+top_genre_hardbass,9
+top_genre_kaseko,9
+top_genre_minimalism,8
+top_genre_boogaloo,8
+top_genre_cumbia mexicana,8
+top_genre_coupé-décalé,8
+top_genre_country gospel,8
+top_genre_chicano rap,8
+top_genre_celtic new age,8
+top_genre_microhouse,8
+top_genre_industrial hardcore,8
+top_genre_symphonic rock,8
+top_genre_funk brasileiro,8
+top_genre_britcore,8
+top_genre_country soul,8
+top_genre_candombe beat,8
+top_genre_cumbia colombiana,8
+top_genre_martial industrial,8
+top_genre_sean-nós,8
+top_genre_acidcore,8
+top_genre_bouncy techno,8
+top_genre_baltimore club,8
+top_genre_tribal ambient,8
+top_genre_dreamwave,8
+top_genre_romantic classical,8
+top_genre_chimurenga,8
+top_genre_dhrupad,8
+top_genre_bluegrass gospel,8
+top_genre_iraqi maqam,8
+top_genre_garage psych,8
+top_genre_standup comedy,8
+top_genre_bubblegum bass,8
+top_genre_raggacore,8
+top_genre_roots rock,8
+top_genre_zamrock,8
+top_genre_celtic metal,8
+top_genre_nature sounds,8
+top_genre_neo kyma,7
+top_genre_psychedelic soul,7
+top_genre_maskanda,7
+top_genre_son cubano,7
+top_genre_chacarera,7
+top_genre_cyber metal,7
+top_genre_space age pop,7
+top_genre_hexd,7
+top_genre_american primitive guitar,7
+top_genre_nueva canción chilena,7
+top_genre_electro hop,7
+top_genre_dream trance,7
+top_genre_southern metal,7
+top_genre_tejano,7
+top_genre_chachachá,7
+top_genre_philly soul,7
+top_genre_heartland rock,7
+top_genre_crunkcore,7
+top_genre_worldbeat,7
+top_genre_digital fusion,7
+top_genre_fado de coimbra,7
+top_genre_brit funk,7
+top_genre_space ambient,7
+top_genre_pacific reggae,7
+top_genre_beat rock,7
+top_genre_afro-zouk,7
+top_genre_charanga,7
+top_genre_drill and bass,7
+top_genre_march,7
+top_genre_outlaw country,7
+top_genre_volkstümliche musik,7
+top_genre_broken transmission,7
+top_genre_rage,6
+top_genre_gqom,6
+top_genre_carimbó,6
+top_genre_musique concrète,6
+top_genre_spamwave,6
+top_genre_jug band,6
+top_genre_cadence lypso,6
+top_genre_liquid funk,6
+top_genre_peak time techno,6
+top_genre_burmese classical,6
+top_genre_hardvapour,6
+top_genre_darkcore,6
+top_genre_gregorian chant,6
+top_genre_flamenco pop,6
+top_genre_bomba,6
+top_genre_guided meditation,6
+top_genre_progressive pop,6
+top_genre_brutal prog,6
+top_genre_afro rock,6
+top_genre_black noise,6
+top_genre_chicago soul,6
+top_genre_nerdcore techno,6
+top_genre_guoyue,6
+top_genre_red dirt,6
+top_genre_punk poetry,6
+top_genre_traditional country,6
+top_genre_sketch comedy,6
+top_genre_dancefloor drum and bass,6
+top_genre_marching band,6
+top_genre_bardcore,6
+top_genre_jazz blues,6
+top_genre_funkot,6
+top_genre_yacht rock,6
+top_genre_joik,6
+top_genre_sōkyoku,6
+top_genre_schranz,6
+top_genre_reggae rock,6
+top_genre_hauntology,5
+top_genre_jamaican ska,5
+top_genre_free tekno,5
+top_genre_southern soul,5
+top_genre_slacker rock,5
+top_genre_township bubblegum,5
+top_genre_taarab,5
+top_genre_kan ha diskan,5
+top_genre_donk,5
+top_genre_funaná,5
+top_genre_experimental big band,5
+top_genre_proto-punk,5
+top_genre_nuevo flamenco,5
+top_genre_mambo,5
+top_genre_dark plugg,5
+top_genre_spirituals,5
+top_genre_techno kayō,5
+top_genre_post-punk revival,5
+top_genre_bakersfield sound,5
+top_genre_honky tonk,5
+top_genre_benga,5
+top_genre_andalusian classical,5
+top_genre_acoustic texas blues,5
+top_genre_dub poetry,5
+top_genre_alté,5
+top_genre_finnish tango,5
+top_genre_hill country blues,5
+top_genre_jazz rap,5
+top_genre_séga,5
+top_genre_speed garage,5
+top_genre_western,5
+top_genre_mbaqanga,5
+top_genre_ambient americana,5
+top_genre_grebo,5
+top_genre_grupera,5
+top_genre_deejay,5
+top_genre_vietnamese bolero,5
+top_genre_celtic electronica,5
+top_genre_cocktail nation,5
+top_genre_close harmony,5
+top_genre_big room trance,5
+top_genre_son jarocho,5
+top_genre_melodic trance,5
+top_genre_nuevo tango,5
+top_genre_rock opera,5
+top_genre_hyper techno,5
+top_genre_chanson québécoise,5
+top_genre_mallsoft,5
+top_genre_latin funk,5
+top_genre_jerk,5
+top_genre_halftime,5
+top_genre_rawstyle,5
+top_genre_glitch pop,5
+top_genre_electro-disco,5
+top_genre_pluggnb,5
+top_genre_neoclassicism,4
+top_genre_pagan folk,4
+top_genre_maloya élektrik,4
+top_genre_phleng phuea chiwit,4
+top_genre_reggae-pop,4
+top_genre_gothic country,4
+top_genre_beat poetry,4
+top_genre_byzantine chant,4
+top_genre_flashcore,4
+top_genre_narcocorrido,4
+top_genre_cantoria,4
+top_genre_bouyon,4
+top_genre_neo-acoustic,4
+top_genre_mincecore,4
+top_genre_ghettotech,4
+top_genre_moogsploitation,4
+top_genre_rumba,4
+top_genre_future rave,4
+top_genre_punk blues,4
+top_genre_crack rock steady,4
+top_genre_nhạc đỏ,4
+top_genre_cape jazz,4
+top_genre_uk funky,4
+top_genre_free folk,4
+top_genre_quiet storm,4
+top_genre_tropical house,4
+top_genre_seggae,4
+top_genre_colour bass,4
+top_genre_batucada,4
+top_genre_outsider house,4
+top_genre_zouglou,4
+top_genre_humppa,4
+top_genre_progressive bluegrass,4
+top_genre_sevillanas,4
+top_genre_dreampunk,4
+top_genre_nagauta,4
+top_genre_madchester,4
+top_genre_classic blues,4
+top_genre_electro latino,4
+top_genre_sound effects,4
+top_genre_hardwave,4
+top_genre_mantra,4
+top_genre_trova,4
+top_genre_arabesk rap,4
+top_genre_slap house,4
+top_genre_bolero español,4
+top_genre_skacore,4
+top_genre_gwo ka,4
+top_genre_chutney,4
+top_genre_guaracha,4
+top_genre_surf punk,4
+top_genre_muziki wa dansi,4
+top_genre_duranguense,4
+top_genre_fairy tale,4
+top_genre_birmingham sound,4
+top_genre_drumless hip hop,4
+top_genre_latin house,4
+top_genre_algorave,4
+top_genre_cubatón,4
+top_genre_minneapolis sound,4
+top_genre_ghetto house,4
+top_genre_manila sound,4
+top_genre_texas blues,4
+top_genre_crossbreed,4
+top_genre_pop metal,4
+top_genre_neo-medieval folk,4
+top_genre_gypsy punk,3
+top_genre_geek rock,3
+top_genre_chanson à texte,3
+top_genre_kaneka,3
+top_genre_akishibu-kei,3
+top_genre_bro-country,3
+top_genre_brill building,3
+top_genre_ambient plugg,3
+top_genre_dabke,3
+top_genre_griot,3
+top_genre_cumbia chilena,3
+top_genre_jùjú,3
+top_genre_horror synth,3
+top_genre_jersey club,3
+top_genre_neoclassical dark wave,3
+top_genre_swancore,3
+top_genre_ballroom house,3
+top_genre_guaguancó,3
+top_genre_industrial musical,3
+top_genre_juke,3
+top_genre_cuplé,3
+top_genre_hi-tech,3
+top_genre_symphony,3
+top_genre_illbient,3
+top_genre_data sonification,3
+top_genre_new jazz,3
+top_genre_microfunk,3
+top_genre_freeform hardcore,3
+top_genre_modern laiko,3
+top_genre_pipe band music,3
+top_genre_traditional doom metal,3
+top_genre_cuddlecore,3
+top_genre_psycore,3
+top_genre_raggatek,3
+top_genre_birdsong,3
+top_genre_fantezi,3
+top_genre_industrial hip hop,3
+top_genre_deep funk,3
+top_genre_funk melody,3
+top_genre_aita,3
+top_genre_cantu a tenore,3
+top_genre_nova cançó,3
+top_genre_french electro,3
+top_genre_future riddim,3
+top_genre_medieval metal,3
+top_genre_rumba catalana,3
+top_genre_animal sounds,3
+top_genre_krushclub,3
+top_genre_tex-mex,3
+top_genre_concert band,3
+top_genre_burmese mono,3
+top_genre_joropo,3
+top_genre_moroccan chaabi,3
+top_genre_ballet,3
+top_genre_darkcore edm,3
+top_genre_football chant,3
+top_genre_brazilian bass,3
+top_genre_futurism,3
+top_genre_pagodão,3
+top_genre_outrun,3
+top_genre_sophisti-pop,3
+top_genre_plugg,3
+top_genre_lullaby,3
+top_genre_paisley underground,3
+top_genre_embolada,3
+top_genre_nortec,3
+top_genre_samba soul,3
+top_genre_old school death metal,3
+top_genre_tape music,3
+top_genre_cabo zouk,3
+top_genre_baião,3
+top_genre_medieval rock,3
+top_genre_hybrid trap,3
+top_genre_guajira,3
+top_genre_drumline,2
+top_genre_skinhead reggae,2
+top_genre_vaudeville,2
+top_genre_swamp blues,2
+top_genre_beach music,2
+top_genre_canzone d'autore,2
+top_genre_mor lam,2
+top_genre_crossover jazz,2
+top_genre_louisiana blues,2
+top_genre_cumbia pop,2
+top_genre_black midi,2
+top_genre_indo jazz,2
+top_genre_native american new age,2
+top_genre_3-step,2
+top_genre_fantasia,2
+top_genre_thall,2
+top_genre_muzika yehudit mekorit,2
+top_genre_dissonant black metal,2
+top_genre_funk ostentação,2
+top_genre_mahraganat,2
+top_genre_punk rap,2
+top_genre_huayno,2
+top_genre_raga rock,2
+top_genre_punta,2
+top_genre_crime jazz,2
+top_genre_mangue beat,2
+top_genre_sound art,2
+top_genre_hardcore breaks,2
+top_genre_progressive breaks,2
+top_genre_interview,2
+top_genre_jersey club rap,2
+top_genre_jerk rap,2
+top_genre_al jeel,2
+top_genre_morna,2
+top_genre_urban contemporary gospel,2
+top_genre_synth funk,2
+top_genre_kwela,2
+top_genre_forró de favela,2
+top_genre_ars subtilior,2
+top_genre_jōruri,2
+top_genre_danmono,2
+top_genre_mafioso rap,2
+top_genre_chipmunk soul,2
+top_genre_mad,2
+top_genre_doina,2
+top_genre_conducted improvisation,2
+top_genre_soul blues,2
+top_genre_p-funk,2
+top_genre_festival trap,2
+top_genre_klasik,2
+top_genre_burning spirits,2
+top_genre_jazz house,2
+top_genre_balearic trance,2
+top_genre_junkanoo,2
+top_genre_hopepunk,2
+top_genre_nintendocore,2
+top_genre_cosmic country,2
+top_genre_cante alentejano,2
+top_genre_andean new age,2
+top_genre_mood kayō,2
+top_genre_biguine,2
+top_genre_sleaze rock,2
+top_genre_huapango,2
+top_genre_izvorna bosanska muzika,2
+top_genre_frapcore,2
+top_genre_salegy,2
+top_genre_batidão romântico,2
+top_genre_j-euro,2
+top_genre_jazz poetry,2
+top_genre_música llanera,2
+top_genre_orchestral jazz,2
+top_genre_bubbling,2
+top_genre_shan'ge,2
+top_genre_sampledelia,2
+top_genre_briddim,2
+top_genre_batida,2
+top_genre_folkhop,2
+top_genre_carranga,2
+top_genre_funktronica,2
+top_genre_bolero-beat,2
+top_genre_war metal,2
+top_genre_chap hop,2
+top_genre_tecnorumba,2
+top_genre_coco,2
+top_genre_bleep techno,2
+top_genre_tizita,2
+top_genre_fuji,2
+top_genre_falak,2
+top_genre_neo-traditional country,2
+top_genre_alpenrock,2
+top_genre_gagaku,2
+top_genre_jiangnan sizhu,2
+top_genre_fife and drum blues,2
+top_genre_hard nrg,2
+top_genre_pasodoble,2
+top_genre_neoclassical new age,2
+top_genre_ars nova,2
+top_genre_keroncong,2
+top_genre_microsound,2
+top_genre_flamenco jazz,2
+top_genre_guaracha edm,2
+top_genre_samba-canção,2
+top_genre_chopper,2
+top_genre_forró eletrônico,2
+top_genre_wassoulou,2
+top_genre_neofolklore,2
+top_genre_baithak gana,2
+top_genre_prank calls,2
+top_genre_rautalanka,2
+top_genre_swing revival,2
+top_genre_kuduro,2
+top_genre_samba-rock,2
+top_genre_cumbia villera,2
+top_genre_takamba,2
+top_genre_palingsound,2
+top_genre_go-go,2
+top_genre_ars antiqua,2
+top_genre_afropiano,2
+top_genre_spacesynth,2
+top_genre_street punk,2
+top_genre_gumbe,2
+top_genre_swamp rock,2
+top_genre_chilena,2
+top_genre_doomcore,2
+top_genre_hyphy,2
+top_genre_partyschlager,2
+top_genre_smooth soul,2
+top_genre_bhavageethe,2
+top_genre_british blues,2
+top_genre_phonk house,2
+top_genre_deep drum and bass,2
+top_genre_bolero son,2
+top_genre_country boogie,1
+top_genre_demostyle,1
+top_genre_pasillo,1
+top_genre_red disco,1
+top_genre_turkish folk,1
+top_genre_uyghur muqam,1
+top_genre_tropical rock,1
+top_genre_shitgaze,1
+top_genre_electric texas blues,1
+top_genre_landó,1
+top_genre_country yodeling,1
+top_genre_samba-enredo,1
+top_genre_terrorcore,1
+top_genre_samba-jazz,1
+top_genre_shima-uta,1
+top_genre_malhun,1
+top_genre_gamelan selunding,1
+top_genre_diva house,1
+top_genre_ragga jungle,1
+top_genre_third wave ska,1
+top_genre_eletrofunk,1
+top_genre_tsapiky,1
+top_genre_epic collage,1
+top_genre_progressive country,1
+top_genre_moombahcore,1
+top_genre_full-on,1
+top_genre_sungura,1
+top_genre_murga,1
+top_genre_jesus music,1
+top_genre_amigacore,1
+top_genre_shaabi,1
+top_genre_ragtime song,1
+top_genre_drumfunk,1
+top_genre_lambada,1
+top_genre_pimba,1
+top_genre_zamba,1
+top_genre_work song,1
+top_genre_qaraami,1
+top_genre_us power metal,1
+top_genre_nepali lok geet,1
+top_genre_marabi,1
+top_genre_bullerengue,1
+top_genre_suomisaundi,1
+top_genre_bulería,1
+top_genre_sierreño,1
+top_genre_tecnobrega,1
+top_genre_shanto,1
+top_genre_afoxê,1
+top_genre_truck driving country,1
+top_genre_sermon,1
+top_genre_rock rural,1
+top_genre_audio documentary,1
+top_genre_balinese gamelan,1
+top_genre_post-classical,1
+top_genre_frat rock,1
+top_genre_autonomic,1
+top_genre_nhạc tiền chiến,1
+top_genre_chicha,1
+top_genre_impromptu,1
+top_genre_kantan chamorrita,1
+top_genre_early hardstyle,1
+top_genre_english pastoral school,1
+top_genre_liquid riddim,1
+top_genre_jota,1
+top_genre_jamgrass,1
+top_genre_footwork jungle,1
+top_genre_csárdás,1
+top_genre_nashville sound,1
+top_genre_trap dancehall,1
+top_genre_bandinha,1
+top_genre_zouk love,1
+top_genre_midtempo bass,1
+top_genre_haitian vodou drumming,1
+top_genre_industrial folk song,1
+top_genre_jump up,1
+top_genre_hi-tech full-on,1
+top_genre_natya sangeet,1
+top_genre_downtempo deathcore,1
+top_genre_arrocha,1
+top_genre_stoner rap,1
+top_genre_speech,1
+top_genre_ländlermusik,1
+top_genre_traditional black gospel,1
+top_genre_romanian popcorn,1
+top_genre_concerto,1
+top_genre_doskpop,1
+top_genre_waltz,1
+top_genre_jongo,1
+top_genre_modal jazz,1
+top_genre_space disco,1
+top_genre_jaipongan,1
+top_genre_russian romance,1
+top_genre_serenade,1
+top_genre_gospel hymn,1
+top_genre_izlan,1
+top_genre_könsrock,1
+top_genre_zoblazo,1
+top_genre_taizé chant,1
+top_genre_descarga,1
+top_genre_lavani,1
+top_genre_mainstream rock,1
+top_genre_yakousei,1
+top_genre_mento,1
+top_genre_rock andino,1
+top_genre_circus march,1
+top_genre_campursari,1
+top_genre_funky breaks,1
+top_genre_uzun hava,1
+top_genre_vocal surf,1
+top_genre_pizzica,1
+top_genre_burger-highlife,1
+top_genre_pop raï,1
+top_genre_hiplife,1
+top_genre_hardbag,1
+top_genre_rapso,1
+top_genre_tin pan alley,1
+top_genre_gamelan degung,1
+top_genre_mambo urbano,1
+top_genre_vocalese,1
+top_genre_dungeon sound,1
+top_genre_trance metal,1
+top_genre_regalia,1
+top_genre_neon pop punk,1
+top_genre_maxixe,1
+top_genre_plena,1
+top_genre_bandari,1
+top_genre_scam rap,1
+top_genre_kasékò,1
+top_genre_sevdalinka,1
+top_genre_gaana,1
+top_genre_rara,1
+top_genre_kundiman,1
+top_genre_semi-trot,1
+top_genre_yu-mex,1
+top_genre_shangaan electro,1
+top_genre_melbourne bounce,1
+top_genre_kanto,1
+top_genre_tribal guarachero,1
+top_genre_dimotiko,1
+top_genre_conga,1
+top_genre_assiko,1
+top_genre_nueva cumbia chilena,1
+top_genre_palm-wine,1
+top_genre_breakstep,1
+top_genre_nuevo cancionero,1
+top_genre_rock urbano mexicano,1
+top_genre_rock andaluz,1
+top_genre_forest psytrance,1
+top_genre_islamic modal music,1
+top_genre_singeli,1
+top_genre_spectralism,1
+top_genre_banga,1
+top_genre_salsa dura,1
+top_genre_arrocha sertanejo,1
+top_genre_overture,1
+top_genre_honkyoku,1
+top_genre_gaita zuliana,1
+top_genre_chutney soca,1
+top_genre_dubwise,1
+top_genre_new rave,1
+top_genre_kai,1
+top_genre_fandango,1
+top_genre_new complexity,1
+top_genre_rasin,1
+top_genre_hard drum,1
+top_genre_dubstyle,1
+top_genre_seresta,1
+top_genre_aak,1
+top_genre_pop minang,1
+top_genre_terror plugg,1
+top_genre_piseiro,1
+top_genre_tribal house,1
+top_genre_oriental ballad,1
+top_genre_mūsīqā lubnāniyya,1
+top_genre_arrocha funk,1
+top_genre_shatta,1
+top_genre_microtonal classical,1
+top_genre_cachaca,1
+top_genre_fife and drum,1
+top_genre_rock musical,1
+top_genre_bounce beat,1
+top_genre_speed house,1
+top_genre_festival progressive house,1
+top_genre_kuda lumping,1
+top_genre_sardana,1
+top_genre_porn groove,1
+top_genre_partido alto,1
+top_genre_whale song,1
+top_genre_thai classical,1
+top_genre_future bounce,1
+top_genre_celtic chant,1
+top_genre_wonky,1
+top_genre_winter synth,1
+top_genre_steel band,1
+top_genre_g-house,1
+top_genre_spiritual jazz,1
+top_genre_sertanejo romântico,1
+top_genre_scottish country dance music,1
+top_genre_dance-punk revival,1
+top_genre_stochastic music,1
+top_genre_grand opera,1
+top_genre_binaural beats,1
+top_genre_future core,1
+top_genre_seapunk,1
+top_genre_ratchet music,1
+top_genre_hardstep,1
+top_genre_tsonga disco,1
+top_genre_budots,1
+top_genre_maddahi,1
+top_genre_pilón,1
+top_genre_hardtekk,1
+top_genre_sundanese pop,1
+top_genre_modinha,1
+top_genre_festejo,1
+top_genre_tibetan buddhist chant,1
+top_genre_lowercase,1
+top_genre_novo dub,1
+top_genre_slack-key guitar,1
+top_genre_deathchant hardcore,1
+top_genre_texas country,1
+top_genre_coke rap,1
+top_genre_rock urbano,1
+top_genre_samba-reggae,1
+top_genre_new orleans blues,1
+top_genre_melodic bass,1
+top_genre_british brass band,1
+top_genre_funk consciente,1
+top_genre_hypertechno,1
+top_genre_cueca,1

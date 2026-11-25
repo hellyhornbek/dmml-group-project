@@ -7,3 +7,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Generated data (made by the notebooks, too large for git)
+/Assignment 02/Notebooks/RQ2_sessions/sessions.csv
+/Assignment 02/Extract/extract/
