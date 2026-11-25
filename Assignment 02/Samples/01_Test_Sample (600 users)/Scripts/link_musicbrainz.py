@@ -36,7 +36,7 @@ elif step == 'artist':
     con.execute(f"""create or replace table artist as select a.id::bigint id, a.gid, a.name, a.begin_y::int begin_year, a.end_y::int end_year, a.type::int type_id, a.area::int area_id
         from {tsv('artist', {'id':0,'gid':0,'name':0,'sort_name':0,'begin_y':0,'begin_m':0,'begin_d':0,'end_y':0,'end_m':0,'end_d':0,'type':0,'area':0,'gender':0,'comment':0})} a
         where a.gid in (select g from need_artist)""")
-    log('artist ' + str(con.sql('select count(*) from artist').fetchone()))
+    log('artist ' + str(con.execute('select count(*) from artist').fetchone()))
     con.execute(f"create or replace table area as select id::bigint id, name from {tsv('area', {'id':0,'gid':0,'name':0})}")
     con.execute(f"create or replace table atype as select id::bigint id, name from {tsv('artist_type', {'id':0,'name':0})}")
     con.execute(f"create or replace table tag as select id::bigint id, name from {tsv('tag', {'id':0,'name':0})}")
@@ -45,20 +45,20 @@ elif step == 'artist':
         select x.artist::bigint artist_id, t.name tag, x.count::int votes, (t.name in (select name from genre)) is_genre
         from {tsv('artist_tag', {'artist':0,'tag':0,'count':0})} x join tag t on t.id = x.tag::bigint
         where x.artist::bigint in (select id from artist) and x.count::int > 0""")
-    log('artist tags ' + str(con.sql('select count(*) from artist_tags').fetchone()))
+    log('artist tags ' + str(con.execute('select count(*) from artist_tags').fetchone()))
 elif step == 'recording':
     con.execute("create or replace table need_rec as select distinct recording_mbid g from songs where recording_mbid is not null")
     con.execute(f"""create or replace table recording as select r.id::bigint id, r.gid, r.length::bigint length_ms
         from {tsv('recording', {'id':0,'gid':0,'name':0,'ac':0,'length':0})} r where r.gid in (select g from need_rec)""")
-    log('recording ' + str(con.sql('select count(*) from recording').fetchone()))
+    log('recording ' + str(con.execute('select count(*) from recording').fetchone()))
     con.execute(f"""create or replace table recording_tags as
         select rt.recording::bigint recording_id, t.name tag, rt.count::int votes, (t.name in (select name from genre)) is_genre
         from {tsv('recording_tag', {'recording':0,'tag':0,'count':0})} rt join tag t on t.id = rt.tag::bigint
         where rt.recording::bigint in (select id from recording) and rt.count::int > 0""")
-    log('recording tags ' + str(con.sql('select count(*) from recording_tags').fetchone()))
+    log('recording tags ' + str(con.execute('select count(*) from recording_tags').fetchone()))
 elif step == 'release':
     con.execute("create or replace table need_rel as select distinct release_mbid g from songs where release_mbid is not null")
     con.execute(f"""create or replace table rel as select r.gid, r.rg::bigint rg from {tsv('release', {'id':0,'gid':0,'name':0,'ac':0,'rg':0})} r where r.gid in (select g from need_rel)""")
     con.execute(f"""create or replace table rgy as select m.id::bigint rg, m.y::int rel_year from {tsv('release_group_meta', {'id':0,'rc':0,'y':0})} m
         where m.id::bigint in (select rg from rel)""")
-    log('release ' + str(con.sql('select count(*) from rel').fetchone()) + ' years ' + str(con.sql('select count(*) from rgy').fetchone()))
+    log('release ' + str(con.execute('select count(*) from rel').fetchone()) + ' years ' + str(con.execute('select count(*) from rgy').fetchone()))

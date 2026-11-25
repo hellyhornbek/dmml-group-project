@@ -250,7 +250,7 @@ def run_check(a):
         if good is False: ok = False
         rep.append(('PASS  ' if good else 'FAIL  ' if good is False else '      ') + s); print(rep[-1], flush=True)
     con = duckdb.connect(); con.execute("SET TimeZone='UTC'")
-    con.execute("CREATE VIEW x AS SELECT * FROM read_parquet('%s', hive_partitioning=false)" % os.path.join(out, 'extract', 'year=*', '*.parquet'))
+    con.execute("CREATE VIEW x AS SELECT * FROM read_parquet('%s', hive_partitioning=false)" % os.path.join(out, 'extract', 'year=*', 'part-*.parquet'))
     con.execute("CREATE TEMP TABLE act AS SELECT user_id, year, count(*) AS n FROM x GROUP BY 1,2")
     con.execute("CREATE TEMP TABLE exp AS SELECT user_id, year, listens FROM read_csv('%s', header=true)" % exp_path)
     pj = os.path.join(out, 'progress.json')

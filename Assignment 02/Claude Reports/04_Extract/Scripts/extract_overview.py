@@ -28,7 +28,7 @@ years = sorted(int(d.split('=')[1]) for d in os.listdir(a.extract) if d.startswi
 # ---- per year (one year at a time) ----
 head = ['year', 'rows', 'users', 'dup_rows'] + ['share_' + f for f in FIELDS] + ['share_missing_artist', 'share_missing_track', 'dup_share']
 def one_year(y):
-    src = "read_parquet('%s/year=%d/*.parquet')" % (a.extract, y)
+    src = "read_parquet('%s/year=%d/part-*.parquet')" % (a.extract, y)
     q = ("select count(*), count(distinct user_id), sum(is_dup::int), " + ', '.join('count(%s)' % f for f in FIELDS) +
          ", sum((artist_name is null or artist_name = '')::int), sum((track_name is null or track_name = '')::int) from " + src)
     r = con.execute(q).fetchone(); print('year', y, r[0], flush=True); return [int(x) for x in r]
@@ -41,7 +41,7 @@ with open(os.path.join(a.out, 'extract_per_year.csv'), 'w', newline='') as fh:
                    [round(r[3 + len(FIELDS)] / n, 4), round(r[4 + len(FIELDS)] / n, 4), round(r[2] / n, 4)])
 
 # ---- top sources, all years ----
-allp = "read_parquet('%s/year=*/*.parquet')" % a.extract
+allp = "read_parquet('%s/year=*/part-*.parquet')" % a.extract
 rows = cached('sources', lambda: [list(r) for r in con.execute("select coalesce(source, '(none)') s, count(*) n from %s group by 1 order by n desc limit 30" % allp).fetchall()])
 total = sum(r[0] for r in res.values())
 with open(os.path.join(a.out, 'extract_top_sources.csv'), 'w', newline='') as fh:

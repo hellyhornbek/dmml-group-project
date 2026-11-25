@@ -49,7 +49,7 @@ left join tags_art ta on ta.artist_id = a.id
 left join tags_rec tr on tr.recording_id = r.id
 order by l.user_id, l.ts
 """)
-n = con.sql("select count(*) from final").fetchone()[0]
+n = con.execute("select count(*) from final").fetchone()[0]
 print('rows', n)
 cols = [c[0] for c in con.sql("describe final").fetchall()]
 fill = con.sql("select " + ", ".join(f"round(100.0*count({c})/count(*),1) as {c}" for c in cols) + " from final").df().T

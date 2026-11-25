@@ -20,11 +20,11 @@ ap.add_argument('--seed', type=int, default=2023); ap.add_argument('--target', t
 ap.add_argument('--users', type=int, default=600)
 a = ap.parse_args(); os.makedirs(a.work, exist_ok=True)
 con = duckdb.connect(); con.execute("PRAGMA threads=4")
-src = os.path.join(a.extract, 'year=2023', '*.parquet')
+src = os.path.join(a.extract, 'year=2023', 'part-*.parquet')
 con.execute(f"create table pool as select user_id, count(*) n from '{src}' where not is_dup group by 1 having count(*) between 2000 and 40000")
-print('pool', con.sql('select count(*) from pool').fetchone()[0], 'users')
+print('pool', con.execute('select count(*) from pool').fetchone()[0], 'users')
 con.execute(f"create table picked as select user_id, n from pool order by hash(user_id::varchar || '-{a.seed}'), user_id limit {a.users}")
-total = con.sql('select sum(n) from picked').fetchone()[0]; f = a.target / total
+total = con.execute('select sum(n) from picked').fetchone()[0]; f = a.target / total
 print('picked', a.users, 'users with', total, 'listens in 2023; fraction', round(f, 6))
 con.execute(f"""create table sample as
   select user_id, ts, artist_name, track_name, release_name, recording_mbid, release_mbid, artist_mbid, ms_played, duration_ms, n as user_listens_2023
@@ -32,4 +32,4 @@ con.execute(f"""create table sample as
         from '{src}' e join picked p using(user_id) where not e.is_dup)
   where (hash(user_id::varchar || '-' || ts || '-' || coalesce(artist_name, '') || '-' || coalesce(track_name, '') || '-' || rn || '-{a.seed}') % 1000000) / 1000000.0 < {f}""")
 con.execute(f"copy (select * from sample order by user_id, ts) to '{os.path.join(a.work, 'sample_listens.parquet')}' (format parquet)")
-print('rows', con.sql('select count(*) from sample').fetchone()[0], 'users', con.sql('select count(distinct user_id) from sample').fetchone()[0])
+print('rows', con.execute('select count(*) from sample').fetchone()[0], 'users', con.execute('select count(distinct user_id) from sample').fetchone()[0])
