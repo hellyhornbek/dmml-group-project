@@ -1,6 +1,0 @@
-This is a placeholder text file. The real file is too large for git and stays on Hans's computer.
-
-File: year=2011/part-000105.parquet
-Size: 30 MB
-Rows (listens): 382,293
-Content: listens of the cohort users, one row per listen. Columns are listed in Reports/04_Extract/ListenBrainz_extract.docx.
